@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.9.0:model_id=46502:lm=none:date=14_01_2023_16:15</Creator>
+        <Created>2023-01-14T12:47:27.191+01:00</Created>
+        <LastChange>2023-01-30T13:27:40.846+01:00</LastChange>
+        <TranskribusMetadata docId="1314922" pageId="51971923" pageNr="37" tsid="112305686" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=VRBRRWCURKEOJFQWOTDRUNYR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KFBKMZZYEIRXITKLKJSSOOBE" imageId="42173564"/>
+    </Metadata>
+    <Page imageFilename="ÖNB Wien 1180-1199 - Cod. 12600-0037.jpg" imageWidth="2644" imageHeight="3741">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1675084281536" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1673779812259_933"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1673779812259_933" custom="readingOrder {index:0;}">
+            <Coords points="531,287 2490,287 2490,663 2481,3040 2203,3040 501,2983 501,2410 501,1917 507,1156"/>
+            <TextLine id="tr_7_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="528,375 2423,357 2423,269 2029,333 528,296"/>
+                <Baseline points="540,355 549,355 594,358 638,358 683,355 728,355 773,355 818,355 862,355 907,355 952,355 997,358 1041,355 1086,358 1131,361 1176,361 1221,361 1265,361 1310,358 1355,358 1400,358 1445,358 1489,358 1534,361 1579,361 1624,361 1668,364 1713,367 1758,367 1803,367 1848,367 1892,370 1937,367 1982,367 2027,367 2072,367 2116,367 2161,364 2206,364 2251,358 2295,355 2340,352 2385,346 2430,337"/>
+                <TextEquiv>
+                    <Unicode>tutina uentum significant imbrem meridiana Nubes cum sereno in celum feruntur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="532,431 2485,422 2485,338 532,372"/>
+                <Baseline points="546,423 564,420 609,420 653,420 698,417 743,417 788,417 832,417 877,420 922,420 967,420 1012,420 1056,420 1101,423 1146,423 1191,426 1236,426 1280,423 1325,423 1370,423 1415,423 1459,420 1504,420 1549,420 1594,423 1639,423 1683,423 1728,423 1773,423 1818,426 1863,426 1907,426 1952,426 1997,426 2042,426 2086,426 2131,423 2176,423 2221,423 2266,417 2310,417 2355,415 2400,412 2445,406 2490,400"/>
+                <TextEquiv>
+                    <Unicode>ex quacumque parte id fiet uenti expectentur Si eodem loco globabuntur ad propinquatique</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="530,481 2477,461 2460,409 530,431"/>
+                <Baseline points="543,474 558,474 603,471 647,474 692,474 737,471 782,471 827,471 871,471 916,471 961,474 1006,471 1050,477 1095,477 1140,480 1185,483 1230,483 1274,480 1319,480 1364,477 1409,477 1454,477 1498,477 1543,477 1588,477 1633,477 1677,477 1722,477 1767,480 1812,480 1857,483 1901,480 1946,480 1991,477 2036,480 2080,477 2125,477 2170,474 2215,474 2260,474 2304,471 2349,468 2394,465 2439,459 2484,450"/>
+                <TextEquiv>
+                    <Unicode>solo discutientur et hoc ab aquilone fiet uentos si ab austro imbres portendent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="518,535 2450,520 2450,468 518,488"/>
+                <Baseline points="531,522 573,525 618,525 662,525 707,525 752,525 797,525 841,525 886,528 931,525 976,528 1021,528 1065,531 1110,534 1155,537 1200,534 1245,534 1289,534 1334,531 1379,531 1424,531 1468,531 1513,531 1558,531 1603,534 1648,531 1692,531 1737,531 1782,534 1827,534 1871,537 1916,537 1961,534 2006,534 2051,534 2095,534 2140,534 2185,534 2230,531 2275,525 2319,525 2364,519 2409,516 2454,507"/>
+                <TextEquiv>
+                    <Unicode>Sole occidente si ex utraque parte eius celum petent tempestatem significabunt uehe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="532,589 2430,577 2430,523 532,542"/>
+                <Baseline points="546,576 555,576 600,576 644,576 689,579 734,579 779,579 824,579 868,582 913,582 958,585 1003,585 1047,588 1092,588 1137,591 1182,591 1227,591 1271,588 1316,588 1361,588 1406,585 1451,588 1495,588 1540,588 1585,591 1630,591 1674,591 1719,591 1764,594 1809,594 1854,594 1898,594 1943,594 1988,594 2033,594 2078,591 2122,594 2167,594 2212,594 2257,591 2301,588 2346,585 2391,576 2436,570"/>
+                <TextEquiv>
+                    <Unicode>mentius atrę ab oriente in noctem aquam minantur ab occidente in posterum diem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="523,651 2438,646 2438,589 523,606"/>
+                <Baseline points="537,629 564,632 609,632 653,632 698,635 743,632 788,635 832,635 877,641 922,641 967,644 1012,644 1056,647 1101,647 1146,650 1191,650 1236,650 1280,650 1325,647 1370,644 1415,644 1459,644 1504,644 1549,647 1594,647 1639,647 1683,647 1728,650 1773,653 1818,653 1863,653 1907,653 1952,653 1997,653 2042,650 2086,650 2131,650 2176,650 2221,650 2266,647 2310,647 2355,641 2400,635 2445,626"/>
+                <TextEquiv>
+                    <Unicode>Si nubes ut uellera lanae spargentur multę ab oriente in triduum aquam pre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:6;}">
+                <Coords points="532,710 2416,707 2416,656 532,653"/>
+                <Baseline points="546,692 591,692 635,692 680,692 725,692 770,695 815,695 859,698 904,701 949,704 994,704 1039,707 1083,707 1128,707 1173,707 1218,710 1262,707 1307,707 1352,704 1397,704 1442,704 1486,704 1531,704 1576,707 1621,707 1665,707 1710,710 1755,710 1800,710 1845,710 1889,713 1934,713 1979,710 2024,710 2069,707 2113,707 2158,707 2203,707 2248,707 2292,704 2337,701 2382,695 2421,692"/>
+                <TextEquiv>
+                    <Unicode>sagient Cum in cacuminibus montium nubes consident hiemabit Si cacumina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:7;}">
+                <Coords points="520,781 2435,769 2435,693 520,707"/>
+                <Baseline points="534,749 561,749 606,755 650,755 695,752 740,755 785,755 830,758 874,758 919,761 964,764 1009,764 1053,767 1098,767 1143,767 1188,770 1233,770 1277,767 1322,767 1367,764 1412,764 1456,764 1501,764 1546,767 1591,767 1636,767 1680,770 1725,770 1770,770 1815,770 1860,770 1904,767 1949,770 1994,770 2039,767 2083,767 2128,767 2173,767 2218,764 2263,764 2307,764 2352,758 2397,749 2442,746"/>
+                <TextEquiv>
+                    <Unicode>pura fient disserenabit Nube grauida candicante quod uocant tempestatem albam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:8;}">
+                <Coords points="520,823 2443,826 2443,757 520,776"/>
+                <Baseline points="534,812 567,815 612,815 656,812 701,812 746,815 791,818 835,821 880,821 925,821 970,824 1015,827 1059,830 1104,830 1149,830 1194,830 1239,830 1283,830 1328,830 1373,830 1418,830 1462,830 1507,830 1552,830 1597,830 1642,830 1686,832 1731,830 1776,830 1821,830 1866,832 1910,832 1955,832 2000,830 2045,830 2089,830 2134,827 2179,830 2224,827 2269,827 2313,824 2358,818 2403,812 2448,809"/>
+                <TextEquiv>
+                    <Unicode>grando inminebit Celo quamuis a sereno nubecula quamuis parua flatum procel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:9;}">
+                <Coords points="508,878 2413,892 2411,823 508,831"/>
+                <Baseline points="522,871 537,871 582,871 626,871 671,871 716,871 761,874 806,874 850,874 895,877 940,877 985,880 1030,883 1074,886 1119,886 1164,886 1209,886 1253,886 1298,883 1343,886 1388,886 1433,886 1477,886 1522,886 1567,889 1612,886 1657,889 1701,889 1746,889 1791,889 1836,889 1880,889 1925,889 1970,889 2015,889 2060,889 2104,889 2149,886 2194,886 2239,886 2284,883 2328,880 2373,877 2418,868"/>
+                <TextEquiv>
+                    <Unicode>losum dabit Nebulę montibus descendentes aut celo candentes uel in uallibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:10;}">
+                <Coords points="587,944 1092,966 1410,944 1408,905 1368,895 584,880"/>
+                <Baseline points="597,928 641,928 686,928 731,928 776,928 821,928 865,931 910,934 955,934 1000,937 1044,937 1089,940 1134,940 1179,943 1224,943 1268,943 1313,943 1358,940 1403,937 1415,937"/>
+                <TextEquiv>
+                    <Unicode>sedentes serenitatem promittent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:11;}">
+                <Coords points="574,996 2403,1003 2374,939 574,951"/>
+                <Baseline points="588,982 632,979 677,979 722,979 767,982 812,985 856,988 901,991 946,991 991,994 1036,994 1080,997 1125,997 1170,997 1215,1000 1259,1000 1304,1000 1349,1000 1394,997 1439,1000 1483,1003 1528,1003 1573,1003 1618,1003 1662,1003 1707,1003 1752,1003 1797,1003 1842,1006 1886,1006 1931,1003 1976,1003 2021,1003 2066,1003 2110,1003 2155,1003 2200,1000 2245,1000 2289,997 2334,991 2379,991 2409,985"/>
+                <TextEquiv>
+                    <Unicode>Ab his terreni ignes proxime significant Pallidi namque murmurantesque tempe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:12;}">
+                <Coords points="520,1048 2460,1048 2445,996 520,996"/>
+                <Baseline points="534,1036 540,1036 585,1036 629,1036 674,1039 719,1041 764,1041 809,1044 853,1047 898,1050 943,1050 988,1053 1033,1053 1077,1053 1122,1053 1167,1053 1212,1056 1256,1056 1301,1056 1346,1056 1391,1056 1436,1056 1480,1059 1525,1059 1570,1059 1615,1062 1660,1062 1704,1062 1749,1062 1794,1062 1839,1062 1883,1062 1928,1059 1973,1062 2018,1062 2063,1062 2107,1059 2152,1062 2197,1059 2242,1059 2286,1053 2331,1050 2376,1047 2421,1039 2466,1033"/>
+                <TextEquiv>
+                    <Unicode>statum metii nuntii sentiuntur pluuię iam si in lucernis fungi si flexuose uolitet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:13;}">
+                <Coords points="510,1117 2445,1109 2359,1053 510,1050"/>
+                <Baseline points="525,1095 570,1098 615,1098 659,1098 704,1098 749,1101 794,1101 838,1104 883,1107 928,1107 973,1110 1018,1113 1062,1113 1107,1110 1152,1113 1197,1113 1242,1113 1286,1116 1331,1119 1376,1119 1421,1119 1465,1119 1510,1119 1555,1119 1600,1119 1645,1119 1689,1119 1734,1116 1779,1119 1824,1119 1869,1119 1913,1119 1958,1119 2003,1119 2048,1119 2092,1119 2137,1122 2182,1119 2227,1119 2272,1116 2316,1113 2361,1110 2406,1104 2451,1098 2454,1095"/>
+                <TextEquiv>
+                    <Unicode>flamma uentum et lumina cum ex sese flammas elidunt aut uix accenduntur Item</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:14;}">
+                <Coords points="518,1163 2440,1171 2438,1109 518,1114"/>
+                <Baseline points="531,1149 576,1152 621,1152 665,1155 710,1158 755,1158 800,1161 844,1161 889,1164 934,1167 979,1167 1024,1167 1068,1167 1113,1167 1158,1167 1203,1167 1247,1167 1292,1170 1337,1173 1382,1173 1427,1173 1471,1176 1516,1176 1561,1176 1606,1179 1651,1179 1695,1176 1740,1176 1785,1176 1830,1176 1874,1176 1919,1176 1964,1176 2009,1176 2054,1176 2098,1179 2143,1179 2188,1179 2233,1176 2278,1173 2322,1170 2367,1164 2412,1158 2445,1152"/>
+                <TextEquiv>
+                    <Unicode>cum in aeno pendente scintillę coaceruantur uel cum tollentibus ollas carbo adhere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:15;}">
+                <Coords points="515,1232 2450,1220 2450,1166 515,1159"/>
+                <Baseline points="528,1212 531,1209 576,1209 621,1212 665,1215 710,1215 755,1215 800,1215 844,1218 889,1221 934,1221 979,1224 1024,1224 1068,1224 1113,1224 1158,1227 1203,1227 1247,1227 1292,1230 1337,1233 1382,1233 1427,1236 1471,1233 1516,1233 1561,1233 1606,1236 1651,1236 1695,1233 1740,1233 1785,1233 1830,1233 1874,1233 1919,1233 1964,1230 2009,1230 2054,1230 2098,1230 2143,1233 2188,1233 2233,1230 2278,1227 2322,1224 2367,1218 2412,1212 2457,1206"/>
+                <TextEquiv>
+                    <Unicode>scit aut cum contentus est ignis fauillam discutit scintillamue emittit uel cum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:16;}">
+                <Coords points="503,1279 2130,1331 2438,1279 2389,1230 503,1232"/>
+                <Baseline points="516,1271 519,1271 564,1274 609,1274 653,1277 698,1280 743,1280 788,1280 832,1280 877,1283 922,1283 967,1280 1012,1283 1056,1283 1101,1283 1146,1286 1191,1286 1236,1289 1280,1289 1325,1289 1370,1289 1415,1292 1459,1292 1504,1292 1549,1292 1594,1295 1639,1292 1683,1292 1728,1292 1773,1292 1818,1292 1863,1292 1907,1292 1952,1289 1997,1289 2042,1292 2086,1292 2131,1292 2176,1289 2221,1289 2266,1286 2310,1280 2355,1277 2400,1271 2445,1262"/>
+                <TextEquiv>
+                    <Unicode>cinis in foco concrescit et carbo uehementer perlucet Est et aquarum significatio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:17;}">
+                <Coords points="500,1343 1331,1388 2470,1336 2470,1269 2130,1334 500,1294"/>
+                <Baseline points="513,1325 549,1328 594,1331 638,1334 683,1334 728,1340 773,1340 818,1340 862,1337 907,1337 952,1337 997,1337 1041,1337 1086,1337 1131,1337 1176,1337 1221,1337 1265,1340 1310,1340 1355,1343 1400,1349 1445,1349 1489,1352 1534,1352 1579,1352 1624,1352 1668,1352 1713,1352 1758,1352 1803,1352 1848,1352 1892,1352 1937,1349 1982,1349 2027,1349 2072,1349 2116,1352 2161,1352 2206,1349 2251,1346 2295,1340 2340,1337 2385,1331 2430,1322 2475,1313"/>
+                <TextEquiv>
+                    <Unicode>Mare si tranquillum in portu cursitabit murmurabitue intra se uentum praedicit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:18;}">
+                <Coords points="503,1398 2448,1405 2448,1343 503,1343"/>
+                <Baseline points="516,1388 561,1391 606,1394 650,1397 695,1397 740,1397 785,1397 830,1397 874,1397 919,1397 964,1400 1009,1400 1053,1403 1098,1403 1143,1403 1188,1403 1233,1403 1277,1403 1322,1406 1367,1406 1412,1412 1456,1415 1501,1415 1546,1415 1591,1418 1636,1418 1680,1418 1725,1418 1770,1415 1815,1415 1860,1415 1904,1415 1949,1412 1994,1412 2039,1415 2083,1415 2128,1415 2173,1412 2218,1412 2263,1409 2307,1403 2352,1400 2397,1397 2442,1388 2454,1391"/>
+                <TextEquiv>
+                    <Unicode>Si id hieme et imbrem Littora ripeque si resonant tranquillo asperam tempestatem Item maris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:19;}">
+                <Coords points="505,1444 1649,1506 2453,1457 2450,1405 505,1403"/>
+                <Baseline points="519,1439 564,1442 609,1445 653,1448 698,1448 743,1448 788,1448 832,1448 877,1451 922,1451 967,1454 1012,1456 1056,1456 1101,1454 1146,1456 1191,1459 1236,1459 1280,1459 1325,1459 1370,1462 1415,1465 1459,1468 1504,1468 1549,1471 1594,1474 1639,1477 1683,1477 1728,1474 1773,1474 1818,1471 1863,1471 1907,1471 1952,1468 1997,1468 2042,1471 2086,1471 2131,1471 2176,1471 2221,1468 2266,1468 2310,1465 2355,1459 2400,1456 2445,1451 2460,1448"/>
+                <TextEquiv>
+                    <Unicode>ipsius tranquillus sonitus spumęuę disperse aut aque bullantes pulmonesue mari</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:20;}">
+                <Coords points="505,1511 2438,1516 2438,1462 505,1467"/>
+                <Baseline points="519,1495 564,1498 609,1501 653,1501 698,1507 743,1507 788,1507 832,1507 877,1507 922,1507 967,1510 1012,1510 1056,1513 1101,1513 1146,1516 1191,1516 1236,1513 1280,1516 1325,1516 1370,1516 1415,1519 1459,1522 1504,1525 1549,1525 1594,1528 1639,1531 1683,1531 1728,1528 1773,1525 1818,1525 1863,1525 1907,1525 1952,1525 1997,1525 2042,1525 2086,1528 2131,1525 2176,1525 2221,1525 2266,1522 2310,1519 2355,1516 2400,1513 2445,1507"/>
+                <TextEquiv>
+                    <Unicode>ni in pelago plurimum dierum hiemem portendunt Sepe et silentio intumescit infla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:21;}">
+                <Coords points="503,1568 2435,1585 2435,1518 503,1504"/>
+                <Baseline points="516,1555 561,1558 606,1561 650,1564 695,1564 740,1564 785,1564 830,1564 874,1564 919,1564 964,1564 1009,1564 1053,1567 1098,1567 1143,1567 1188,1567 1233,1570 1277,1570 1322,1570 1367,1570 1412,1573 1456,1573 1501,1576 1546,1579 1591,1579 1636,1588 1680,1588 1725,1585 1770,1585 1815,1582 1860,1585 1904,1582 1949,1582 1994,1582 2039,1582 2083,1582 2128,1582 2173,1579 2218,1576 2263,1576 2307,1573 2352,1567 2397,1561 2442,1558 2445,1555"/>
+                <TextEquiv>
+                    <Unicode>tumque altius solito iam intra se esse uentos fatetur et quidam et montium sonitus nemorumque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:22;}">
+                <Coords points="500,1620 2438,1632 2398,1573 500,1568"/>
+                <Baseline points="513,1612 558,1615 603,1615 647,1618 692,1618 737,1618 782,1621 827,1621 871,1621 916,1621 961,1621 1006,1624 1050,1624 1095,1627 1140,1627 1185,1627 1230,1627 1274,1630 1319,1633 1364,1633 1409,1633 1454,1633 1498,1633 1543,1639 1588,1642 1633,1645 1677,1645 1722,1645 1767,1645 1812,1645 1857,1645 1901,1645 1946,1642 1991,1642 2036,1645 2080,1645 2125,1645 2170,1642 2215,1639 2260,1639 2304,1636 2349,1630 2394,1627 2439,1621 2445,1618"/>
+                <TextEquiv>
+                    <Unicode>mugitus praedicunt et sine aura que sentiatur folia ludentia lanugo populi aut spine uoli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:23;}">
+                <Coords points="503,1686 2438,1698 2438,1632 503,1622"/>
+                <Baseline points="516,1671 561,1671 606,1674 650,1677 695,1677 740,1677 785,1677 830,1677 874,1680 919,1680 964,1680 1009,1683 1053,1683 1098,1683 1143,1686 1188,1686 1233,1686 1277,1689 1322,1689 1367,1692 1412,1695 1456,1695 1501,1695 1546,1695 1591,1698 1636,1701 1680,1704 1725,1704 1770,1701 1815,1698 1860,1698 1904,1698 1949,1701 1994,1701 2039,1701 2083,1698 2128,1698 2173,1698 2218,1695 2263,1692 2307,1689 2352,1686 2397,1680 2442,1674 2445,1674"/>
+                <TextEquiv>
+                    <Unicode>tans aquisque plumę innatantes atque et iam in campanis uenturam tempestatem praedicens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:24;}">
+                <Coords points="503,1760 2411,1760 2411,1689 503,1686"/>
+                <Baseline points="516,1731 561,1731 606,1734 650,1737 695,1737 740,1737 785,1737 830,1737 874,1740 919,1740 964,1740 1009,1740 1053,1743 1098,1743 1143,1743 1188,1746 1233,1746 1277,1749 1322,1749 1367,1752 1412,1749 1456,1749 1501,1752 1546,1755 1591,1755 1636,1755 1680,1758 1725,1758 1770,1755 1815,1755 1860,1755 1904,1755 1949,1758 1994,1758 2039,1761 2083,1761 2128,1758 2173,1755 2218,1755 2263,1752 2307,1746 2352,1743 2397,1737 2415,1734"/>
+                <TextEquiv>
+                    <Unicode>suus fragor celi quidem murmur non dubiam significationem habet Praesagiunt et ani</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:25;}">
+                <Coords points="495,1807 2430,1819 2428,1748 495,1762"/>
+                <Baseline points="510,1788 555,1794 600,1794 644,1794 689,1794 734,1794 779,1797 824,1800 868,1800 913,1800 958,1800 1003,1800 1047,1800 1092,1800 1137,1803 1182,1803 1227,1806 1271,1806 1316,1809 1361,1812 1406,1815 1451,1815 1495,1815 1540,1815 1585,1812 1630,1815 1674,1818 1719,1815 1764,1818 1809,1818 1854,1818 1898,1818 1943,1818 1988,1821 2033,1821 2078,1818 2122,1818 2167,1815 2212,1815 2257,1812 2301,1809 2346,1806 2391,1797 2433,1791"/>
+                <TextEquiv>
+                    <Unicode>malia delphini tranquillo mari lasciuientes flatum ex qua uenient parte Item</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:26;}">
+                <Coords points="500,1864 2438,1878 2416,1814 500,1809"/>
+                <Baseline points="513,1851 558,1851 603,1851 647,1851 692,1851 737,1854 782,1854 827,1854 871,1857 916,1857 961,1857 1006,1857 1050,1857 1095,1860 1140,1863 1185,1863 1230,1863 1274,1866 1319,1866 1364,1869 1409,1869 1454,1871 1498,1871 1543,1871 1588,1871 1633,1871 1677,1871 1722,1874 1767,1874 1812,1877 1857,1874 1901,1874 1946,1877 1991,1877 2036,1877 2080,1877 2125,1877 2170,1877 2215,1877 2260,1874 2304,1871 2349,1866 2394,1863 2439,1857 2445,1854"/>
+                <TextEquiv>
+                    <Unicode>spargentes aquam idem turbato tranquillitatem lulligo uolitans conchę adhere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:27;}">
+                <Coords points="493,1933 2430,1933 2389,1864 493,1864"/>
+                <Baseline points="507,1904 552,1907 597,1907 641,1907 686,1907 731,1913 776,1913 821,1913 865,1913 910,1913 955,1913 1000,1913 1044,1916 1089,1916 1134,1919 1179,1922 1224,1925 1268,1925 1313,1925 1358,1925 1403,1928 1448,1928 1492,1928 1537,1931 1582,1931 1627,1931 1671,1931 1716,1931 1761,1931 1806,1931 1851,1934 1895,1931 1940,1934 1985,1934 2030,1934 2075,1934 2119,1937 2164,1934 2209,1934 2254,1931 2298,1925 2343,1922 2388,1919 2433,1913 2436,1913"/>
+                <TextEquiv>
+                    <Unicode>scente echini adfigentes sese aut harena suburrantes tempestatis signa sunt Ra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_1" custom="readingOrder {index:28;}">
+                <Coords points="495,1977 2411,1992 2386,1928 495,1940"/>
+                <Baseline points="510,1967 555,1967 600,1970 644,1973 689,1973 734,1973 779,1976 824,1976 868,1976 913,1979 958,1979 1003,1979 1047,1982 1092,1982 1137,1985 1182,1985 1227,1985 1271,1985 1316,1988 1361,1991 1406,1991 1451,1991 1495,1991 1540,1991 1585,1991 1630,1991 1674,1991 1719,1991 1764,1991 1809,1994 1854,1994 1898,1997 1943,1997 1988,1997 2033,1997 2078,1997 2122,1997 2167,1997 2212,1997 2257,1997 2301,1991 2346,1988 2391,1982 2418,1979"/>
+                <TextEquiv>
+                    <Unicode>nae quoque ultra solitum uocales et fulicę matutino clangore ltem mergi anatesque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_2" custom="readingOrder {index:29;}">
+                <Coords points="508,2053 2416,2053 2389,1987 508,1982"/>
+                <Baseline points="522,2027 567,2030 612,2033 656,2033 701,2033 746,2033 791,2033 835,2033 880,2036 925,2036 970,2036 1015,2039 1059,2039 1104,2039 1149,2045 1194,2045 1239,2048 1283,2051 1328,2051 1373,2048 1418,2051 1462,2048 1507,2051 1552,2051 1597,2051 1642,2051 1686,2051 1731,2051 1776,2054 1821,2054 1866,2057 1910,2057 1955,2057 2000,2054 2045,2057 2089,2057 2134,2057 2179,2057 2224,2054 2269,2051 2313,2048 2358,2042 2403,2036 2421,2033"/>
+                <TextEquiv>
+                    <Unicode>pennas rostro purgantes uentum ceteręque aquaticę aues conuersantes Grues in mediterra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_3" custom="readingOrder {index:30;}">
+                <Coords points="488,2103 2428,2115 2428,2048 488,2051"/>
+                <Baseline points="501,2089 546,2092 591,2092 635,2095 680,2095 725,2098 770,2101 815,2101 859,2101 904,2104 949,2104 994,2101 1039,2104 1083,2107 1128,2107 1173,2110 1218,2110 1262,2113 1307,2113 1352,2110 1397,2113 1442,2113 1486,2110 1531,2113 1576,2113 1621,2110 1665,2113 1710,2113 1755,2113 1800,2116 1845,2116 1889,2116 1934,2113 1979,2113 2024,2113 2069,2113 2113,2116 2158,2116 2203,2116 2248,2113 2292,2110 2337,2104 2382,2098 2427,2095 2433,2095"/>
+                <TextEquiv>
+                    <Unicode>nea festinantes mergi cauiae maria aut stagna fugientes Grues silentio per subli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_4" custom="readingOrder {index:31;}">
+                <Coords points="488,2174 2460,2169 2460,2100 488,2132"/>
+                <Baseline points="501,2155 540,2155 585,2158 629,2161 674,2161 719,2161 764,2164 809,2164 853,2164 898,2164 943,2167 988,2167 1033,2167 1077,2167 1122,2170 1167,2170 1212,2170 1256,2170 1301,2170 1346,2170 1391,2170 1436,2170 1480,2170 1525,2173 1570,2173 1615,2170 1660,2170 1704,2173 1749,2173 1794,2173 1839,2173 1883,2176 1928,2176 1973,2176 2018,2176 2063,2173 2107,2170 2152,2173 2197,2170 2242,2167 2286,2167 2331,2161 2376,2155 2421,2146 2466,2143"/>
+                <TextEquiv>
+                    <Unicode>me uolantes serenitatem sicut noctua in imbre garrula aut sereno tempestatem Coruique</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_5" custom="readingOrder {index:32;}">
+                <Coords points="491,2233 2110,2263 2418,2248 2416,2184 488,2172"/>
+                <Baseline points="501,2215 546,2215 591,2212 635,2215 680,2218 725,2218 770,2221 815,2221 859,2221 904,2221 949,2224 994,2227 1039,2227 1083,2227 1128,2227 1173,2230 1218,2230 1262,2230 1307,2230 1352,2230 1397,2230 1442,2230 1486,2230 1531,2230 1576,2230 1621,2230 1665,2230 1710,2230 1755,2233 1800,2236 1845,2236 1889,2239 1934,2239 1979,2239 2024,2239 2069,2239 2113,2236 2158,2236 2203,2236 2248,2233 2292,2230 2337,2227 2382,2221 2421,2215"/>
+                <TextEquiv>
+                    <Unicode>singultu quodam latrantes seque concutientes si continuabunt Si uero captim uocem re</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_6" custom="readingOrder {index:33;}">
+                <Coords points="488,2283 2061,2320 2406,2305 2458,2231 486,2233"/>
+                <Baseline points="501,2278 540,2275 585,2275 629,2275 674,2275 719,2275 764,2278 809,2278 853,2278 898,2278 943,2278 988,2281 1033,2284 1077,2284 1122,2284 1167,2284 1212,2284 1256,2284 1301,2286 1346,2284 1391,2284 1436,2284 1480,2286 1525,2289 1570,2289 1615,2289 1660,2292 1704,2292 1749,2295 1794,2295 1839,2295 1883,2295 1928,2298 1973,2298 2018,2298 2063,2301 2107,2295 2152,2292 2197,2289 2242,2289 2286,2289 2331,2289 2376,2286 2421,2284 2466,2272"/>
+                <TextEquiv>
+                    <Unicode>sorbebunt uentosum imbrem Graculi sero a pabulo recedentes hiemem et albae aues</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_7" custom="readingOrder {index:34;}">
+                <Coords points="495,2347 2448,2349 2448,2288 495,2290"/>
+                <Baseline points="510,2328 555,2331 600,2328 644,2331 689,2331 734,2334 779,2337 824,2337 868,2337 913,2337 958,2340 1003,2340 1047,2340 1092,2343 1137,2343 1182,2343 1227,2343 1271,2346 1316,2346 1361,2346 1406,2346 1451,2346 1495,2349 1540,2352 1585,2352 1630,2352 1674,2355 1719,2355 1764,2358 1809,2358 1854,2358 1898,2358 1943,2355 1988,2355 2033,2355 2078,2355 2122,2352 2167,2349 2212,2346 2257,2346 2301,2346 2346,2346 2391,2343 2436,2340 2454,2337"/>
+                <TextEquiv>
+                    <Unicode>cum congregabuntur et cum terrestres uolucres contra aquam clangores dabunt perfundentes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_8" custom="readingOrder {index:35;}">
+                <Coords points="493,2423 2416,2413 2416,2354 493,2352"/>
+                <Baseline points="507,2391 552,2394 597,2394 641,2391 686,2394 731,2397 776,2397 821,2400 865,2403 910,2403 955,2403 1000,2406 1044,2406 1089,2409 1134,2409 1179,2409 1224,2409 1268,2409 1313,2409 1358,2412 1403,2412 1448,2412 1492,2412 1537,2415 1582,2418 1627,2418 1671,2418 1716,2418 1761,2418 1806,2418 1851,2418 1895,2418 1940,2418 1985,2415 2030,2412 2075,2412 2119,2409 2164,2406 2209,2406 2254,2403 2298,2406 2343,2406 2388,2403 2421,2400"/>
+                <TextEquiv>
+                    <Unicode>que sese sed maxime cornix Hirundo tam iuxta aquam uolitans ut penna sepe percu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:36;}">
+                <Coords points="488,2480 2445,2475 2426,2416 488,2428"/>
+                <Baseline points="501,2460 546,2463 591,2460 635,2463 680,2463 725,2463 770,2463 815,2466 859,2469 904,2472 949,2472 994,2475 1039,2475 1083,2475 1128,2478 1173,2481 1218,2484 1262,2484 1307,2484 1352,2481 1397,2484 1442,2484 1486,2484 1531,2487 1576,2487 1621,2487 1665,2487 1710,2487 1755,2487 1800,2487 1845,2487 1889,2487 1934,2484 1979,2481 2024,2478 2069,2478 2113,2475 2158,2475 2203,2472 2248,2472 2292,2472 2337,2472 2382,2469 2427,2466 2448,2463"/>
+                <TextEquiv>
+                    <Unicode>tiat Queque in arboribus habitant fugitantes in nidis suis et anseres continuo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:37;}">
+                <Coords points="488,2536 2445,2541 2342,2485 488,2477"/>
+                <Baseline points="501,2519 546,2519 591,2522 635,2522 680,2522 725,2522 770,2522 815,2525 859,2525 904,2528 949,2528 994,2531 1039,2531 1083,2534 1128,2534 1173,2537 1218,2540 1262,2543 1307,2543 1352,2543 1397,2543 1442,2543 1486,2546 1531,2546 1576,2546 1621,2546 1665,2546 1710,2546 1755,2546 1800,2546 1845,2543 1889,2543 1934,2543 1979,2540 2024,2537 2069,2534 2113,2534 2158,2534 2203,2534 2248,2537 2292,2537 2337,2540 2382,2537 2427,2531 2451,2528"/>
+                <TextEquiv>
+                    <Unicode>clangore intempestiua Ardea in mediis harenis tristis Nec mirum aquaticas aut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:38;}">
+                <Coords points="491,2603 2472,2606 2472,2549 491,2544"/>
+                <Baseline points="504,2582 549,2585 594,2585 638,2588 683,2588 728,2591 773,2591 818,2591 862,2594 907,2594 952,2597 997,2597 1041,2597 1086,2600 1131,2603 1176,2606 1221,2606 1265,2609 1310,2612 1355,2612 1400,2612 1445,2612 1489,2612 1534,2612 1579,2609 1624,2609 1668,2606 1713,2606 1758,2606 1803,2606 1848,2603 1892,2603 1937,2600 1982,2600 2027,2600 2072,2600 2116,2600 2161,2600 2206,2600 2251,2603 2295,2603 2340,2603 2385,2600 2430,2594 2475,2588"/>
+                <TextEquiv>
+                    <Unicode>in totum uolucres praesagia aeris sentire Pecora exultantia et indecora lasciuia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:39;}">
+                <Coords points="491,2662 2443,2670 2428,2603 491,2593"/>
+                <Baseline points="504,2648 549,2648 594,2651 638,2654 683,2654 728,2657 773,2657 818,2660 862,2660 907,2660 952,2660 997,2660 1041,2663 1086,2666 1131,2666 1176,2669 1221,2672 1265,2672 1310,2675 1355,2672 1400,2672 1445,2672 1489,2669 1534,2669 1579,2666 1624,2666 1668,2666 1713,2666 1758,2666 1803,2666 1848,2666 1892,2663 1937,2663 1982,2663 2027,2663 2072,2663 2116,2663 2161,2663 2206,2663 2251,2663 2295,2663 2340,2663 2385,2660 2430,2654 2448,2651"/>
+                <TextEquiv>
+                    <Unicode>ludentia easdem significationes habent et boues cęlum olfactantes seque lambentes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:40;}">
+                <Coords points="488,2739 2463,2721 2413,2662 488,2670"/>
+                <Baseline points="501,2701 546,2704 591,2707 635,2707 680,2710 725,2713 770,2716 815,2719 859,2719 904,2719 949,2719 994,2719 1039,2722 1083,2722 1128,2725 1173,2725 1218,2728 1262,2728 1307,2728 1352,2728 1397,2728 1442,2725 1486,2725 1531,2725 1576,2722 1621,2722 1665,2722 1710,2722 1755,2722 1800,2722 1845,2722 1889,2722 1934,2722 1979,2719 2024,2719 2069,2722 2113,2719 2158,2719 2203,2719 2248,2719 2292,2722 2337,2719 2382,2716 2427,2710 2469,2701"/>
+                <TextEquiv>
+                    <Unicode>contra pilum Turpesque porci alienos sibi manipulos feni lacerantes segniterue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:41;}">
+                <Coords points="503,2781 2406,2805 2406,2729 503,2719"/>
+                <Baseline points="516,2761 561,2767 606,2767 650,2770 695,2773 740,2776 785,2779 830,2779 874,2782 919,2782 964,2782 1009,2782 1053,2782 1098,2782 1143,2782 1188,2782 1233,2785 1277,2782 1322,2782 1367,2782 1412,2782 1456,2782 1501,2782 1546,2782 1591,2782 1636,2782 1680,2782 1725,2782 1770,2782 1815,2782 1860,2782 1904,2779 1949,2779 1994,2779 2039,2779 2083,2779 2128,2779 2173,2779 2218,2779 2263,2779 2307,2779 2352,2779 2397,2773 2412,2773"/>
+                <TextEquiv>
+                    <Unicode>et contra industriam suam abscondite uel formicę concursitantes aut oua progerentes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:42;}">
+                <Coords points="491,2847 2411,2854 2411,2795 491,2781"/>
+                <Baseline points="504,2830 549,2830 594,2830 638,2830 683,2833 728,2836 773,2839 818,2842 862,2845 907,2845 952,2848 997,2848 1041,2845 1086,2848 1131,2845 1176,2845 1221,2848 1265,2848 1310,2845 1355,2848 1400,2848 1445,2848 1489,2848 1534,2848 1579,2848 1624,2848 1668,2848 1713,2848 1758,2848 1803,2848 1848,2851 1892,2851 1937,2848 1982,2845 2027,2848 2072,2845 2116,2845 2161,2845 2206,2845 2251,2845 2295,2845 2340,2842 2385,2842 2415,2839"/>
+                <TextEquiv>
+                    <Unicode>Item uermes terreni erumpentes Trifolium quoque inhorrescere et folia contra tem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:43;}">
+                <Coords points="500,2904 2423,2906 2295,2850 500,2850"/>
+                <Baseline points="513,2884 558,2887 603,2887 647,2887 692,2890 737,2893 782,2896 827,2899 871,2902 916,2905 961,2905 1006,2908 1050,2908 1095,2908 1140,2908 1185,2910 1230,2908 1274,2908 1319,2908 1364,2908 1409,2908 1454,2908 1498,2910 1543,2910 1588,2910 1633,2910 1677,2910 1722,2913 1767,2913 1812,2913 1857,2910 1901,2913 1946,2910 1991,2908 2036,2908 2080,2908 2125,2908 2170,2905 2215,2908 2260,2905 2304,2908 2349,2902 2394,2902 2430,2896"/>
+                <TextEquiv>
+                    <Unicode>pestatem subrigere certum est Necnon et in cibis mensisque nostris uasa quibus excu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:44;}">
+                <Coords points="491,2993 2411,2980 2411,2911 491,2911"/>
+                <Baseline points="504,2940 549,2943 594,2943 638,2943 683,2946 728,2949 773,2949 818,2952 862,2955 907,2958 952,2958 997,2967 1041,2967 1086,2967 1131,2967 1176,2970 1221,2967 1265,2967 1310,2967 1355,2967 1400,2967 1445,2967 1489,2970 1534,2970 1579,2970 1624,2970 1668,2973 1713,2973 1758,2973 1803,2973 1848,2973 1892,2973 1937,2970 1982,2970 2027,2970 2072,2970 2116,2967 2161,2967 2206,2967 2251,2967 2295,2964 2340,2961 2385,2955 2418,2949"/>
+                <TextEquiv>
+                    <Unicode>lentium additur sudorem repositoriis relinquentia diras tempestates pre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_1" custom="readingOrder {index:45;}">
+                <Coords points="2186,3057 2226,3059 2243,3042 2280,3057 2327,3044 2438,3064 2470,3057 2477,2963 2315,2995 2268,2990 2251,2970 2191,2973"/>
+                <Baseline points="2203,3027 2212,3027 2257,3030 2301,3030 2346,3027 2391,3021 2436,3015 2481,3003"/>
+                <TextEquiv>
+                    <Unicode>nunciant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tutina uentum significant imbrem meridiana Nubes cum sereno in celum feruntur&#13;
+ex quacumque parte id fiet uenti expectentur Si eodem loco globabuntur ad propinquatique&#13;
+solo discutientur et hoc ab aquilone fiet uentos si ab austro imbres portendent&#13;
+Sole occidente si ex utraque parte eius celum petent tempestatem significabunt uehe&#13;
+mentius atrę ab oriente in noctem aquam minantur ab occidente in posterum diem&#13;
+Si nubes ut uellera lanae spargentur multę ab oriente in triduum aquam pre&#13;
+sagient Cum in cacuminibus montium nubes consident hiemabit Si cacumina&#13;
+pura fient disserenabit Nube grauida candicante quod uocant tempestatem albam&#13;
+grando inminebit Celo quamuis a sereno nubecula quamuis parua flatum procel&#13;
+losum dabit Nebulę montibus descendentes aut celo candentes uel in uallibus&#13;
+sedentes serenitatem promittent&#13;
+Ab his terreni ignes proxime significant Pallidi namque murmurantesque tempe&#13;
+statum metii nuntii sentiuntur pluuię iam si in lucernis fungi si flexuose uolitet&#13;
+flamma uentum et lumina cum ex sese flammas elidunt aut uix accenduntur Item&#13;
+cum in aeno pendente scintillę coaceruantur uel cum tollentibus ollas carbo adhere&#13;
+scit aut cum contentus est ignis fauillam discutit scintillamue emittit uel cum&#13;
+cinis in foco concrescit et carbo uehementer perlucet Est et aquarum significatio&#13;
+Mare si tranquillum in portu cursitabit murmurabitue intra se uentum praedicit&#13;
+Si id hieme et imbrem Littora ripeque si resonant tranquillo asperam tempestatem Item maris&#13;
+ipsius tranquillus sonitus spumęuę disperse aut aque bullantes pulmonesue mari&#13;
+ni in pelago plurimum dierum hiemem portendunt Sepe et silentio intumescit infla&#13;
+tumque altius solito iam intra se esse uentos fatetur et quidam et montium sonitus nemorumque&#13;
+mugitus praedicunt et sine aura que sentiatur folia ludentia lanugo populi aut spine uoli&#13;
+tans aquisque plumę innatantes atque et iam in campanis uenturam tempestatem praedicens&#13;
+suus fragor celi quidem murmur non dubiam significationem habet Praesagiunt et ani&#13;
+malia delphini tranquillo mari lasciuientes flatum ex qua uenient parte Item&#13;
+spargentes aquam idem turbato tranquillitatem lulligo uolitans conchę adhere&#13;
+scente echini adfigentes sese aut harena suburrantes tempestatis signa sunt Ra&#13;
+nae quoque ultra solitum uocales et fulicę matutino clangore ltem mergi anatesque&#13;
+pennas rostro purgantes uentum ceteręque aquaticę aues conuersantes Grues in mediterra&#13;
+nea festinantes mergi cauiae maria aut stagna fugientes Grues silentio per subli&#13;
+me uolantes serenitatem sicut noctua in imbre garrula aut sereno tempestatem Coruique&#13;
+singultu quodam latrantes seque concutientes si continuabunt Si uero captim uocem re&#13;
+sorbebunt uentosum imbrem Graculi sero a pabulo recedentes hiemem et albae aues&#13;
+cum congregabuntur et cum terrestres uolucres contra aquam clangores dabunt perfundentes&#13;
+que sese sed maxime cornix Hirundo tam iuxta aquam uolitans ut penna sepe percu&#13;
+tiat Queque in arboribus habitant fugitantes in nidis suis et anseres continuo&#13;
+clangore intempestiua Ardea in mediis harenis tristis Nec mirum aquaticas aut&#13;
+in totum uolucres praesagia aeris sentire Pecora exultantia et indecora lasciuia&#13;
+ludentia easdem significationes habent et boues cęlum olfactantes seque lambentes&#13;
+contra pilum Turpesque porci alienos sibi manipulos feni lacerantes segniterue&#13;
+et contra industriam suam abscondite uel formicę concursitantes aut oua progerentes&#13;
+Item uermes terreni erumpentes Trifolium quoque inhorrescere et folia contra tem&#13;
+pestatem subrigere certum est Necnon et in cibis mensisque nostris uasa quibus excu&#13;
+lentium additur sudorem repositoriis relinquentia diras tempestates pre&#13;
+nunciant</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

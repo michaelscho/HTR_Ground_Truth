@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2023-01-30T14:14:16.299+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2435" WIDTH="1422">
+         <TopMargin HEIGHT="0" WIDTH="1422" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2435" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2435" WIDTH="0" VPOS="0" HPOS="1422"/>
+         <BottomMargin HEIGHT="0" WIDTH="1422" VPOS="2435" HPOS="0"/>
+         <PrintSpace HEIGHT="2435" WIDTH="1422" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1673703636250_62"
+                       HEIGHT="2082"
+                       WIDTH="1238"
+                       VPOS="93"
+                       HPOS="113">
+               <Shape>
+                  <Polygon POINTS="115,93 1351,93 1351,481 1329,981 1273,2175 113,2175 113,1841"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="133,215 163,219 193,221 223,219 253,217 283,213 313,213 343,211 373,211 403,209 433,207 463,207 493,209 523,207 553,207 583,207 613,207 643,207 673,209 703,207 733,207 763,209 793,207 823,209 853,209 883,211 913,213 943,213 973,213 1003,213 1033,213 1063,215 1093,217 1123,219 1153,221 1183,223 1213,225 1243,223 1273,221 1279,223"
+                         HEIGHT="126"
+                         WIDTH="1152"
+                         VPOS="149"
+                         HPOS="125">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="126"
+                          WIDTH="1152"
+                          VPOS="149"
+                          HPOS="125"
+                          CONTENT="Qui tempestatum serenitaterisue praesagia inuestigare et depraehemdere nititur"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_5"
+                         BASELINE="175,279 205,279 235,279 265,279 295,277 325,277 355,277 385,275 415,275 445,275 475,275 505,275 535,275 565,275 595,277 625,275 655,277 685,275 715,275 745,275 775,277 805,277 835,277 865,277 895,279 925,279 955,277 985,277 1015,277 1045,277 1075,279 1105,279 1135,281 1165,283 1195,283 1225,285 1227,285"
+                         HEIGHT="68"
+                         WIDTH="1056"
+                         VPOS="234"
+                         HPOS="167">
+                  <String ID="string_tr_1_tl_5"
+                          HEIGHT="68"
+                          WIDTH="1056"
+                          VPOS="234"
+                          HPOS="167"
+                          CONTENT="his indiciis innitatur Sol purus oriens sed non feruens serenum diem nuntiat"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_6"
+                         BASELINE="115,335 145,335 175,335 205,337 235,335 265,333 295,331 325,331 355,331 385,331 415,331 445,329 475,329 505,331 535,329 565,331 595,331 625,333 655,335 685,333 715,335 745,335 775,335 805,335 835,337 865,337 895,339 925,339 955,341 985,341 1015,343 1045,341 1075,341 1105,345 1135,347 1165,347 1195,349 1225,349 1255,351"
+                         HEIGHT="70"
+                         WIDTH="1147"
+                         VPOS="296"
+                         HPOS="106">
+                  <String ID="string_tr_1_tl_6"
+                          HEIGHT="70"
+                          WIDTH="1147"
+                          VPOS="296"
+                          HPOS="106"
+                          CONTENT="at hibernus pallidus grandinem Si et occidit pridie serenus et oritur tanto"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_7"
+                         BASELINE="117,397 147,397 177,397 207,395 237,397 267,397 297,397 327,399 357,397 387,397 417,397 447,397 477,397 507,397 537,395 567,397 597,397 627,399 657,399 687,401 717,401 747,401 777,401 807,401 837,401 867,401 897,401 927,401 957,403 987,401 1017,403 1047,403 1077,403 1107,405 1137,407 1167,409 1197,411 1227,411 1257,411 1287,411 1295,413"
+                         HEIGHT="70"
+                         WIDTH="1183"
+                         VPOS="351"
+                         HPOS="109">
+                  <String ID="string_tr_1_tl_7"
+                          HEIGHT="70"
+                          WIDTH="1183"
+                          VPOS="351"
+                          HPOS="109"
+                          CONTENT="cercior fides serenitatis Concauus oriens pluuias praedicit Idem uentos"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_8"
+                         BASELINE="117,453 147,453 177,453 207,453 237,453 267,453 297,453 327,455 357,453 387,455 417,453 447,453 477,453 507,455 537,455 567,455 597,455 627,455 657,459 687,459 717,459 747,459 777,457 807,459 837,457 867,459 897,459 927,461 957,461 987,463 1017,461 1047,463 1077,465 1107,467 1137,469 1167,469 1197,469 1227,471 1257,471 1279,471"
+                         HEIGHT="64"
+                         WIDTH="1168"
+                         VPOS="425"
+                         HPOS="108">
+                  <String ID="string_tr_1_tl_8"
+                          HEIGHT="64"
+                          WIDTH="1168"
+                          VPOS="425"
+                          HPOS="108"
+                          CONTENT="cum ante exorientem eum nubes rubescunt Quod si et nigre rubentibus inter"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_1"
+                         BASELINE="115,523 145,523 175,521 205,521 235,517 265,517 295,515 325,519 355,519 385,517 415,517 445,519 475,519 505,519 535,519 565,519 595,519 625,519 655,519 685,519 715,519 745,519 775,519 805,517 835,519 865,519 895,519 925,521 955,521 985,521 1015,521 1045,521 1075,521 1105,521 1135,521 1165,521 1195,521 1225,519 1255,517"
+                         HEIGHT="64"
+                         WIDTH="1146"
+                         VPOS="475"
+                         HPOS="105">
+                  <String ID="string_tr_2_tl_1"
+                          HEIGHT="64"
+                          WIDTH="1146"
+                          VPOS="475"
+                          HPOS="105"
+                          CONTENT="uenerimt et pluuias Cum occidentis aut orientis radii uidentur coire"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_2"
+                         BASELINE="121,579 133,579 163,579 193,577 223,575 253,575 283,575 313,575 343,575 373,575 403,573 433,573 463,573 493,573 523,573 553,573 583,575 613,575 643,575 673,575 703,577 733,579 763,579 793,577 823,579 853,579 883,581 913,579 943,581 973,581 1003,581 1033,581 1063,581 1093,579 1123,579 1153,579 1183,579 1213,577 1243,575"
+                         HEIGHT="62"
+                         WIDTH="1127"
+                         VPOS="541"
+                         HPOS="112">
+                  <String ID="string_tr_2_tl_2"
+                          HEIGHT="62"
+                          WIDTH="1127"
+                          VPOS="541"
+                          HPOS="112"
+                          CONTENT="pluuias Si circa occidentem rubescunt nubes serenitatem diei futuri"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_3"
+                         BASELINE="117,639 147,645 177,645 207,643 237,643 267,641 297,639 327,639 357,639 387,639 417,639 447,641 477,641 507,641 537,641 567,641 597,641 627,643 657,643 687,643 717,643 747,643 777,643 807,641 837,641 867,643 897,643 927,643 957,643 987,643 1017,645 1047,647 1077,647 1107,647 1137,645 1167,647 1197,647 1227,645 1257,649 1287,653 1303,653"
+                         HEIGHT="82"
+                         WIDTH="1192"
+                         VPOS="601"
+                         HPOS="108">
+                  <String ID="string_tr_2_tl_3"
+                          HEIGHT="82"
+                          WIDTH="1192"
+                          VPOS="601"
+                          HPOS="108"
+                          CONTENT="spondent Si in ortu spargentur partim ad austrum partim ad aquilonem pura"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_4"
+                         BASELINE="117,699 147,699 177,701 207,701 237,701 267,703 297,701 327,701 357,699 387,701 417,703 447,705 477,707 507,707 537,709 567,709 597,709 627,711 657,713 687,711 717,711 747,711 777,711 807,711 837,709 867,711 897,711 927,711 957,711 987,711 1017,711 1047,713 1077,715 1107,715 1137,715 1167,715 1197,715 1227,715 1239,713"
+                         HEIGHT="75"
+                         WIDTH="1126"
+                         VPOS="659"
+                         HPOS="109">
+                  <String ID="string_tr_2_tl_4"
+                          HEIGHT="75"
+                          WIDTH="1126"
+                          VPOS="659"
+                          HPOS="109"
+                          CONTENT="circa eum serenitas licet sit pluuam tamen uentosam significabit"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_5"
+                         BASELINE="117,761 147,763 177,763 207,763 237,763 267,765 297,763 327,763 357,761 387,761 417,761 447,761 477,765 507,765 537,767 567,769 597,771 627,771 657,773 687,775 717,777 747,777 777,777 807,777 837,777 867,777 897,779 927,779 957,779 987,779 1017,781 1047,783 1077,783 1107,783 1137,783 1167,783 1197,785 1227,785 1257,783 1287,783 1301,783"
+                         HEIGHT="78"
+                         WIDTH="1191"
+                         VPOS="718"
+                         HPOS="108">
+                  <String ID="string_tr_2_tl_5"
+                          HEIGHT="78"
+                          WIDTH="1191"
+                          VPOS="718"
+                          HPOS="108"
+                          CONTENT="Si in ortu aut in ocasu contracti cernentur radii imbrem Si in occasu eius pluet"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_6"
+                         BASELINE="115,819 145,817 175,817 205,817 235,817 265,817 295,817 325,819 355,817 385,815 415,815 445,819 475,821 505,819 535,821 565,821 595,823 625,825 655,825 685,827 715,829 745,831 775,833 805,833 835,833 865,833 895,833 925,835 955,835 985,835 1015,835 1045,837 1075,839 1105,837 1135,839 1165,839 1195,841 1225,841 1255,837 1285,837 1315,835 1329,831"
+                         HEIGHT="109"
+                         WIDTH="1224"
+                         VPOS="764"
+                         HPOS="105">
+                  <String ID="string_tr_2_tl_6"
+                          HEIGHT="109"
+                          WIDTH="1224"
+                          VPOS="764"
+                          HPOS="105"
+                          CONTENT="aut radii nubem in se trahunt asperam in proximum diem tempestatem significabit"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_7"
+                         BASELINE="119,889 149,889 179,889 209,889 239,889 269,889 299,891 329,891 359,891 389,891 419,891 449,893 479,893 509,895 539,895 569,895 599,897 629,899 659,901 689,901 719,901 749,903 779,903 809,903 839,905 869,905 899,905 929,905 959,907 989,907 1019,907 1049,909 1079,911 1109,911 1139,911 1169,913 1199,913 1229,913 1257,913"
+                         HEIGHT="95"
+                         WIDTH="1142"
+                         VPOS="828"
+                         HPOS="111">
+                  <String ID="string_tr_2_tl_7"
+                          HEIGHT="95"
+                          WIDTH="1142"
+                          VPOS="828"
+                          HPOS="111"
+                          CONTENT="Cum in oriente radii non illustres eminebunt quamuis circumda nubes non sint."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_8"
+                         BASELINE="119,939 147,943 177,943 207,943 237,941 267,939 297,939 327,941 357,943 387,945 417,947 447,947 477,951 507,951 537,953 567,953 597,955 627,957 657,957 687,957 717,959 747,959 777,959 807,961 837,963 867,963 897,963 927,963 957,963 987,963 1017,965 1047,965 1077,967 1107,967 1137,969 1167,969 1197,969 1227,971 1257,971 1279,969"
+                         HEIGHT="78"
+                         WIDTH="1165"
+                         VPOS="899"
+                         HPOS="111">
+                  <String ID="string_tr_2_tl_8"
+                          HEIGHT="78"
+                          WIDTH="1165"
+                          VPOS="899"
+                          HPOS="111"
+                          CONTENT="pluuiam portendunt Si ante exortum nubes globabuntur hiemem aspertinam"/>
+               </TextLine>
+               <TextLine ID="tr_5_tl_1"
+                         BASELINE="117,1005 147,1005 177,1005 207,1003 237,1003 267,1003 297,1003 327,1005 357,1005 387,1007 417,1009 447,1009 477,1009 507,1011 537,1013 567,1015 597,1017 627,1019 657,1019 687,1021 717,1021 747,1023 777,1023 807,1023 837,1025 867,1025 897,1027 927,1027 957,1027 987,1027 1017,1029 1047,1029 1077,1031 1107,1033 1137,1035 1167,1035 1197,1035 1227,1035 1241,1035"
+                         HEIGHT="99"
+                         WIDTH="1130"
+                         VPOS="960"
+                         HPOS="108">
+                  <String ID="string_tr_5_tl_1"
+                          HEIGHT="99"
+                          WIDTH="1130"
+                          VPOS="960"
+                          HPOS="108"
+                          CONTENT="denuntiabunt Si ab ortu repellentur et ad occasum abibunt serenitatem"/>
+               </TextLine>
+               <TextLine ID="tr_5_tl_2"
+                         BASELINE="119,1077 149,1077 179,1077 209,1077 239,1075 269,1077 299,1077 329,1077 359,1077 389,1077 419,1075 449,1075 479,1075 509,1075 539,1077 569,1077 599,1077 629,1079 659,1079 689,1081 719,1081 749,1081 779,1083 809,1083 839,1083 869,1083 899,1085 929,1089 959,1089 989,1089 1019,1089 1049,1089 1079,1091 1109,1091 1139,1093 1169,1095 1199,1095 1229,1095 1259,1093 1263,1091"
+                         HEIGHT="103"
+                         WIDTH="1152"
+                         VPOS="1019"
+                         HPOS="109">
+                  <String ID="string_tr_5_tl_2"
+                          HEIGHT="103"
+                          WIDTH="1152"
+                          VPOS="1019"
+                          HPOS="109"
+                          CONTENT="Si nubes solem cricumcludunt quanto minus luminis relinqunt tanto tur"/>
+               </TextLine>
+               <TextLine ID="tr_5_tl_3"
+                         BASELINE="119,1139 149,1139 179,1139 209,1139 239,1137 269,1137 299,1137 329,1137 359,1135 389,1135 419,1135 449,1135 479,1135 509,1137 539,1141 569,1141 599,1143 629,1145 659,1147 689,1145 719,1147 749,1147 779,1149 809,1149 839,1151 869,1151 899,1151 929,1151 959,1153 989,1153 1019,1155 1049,1155 1079,1157 1109,1157 1139,1159 1169,1161 1199,1165 1223,1165"
+                         HEIGHT="98"
+                         WIDTH="1109"
+                         VPOS="1090"
+                         HPOS="109">
+                  <String ID="string_tr_5_tl_3"
+                          HEIGHT="98"
+                          WIDTH="1109"
+                          VPOS="1090"
+                          HPOS="109"
+                          CONTENT="bidior tempestas erit Si uero etiam duplex orbis fuerit eo atrotior Quod"/>
+               </TextLine>
+               <TextLine ID="tr_5_tl_4"
+                         BASELINE="119,1195 149,1197 179,1197 209,1195 239,1195 269,1195 299,1193 329,1193 359,1193 389,1195 419,1195 449,1195 479,1197 509,1199 539,1199 569,1203 599,1203 629,1203 659,1203 689,1203 719,1203 749,1205 779,1205 809,1207 839,1209 869,1209 899,1211 929,1213 959,1213 989,1213 1019,1213 1049,1215 1079,1217 1109,1217 1139,1219 1169,1221 1199,1223 1229,1223 1259,1223"
+                         HEIGHT="85"
+                         WIDTH="1149"
+                         VPOS="1165"
+                         HPOS="109">
+                  <String ID="string_tr_5_tl_4"
+                          HEIGHT="85"
+                          WIDTH="1149"
+                          VPOS="1165"
+                          HPOS="109"
+                          CONTENT="si in exortu aut in occasu fiet ita ut rubescant nubes maxima osten"/>
+               </TextLine>
+               <TextLine ID="tr_5_tl_5"
+                         BASELINE="117,1251 147,1253 177,1251 207,1253 237,1253 267,1253 297,1251 327,1253 357,1253 387,1253 417,1257 447,1259 477,1259 507,1259 537,1259 567,1261 597,1261 627,1263 657,1265 687,1265 717,1265 747,1265 777,1267 807,1267 837,1269 867,1271 897,1273 927,1271 957,1273 987,1273 1017,1275 1047,1275 1077,1277 1107,1277 1137,1281 1167,1279 1197,1281 1227,1279 1237,1281"
+                         HEIGHT="88"
+                         WIDTH="1125"
+                         VPOS="1203"
+                         HPOS="108">
+                  <String ID="string_tr_5_tl_5"
+                          HEIGHT="88"
+                          WIDTH="1125"
+                          VPOS="1203"
+                          HPOS="108"
+                          CONTENT="ditur tempestas Si non ambibunt sed imcumbent a quocumque uento fuerint"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_1"
+                         BASELINE="117,1319 147,1319 177,1317 207,1317 237,1317 267,1319 297,1319 327,1321 357,1321 387,1321 417,1323 447,1323 477,1323 507,1321 537,1321 567,1321 597,1321 627,1323 657,1325 687,1327 717,1329 747,1329 777,1333 807,1335 837,1337 867,1339 897,1339 927,1339 957,1341 987,1341 1017,1341 1047,1341 1077,1343 1107,1345 1137,1345 1167,1347 1197,1349 1227,1349 1257,1349 1267,1347"
+                         HEIGHT="100"
+                         WIDTH="1157"
+                         VPOS="1270"
+                         HPOS="108">
+                  <String ID="string_tr_3_tl_1"
+                          HEIGHT="100"
+                          WIDTH="1157"
+                          VPOS="1270"
+                          HPOS="108"
+                          CONTENT="eum portendent si a meridie et imbrem Si oriens cingetur orbe ex qua parte"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_2"
+                         BASELINE="119,1385 149,1387 179,1387 209,1387 239,1387 269,1389 299,1389 329,1391 359,1395 389,1395 419,1395 449,1395 479,1395 509,1397 539,1399 569,1397 599,1397 629,1401 659,1403 689,1401 719,1403 749,1405 779,1405 809,1405 839,1405 869,1405 899,1405 929,1405 959,1407 989,1407 1019,1405 1049,1405 1079,1407 1109,1409 1139,1411 1169,1413 1199,1415 1229,1413 1259,1413 1269,1411"
+                         HEIGHT="79"
+                         WIDTH="1156"
+                         VPOS="1356"
+                         HPOS="109">
+                  <String ID="string_tr_3_tl_2"
+                          HEIGHT="79"
+                          WIDTH="1156"
+                          VPOS="1356"
+                          HPOS="109"
+                          CONTENT="is se ruperit exspectetur uentus Si totus defluxerit equaliter serenitatem"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_3"
+                         BASELINE="115,1457 145,1457 175,1457 205,1455 235,1457 265,1457 295,1457 325,1457 355,1459 385,1461 415,1461 445,1463 475,1463 505,1465 535,1465 565,1463 595,1467 625,1465 655,1467 685,1467 715,1465 745,1467 775,1467 805,1467 835,1467 865,1465 895,1467 925,1467 955,1465 985,1465 1015,1465 1045,1463 1075,1465 1105,1463 1135,1463 1165,1463 1195,1467 1225,1467 1255,1465 1285,1465 1295,1465"
+                         HEIGHT="87"
+                         WIDTH="1186"
+                         VPOS="1417"
+                         HPOS="106">
+                  <String ID="string_tr_3_tl_3"
+                          HEIGHT="87"
+                          WIDTH="1186"
+                          VPOS="1417"
+                          HPOS="106"
+                          CONTENT="dabit Si in ortu longe radios per nubes porriget et medius erit inanis pluuriam"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_4"
+                         BASELINE="119,1529 123,1527 153,1529 183,1529 213,1529 243,1529 273,1529 303,1529 333,1529 363,1531 393,1531 423,1531 453,1533 483,1533 513,1535 543,1537 573,1537 603,1535 633,1535 663,1535 693,1535 723,1535 753,1535 783,1535 813,1533 843,1533 873,1535 903,1535 933,1535 963,1535 993,1533 1023,1533 1053,1531 1083,1531 1113,1533 1143,1533 1173,1533 1203,1531 1233,1529 1263,1527"
+                         HEIGHT="67"
+                         WIDTH="1148"
+                         VPOS="1479"
+                         HPOS="111">
+                  <String ID="string_tr_3_tl_4"
+                          HEIGHT="67"
+                          WIDTH="1148"
+                          VPOS="1479"
+                          HPOS="111"
+                          CONTENT="significabit Si ante ortum radii se ostendent aquam et uentum Si circa occiden"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_5"
+                         BASELINE="119,1599 141,1597 171,1597 201,1599 231,1599 261,1599 291,1601 321,1601 351,1603 381,1603 411,1603 441,1603 471,1603 501,1605 531,1605 561,1603 591,1603 621,1603 651,1601 681,1601 711,1601 741,1601 771,1601 801,1601 831,1601 861,1599 891,1599 921,1599 951,1599 981,1599 1011,1599 1041,1595 1071,1595 1101,1595 1131,1593 1161,1593 1191,1593 1221,1591 1251,1589 1281,1587"
+                         HEIGHT="81"
+                         WIDTH="1168"
+                         VPOS="1540"
+                         HPOS="111">
+                  <String ID="string_tr_3_tl_5"
+                          HEIGHT="81"
+                          WIDTH="1168"
+                          VPOS="1540"
+                          HPOS="111"
+                          CONTENT="tem candidus circulus erit noctis lenem tempestatem si nebula uehementiorem"/>
+               </TextLine>
+               <TextLine ID="tr_6_tl_1"
+                         BASELINE="121,1665 143,1665 173,1663 203,1663 233,1663 263,1663 293,1663 323,1663 353,1665 383,1665 413,1665 443,1667 473,1667 503,1669 533,1669 563,1669 593,1667 623,1667 653,1667 683,1665 713,1665 743,1665 773,1665 803,1665 833,1663 863,1663 893,1663 923,1661 953,1663 983,1663 1013,1661 1043,1661 1073,1659 1103,1659 1133,1659 1163,1655 1193,1655 1223,1653 1253,1651 1283,1649"
+                         HEIGHT="70"
+                         WIDTH="1168"
+                         VPOS="1611"
+                         HPOS="112">
+                  <String ID="string_tr_6_tl_1"
+                          HEIGHT="70"
+                          WIDTH="1168"
+                          VPOS="1611"
+                          HPOS="112"
+                          CONTENT="si cadente sole uentum Si ater circulus fuerit ex qua regione is se ruperit"/>
+               </TextLine>
+               <TextLine ID="tr_6_tl_2"
+                         BASELINE="123,1729 139,1727 169,1727 199,1725 229,1725 259,1725 289,1727 319,1727 349,1729 379,1725"
+                         HEIGHT="85"
+                         WIDTH="261"
+                         VPOS="1678"
+                         HPOS="114">
+                  <String ID="string_tr_6_tl_2"
+                          HEIGHT="85"
+                          WIDTH="261"
+                          VPOS="1678"
+                          HPOS="114"
+                          CONTENT="uentum magnum"/>
+               </TextLine>
+               <TextLine ID="tr_6_tl_3"
+                         BASELINE="139,1799 155,1799 185,1797 215,1797 245,1797 275,1797 305,1797 335,1799 365,1799 395,1801 425,1801 455,1801 485,1801 515,1801 545,1801 575,1801 605,1799 635,1799 665,1797 695,1797 725,1795 755,1795 785,1793 815,1791 845,1789 875,1787 905,1785 935,1785 965,1783 995,1781 1025,1779 1055,1779 1085,1777 1115,1777 1145,1775 1175,1773 1205,1771 1235,1765"
+                         HEIGHT="130"
+                         WIDTH="1102"
+                         VPOS="1696"
+                         HPOS="131">
+                  <String ID="string_tr_6_tl_3"
+                          HEIGHT="130"
+                          WIDTH="1102"
+                          VPOS="1696"
+                          HPOS="131"
+                          CONTENT="Proxima sunt iure lune praesagia Quartam eam maxime obseruat"/>
+               </TextLine>
+               <TextLine ID="tr_6_tl_4"
+                         BASELINE="185,1847 189,1847 219,1849 249,1851 279,1851 309,1853 339,1853 369,1857 399,1857 429,1857 459,1859 489,1859 519,1859 549,1859 579,1859 609,1859 639,1857 669,1857 699,1857 729,1857 759,1855 789,1853 819,1851 849,1853 879,1851 909,1849 939,1847 969,1847 999,1845 1029,1843 1059,1843 1089,1841 1119,1841 1149,1837 1179,1835 1209,1827"
+                         HEIGHT="82"
+                         WIDTH="1030"
+                         VPOS="1794"
+                         HPOS="176">
+                  <String ID="string_tr_6_tl_4"
+                          HEIGHT="82"
+                          WIDTH="1030"
+                          VPOS="1794"
+                          HPOS="176"
+                          CONTENT="egyptus Si splendens exorta puro nitore fulserit serenitatem"/>
+               </TextLine>
+               <TextLine ID="tr_4_tl_1"
+                         BASELINE="125,1919 139,1917 169,1917 199,1917 229,1917 259,1917 289,1917 319,1917 349,1919 379,1919 409,1921 439,1921 469,1921 499,1921 529,1921 559,1921 589,1921 619,1919 649,1917 679,1915 709,1913 739,1911 769,1909 799,1909 829,1909 859,1907 889,1905 919,1901 949,1899 979,1899 1009,1895 1039,1895 1069,1895 1099,1897 1129,1895 1159,1895 1189,1891"
+                         HEIGHT="76"
+                         WIDTH="1068"
+                         VPOS="1862"
+                         HPOS="117">
+                  <String ID="string_tr_4_tl_1"
+                          HEIGHT="76"
+                          WIDTH="1068"
+                          VPOS="1862"
+                          HPOS="117"
+                          CONTENT="Si rubicunda uentos Si nigra pluurias portendere creditur Si in xv"/>
+               </TextLine>
+               <TextLine ID="tr_4_tl_2"
+                         BASELINE="121,1975 133,1975 163,1973 193,1973 223,1975 253,1977 283,1977 313,1979 343,1979 373,1979 403,1981 433,1981 463,1981 493,1981 523,1981 553,1981 583,1979 613,1977 643,1975 673,1975 703,1973 733,1973 763,1971 793,1971 823,1969 853,1969 883,1969 913,1965 943,1963 973,1961 1003,1959 1033,1959 1063,1959 1093,1957 1123,1955 1153,1955 1183,1951 1213,1947 1243,1941 1273,1935"
+                         HEIGHT="87"
+                         WIDTH="1159"
+                         VPOS="1903"
+                         HPOS="111">
+                  <String ID="string_tr_4_tl_2"
+                          HEIGHT="87"
+                          WIDTH="1159"
+                          VPOS="1903"
+                          HPOS="111"
+                          CONTENT="cornua habuerit obtusa pluuiam Erecta et infesta uentos semper significant"/>
+               </TextLine>
+               <TextLine ID="tr_4_tl_3"
+                         BASELINE="123,2027 151,2027 181,2029 211,2029 241,2031 271,2033 301,2033 331,2035 361,2035 391,2035 421,2037 451,2037 481,2039 511,2037 541,2037 571,2035 601,2033 631,2031 661,2031 691,2027 721,2025 751,2023 781,2023 811,2021 841,2021 871,2019 901,2019 931,2017 961,2017 991,2015 1021,2013 1051,2011 1081,2009 1111,2009 1141,2007 1171,2007 1201,2003 1231,2001 1261,1999"
+                         HEIGHT="109"
+                         WIDTH="1145"
+                         VPOS="1958"
+                         HPOS="114">
+                  <String ID="string_tr_4_tl_3"
+                          HEIGHT="109"
+                          WIDTH="1145"
+                          VPOS="1958"
+                          HPOS="114"
+                          CONTENT="Quarta tamen maxime cornu eius sepemtrionale acuminatum atque rigidum"/>
+               </TextLine>
+               <TextLine ID="tr_4_tl_4"
+                         BASELINE="119,2089 139,2089 169,2091 199,2093 229,2093 259,2095 289,2097 319,2097 349,2097 379,2097 409,2097 439,2099 469,2099 499,2101 529,2099 559,2099 589,2097 619,2097 649,2095 679,2093 709,2091 739,2089 769,2087 799,2085 829,2081 859,2081 889,2079 919,2077 949,2077 979,2073 1009,2071 1039,2069 1069,2067 1099,2063 1129,2061 1159,2059 1189,2057 1219,2053"
+                         HEIGHT="90"
+                         WIDTH="1108"
+                         VPOS="2021"
+                         HPOS="109">
+                  <String ID="string_tr_4_tl_4"
+                          HEIGHT="90"
+                          WIDTH="1108"
+                          VPOS="2021"
+                          HPOS="109"
+                          CONTENT="illum praesagit uentum Inferius austrum utraque recta noctem uentosam"/>
+               </TextLine>
+               <TextLine ID="tr_4_tl_5"
+                         BASELINE="113,2159 117,2159 147,2157 177,2155 207,2157 237,2159 267,2161 297,2161 327,2163 357,2163 387,2165 417,2165 447,2165 477,2165 507,2165 537,2163 567,2161 597,2159 627,2157 657,2157 687,2157 717,2153 747,2151 777,2149 807,2147 837,2145 867,2143 897,2141 927,2137 957,2137 987,2137 1017,2133 1047,2131 1077,2129 1107,2125 1137,2121"
+                         HEIGHT="103"
+                         WIDTH="1028"
+                         VPOS="2093"
+                         HPOS="105">
+                  <String ID="string_tr_4_tl_5"
+                          HEIGHT="103"
+                          WIDTH="1028"
+                          VPOS="2093"
+                          HPOS="105"
+                          CONTENT="Si quartam orbis rutilus cingebit et uentos et imbres praemonebit"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
