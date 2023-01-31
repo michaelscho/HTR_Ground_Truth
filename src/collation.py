@@ -91,6 +91,7 @@ class Collation:
                 for cell in cells:
                     text_cell = cell.get_text()
                     text_cell = re.sub('\s+',' ',text_cell).strip()
+                    text_cell = text_cell.lower()
                     cells_to_evaluate.append(text_cell)
                 print(cells_to_evaluate)
                 print(len(set(cells_to_evaluate)))
