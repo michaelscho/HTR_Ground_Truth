@@ -38,9 +38,9 @@ class Collation:
         return list_of_files_to_collate
 
     def collate_witnesses(self):
-        #execute = 'java -jar ' + self.collatex_path + ' -f json -o ' + self.path_to_json + " " + ' '.join(self.filenames)
-        #print(execute)
-        #os.system(execute)        
+        execute = 'java -jar ' + self.collatex_path + ' -f json -o ' + self.path_to_json + " " + ' '.join(self.filenames)
+        print(execute)
+        os.system(execute)        
         self.collation_to_html()
         self.output_html(self.html_filename)
         
