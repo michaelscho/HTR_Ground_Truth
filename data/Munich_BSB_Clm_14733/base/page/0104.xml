@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.9.0:model_id=46502:lm=none:date=14_01_2023_12:43</Creator>
         <Created>2023-01-14T12:01:27.750+01:00</Created>
-        <LastChange>2023-01-26T19:32:51.076+01:00</LastChange>
-        <TranskribusMetadata docId="1292419" pageId="51581051" pageNr="104" tsid="111427922" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=MCOFUADOXYTCAODTGZDWWPMB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WTVZCUTCLOYFNUOMTKIQOGWF" imageId="42173249"/>
+        <LastChange>2023-01-30T16:45:16.387+01:00</LastChange>
+        <TranskribusMetadata docId="1292419" pageId="51581051" pageNr="104" tsid="112360649" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=MCOFUADOXYTCAODTGZDWWPMB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LKBSRDCNQYTGLHHMEPZZNTTO" imageId="42173249"/>
     </Metadata>
     <Page imageFilename="00104.jpg" imageWidth="1422" imageHeight="2357">
         <ReadingOrder>
-            <OrderedGroup id="ro_1675084417976" caption="Regions reading order">
+            <OrderedGroup id="ro_1675188053106" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1673703721430_87"/>
             </OrderedGroup>
         </ReadingOrder>

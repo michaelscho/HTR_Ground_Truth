@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.9.0:model_id=46502:lm=none:date=14_01_2023_16:15</Creator>
         <Created>2023-01-14T12:47:27.191+01:00</Created>
-        <LastChange>2023-01-30T13:27:40.846+01:00</LastChange>
-        <TranskribusMetadata docId="1314922" pageId="51971923" pageNr="37" tsid="112305686" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=VRBRRWCURKEOJFQWOTDRUNYR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KFBKMZZYEIRXITKLKJSSOOBE" imageId="42173564"/>
+        <LastChange>2023-01-31T15:46:23.584+01:00</LastChange>
+        <TranskribusMetadata docId="1314922" pageId="51971923" pageNr="37" tsid="112560505" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=VRBRRWCURKEOJFQWOTDRUNYR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TXYZRTEEFAHEAEAHIGWANOHV" imageId="42173564"/>
     </Metadata>
     <Page imageFilename="ÖNB Wien 1180-1199 - Cod. 12600-0037.jpg" imageWidth="2644" imageHeight="3741">
         <ReadingOrder>
-            <OrderedGroup id="ro_1675084281536" caption="Regions reading order">
+            <OrderedGroup id="ro_1675188327271" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1673779812259_933"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -214,7 +214,7 @@
                 <Coords points="495,1977 2411,1992 2386,1928 495,1940"/>
                 <Baseline points="510,1967 555,1967 600,1970 644,1973 689,1973 734,1973 779,1976 824,1976 868,1976 913,1979 958,1979 1003,1979 1047,1982 1092,1982 1137,1985 1182,1985 1227,1985 1271,1985 1316,1988 1361,1991 1406,1991 1451,1991 1495,1991 1540,1991 1585,1991 1630,1991 1674,1991 1719,1991 1764,1991 1809,1994 1854,1994 1898,1997 1943,1997 1988,1997 2033,1997 2078,1997 2122,1997 2167,1997 2212,1997 2257,1997 2301,1991 2346,1988 2391,1982 2418,1979"/>
                 <TextEquiv>
-                    <Unicode>nae quoque ultra solitum uocales et fulicę matutino clangore ltem mergi anatesque</Unicode>
+                    <Unicode>nae quoque ultra solitum uocales et fulicę matutino clangore Item mergi anatesque</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_2" custom="readingOrder {index:29;}">
@@ -365,7 +365,7 @@ suus fragor celi quidem murmur non dubiam significationem habet Praesagiun
 malia delphini tranquillo mari lasciuientes flatum ex qua uenient parte Item&#13;
 spargentes aquam idem turbato tranquillitatem lulligo uolitans conchę adhere&#13;
 scente echini adfigentes sese aut harena suburrantes tempestatis signa sunt Ra&#13;
-nae quoque ultra solitum uocales et fulicę matutino clangore ltem mergi anatesque&#13;
+nae quoque ultra solitum uocales et fulicę matutino clangore Item mergi anatesque&#13;
 pennas rostro purgantes uentum ceteręque aquaticę aues conuersantes Grues in mediterra&#13;
 nea festinantes mergi cauiae maria aut stagna fugientes Grues silentio per subli&#13;
 me uolantes serenitatem sicut noctua in imbre garrula aut sereno tempestatem Coruique&#13;

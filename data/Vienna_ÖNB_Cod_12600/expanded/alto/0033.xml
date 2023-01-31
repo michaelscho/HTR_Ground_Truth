@@ -7,7 +7,7 @@
       <MeasurementUnit>pixel</MeasurementUnit>
       <OCRProcessing ID="IdOcr">
          <ocrProcessingStep>
-            <processingDateTime>2023-01-30T14:11:21.351+01:00</processingDateTime>
+            <processingDateTime>2023-01-31T19:05:27.13+01:00</processingDateTime>
             <processingSoftware>
                <softwareCreator>READ COOP</softwareCreator>
                <softwareName>Transkribus</softwareName>
@@ -115,7 +115,7 @@
                           WIDTH="1948"
                           VPOS="420"
                           HPOS="491"
-                          CONTENT="dini esse copulandum Quem aegyptii anno suo sollemniter expleto id est iiii kalendarum Septembris"/>
+                          CONTENT="dini esse copulandum Quem aegyptii anno suo sollemniter expleto id est iiii kalendarum Septembrium"/>
                </TextLine>
                <TextLine ID="tr_2_tl_5"
                          BASELINE="495,555 528,555 573,555 618,555 662,558 707,561 752,558 797,558 841,558 886,558 931,558 976,558 1021,558 1065,561 1110,561 1155,561 1200,561 1245,558 1289,561 1334,558 1379,555 1424,555 1468,552 1513,552 1558,552 1603,552 1648,552 1692,552 1737,552 1782,549 1827,552 1871,549 1916,552 1961,549 2006,546 2051,546 2095,546 2140,546 2185,546 2230,549 2275,546 2319,543 2364,540 2409,531"
@@ -466,7 +466,7 @@
                           WIDTH="1961"
                           VPOS="1978"
                           HPOS="493"
-                          CONTENT="Novembris et exit de scorpione hora xii plena noctis uel praecedit diem xvi kalendis DECon et intrat"/>
+                          CONTENT="Novembris et exit de scorpione hora xii plena noctis uel praecedit diem xvi kalendis DECEMBRIS et intrat"/>
                </TextLine>
                <TextLine ID="tr_4_tl_2"
                          BASELINE="516,2101 534,2101 579,2104 623,2104 668,2104 713,2104 758,2107 803,2110 847,2110 892,2110 937,2110 982,2110 1027,2107 1071,2110 1116,2110 1161,2110 1206,2110 1250,2107 1295,2107 1340,2107 1385,2104 1430,2104 1474,2104 1519,2104 1564,2104 1609,2101 1654,2098 1698,2101 1743,2101 1788,2101 1833,2101 1877,2101 1922,2101 1967,2101 2012,2098 2057,2098 2101,2098 2146,2098 2191,2098 2236,2098 2281,2095 2325,2089 2370,2086 2415,2078 2460,2069"
@@ -479,7 +479,7 @@
                           WIDTH="1951"
                           VPOS="2042"
                           HPOS="503"
-                          CONTENT="in sagittarium hora diei prima inchoante quod est xvi kalendis DECEMBRIS et exit de saggitarius iiͦ puncto"/>
+                          CONTENT="in sagittarium hora diei prima inchoante quod est xvi kalendis DECEMBRIS et exit de saggitario iiͦ puncto"/>
                </TextLine>
                <TextLine ID="tr_4_tl_3"
                          BASELINE="501,2164 537,2167 582,2164 626,2164 671,2164 716,2167 761,2167 806,2167 850,2164 895,2164 940,2164 985,2164 1030,2167 1074,2167 1119,2167 1164,2167 1209,2164 1253,2164 1298,2164 1343,2161 1388,2164 1433,2164 1477,2164 1522,2164 1567,2161 1612,2158 1657,2158 1701,2161 1746,2164 1791,2161 1836,2164 1880,2161 1925,2164 1970,2161 2015,2158 2060,2158 2104,2161 2149,2161 2194,2158 2239,2155 2284,2152 2328,2149 2373,2146 2418,2140"
@@ -505,7 +505,7 @@
                           WIDTH="1938"
                           VPOS="2147"
                           HPOS="501"
-                          CONTENT="quod est xvii kalendis ianuarii et exit de capricornis hora nona plena noctis uel praecedit xvii kalendis februaris"/>
+                          CONTENT="quod est xvii kalendis ianuarii et exit de capricorno hora nona plena noctis uel praecedit xvii kalendis februaris"/>
                </TextLine>
                <TextLine ID="tr_4_tl_5"
                          BASELINE="510,2284 528,2281 573,2281 618,2281 662,2281 707,2281 752,2284 797,2284 841,2284 886,2281 931,2284 976,2284 1021,2284 1065,2281 1110,2281 1155,2281 1200,2278 1245,2278 1289,2278 1334,2278 1379,2278 1424,2278 1468,2278 1513,2278 1558,2278 1603,2278 1648,2278 1692,2278 1737,2284 1782,2284 1827,2284 1871,2284 1916,2286 1961,2286 2006,2284 2051,2281 2095,2281 2140,2278 2185,2275 2230,2272 2275,2272 2319,2272 2364,2269 2409,2263 2454,2254"
@@ -583,7 +583,7 @@
                           WIDTH="1843"
                           VPOS="2510"
                           HPOS="586"
-                          CONTENT="que praecedit diem xv kalendis aprunt et exit de ariete horae secundo puncto vte hore diei"/>
+                          CONTENT="que praecedit diem xv kalendis aprilis et exit de ariete horae secundo puncto vte hore diei"/>
                </TextLine>
                <TextLine ID="tr_3_tl_3"
                          BASELINE="519,2645 537,2645 582,2645 626,2648 671,2648 716,2645 761,2648 806,2648 850,2648 895,2648 940,2645 985,2642 1030,2642 1074,2642 1119,2642 1164,2642 1209,2645 1253,2648 1298,2645 1343,2648 1388,2648 1433,2645 1477,2642 1522,2642 1567,2642 1612,2639 1657,2639 1701,2639 1746,2636 1791,2636 1836,2636 1880,2636 1925,2636 1970,2636 2015,2636 2060,2636 2104,2639 2149,2639 2194,2639 2239,2639 2284,2639 2328,2639 2373,2633 2418,2630"

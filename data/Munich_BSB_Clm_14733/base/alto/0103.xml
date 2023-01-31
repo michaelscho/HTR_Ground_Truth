@@ -7,7 +7,7 @@
       <MeasurementUnit>pixel</MeasurementUnit>
       <OCRProcessing ID="IdOcr">
          <ocrProcessingStep>
-            <processingDateTime>2023-01-30T14:13:37.968+01:00</processingDateTime>
+            <processingDateTime>2023-01-31T19:00:53.091+01:00</processingDateTime>
             <processingSoftware>
                <softwareCreator>READ COOP</softwareCreator>
                <softwareName>Transkribus</softwareName>
@@ -444,7 +444,7 @@
                           WIDTH="1043"
                           VPOS="2039"
                           HPOS="112"
-                          CONTENT="aque bullantes plumonesue marini ī pelago plurim̄ dierū"/>
+                          CONTENT="aque bullantes plumonesue marini ī pelago plurimū dierū"/>
                </TextLine>
             </TextBlock>
          </PrintSpace>

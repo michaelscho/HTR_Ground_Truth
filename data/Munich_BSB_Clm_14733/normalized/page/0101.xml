@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.9.0:model_id=46502:lm=none:date=14_01_2023_12:43</Creator>
         <Created>2023-01-14T12:01:27.503+01:00</Created>
-        <LastChange>2023-01-30T21:04:14.064+01:00</LastChange>
-        <TranskribusMetadata docId="1318063" pageId="52063604" pageNr="101" tsid="112412932" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=KKWLQJPWIXJEVQZFLXEWFSUV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CSQDTYPJUWRMLQQFDWZGVORB" imageId="42173246"/>
+        <LastChange>2023-01-31T15:55:44.423+01:00</LastChange>
+        <TranskribusMetadata docId="1318063" pageId="52063604" pageNr="101" tsid="112560954" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=KKWLQJPWIXJEVQZFLXEWFSUV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BPLNTUPTPYEVVSEBBVNUURAF" imageId="42173246"/>
     </Metadata>
     <Page imageFilename="00101.jpg" imageWidth="1422" imageHeight="2435">
         <ReadingOrder>
-            <OrderedGroup id="ro_1675109369928" caption="Regions reading order">
+            <OrderedGroup id="ro_1675188030653" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1673703636250_62"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -18,7 +18,7 @@
                 <Coords points="125,275 342,217 1277,232 1277,175 1092,149 1028,182 125,161"/>
                 <Baseline points="133,215 163,219 193,221 223,219 253,217 283,213 313,213 343,211 373,211 403,209 433,207 463,207 493,209 523,207 553,207 583,207 613,207 643,207 673,209 703,207 733,207 763,209 793,207 823,209 853,209 883,211 913,213 943,213 973,213 1003,213 1033,213 1063,215 1093,217 1123,219 1153,221 1183,223 1213,225 1243,223 1273,221 1279,223"/>
                 <TextEquiv>
-                    <Unicode>Qui tempestatum serenitaterisve praesagia investigare et depraehendere nititur</Unicode>
+                    <Unicode>Qui tempestatum serenitatisve praesagia investigare et depraehendere nititur</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_5" custom="readingOrder {index:1;}">
@@ -39,14 +39,14 @@
                 <Coords points="109,410 1292,421 1292,371 1125,351 109,361"/>
                 <Baseline points="117,397 147,397 177,397 207,395 237,397 267,397 297,397 327,399 357,397 387,397 417,397 447,397 477,397 507,397 537,395 567,397 597,397 627,399 657,399 687,401 717,401 747,401 777,401 807,401 837,401 867,401 897,401 927,401 957,403 987,401 1017,403 1047,403 1077,403 1107,405 1137,407 1167,409 1197,411 1227,411 1257,411 1287,411 1295,413"/>
                 <TextEquiv>
-                    <Unicode>cercior fides serenitatis Concavus oriens pluvias praedicit Idem ventos</Unicode>
+                    <Unicode>certior fides serenitatis Concavus oriens pluvias praedicit Idem ventos</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_8" custom="readingOrder {index:4;}">
                 <Coords points="109,466 1245,489 1276,427 108,425"/>
                 <Baseline points="117,453 147,453 177,453 207,453 237,453 267,453 297,453 327,455 357,453 387,455 417,453 447,453 477,453 507,455 537,455 567,455 597,455 627,455 657,459 687,459 717,459 747,459 777,457 807,459 837,457 867,459 897,459 927,461 957,461 987,463 1017,461 1047,463 1077,465 1107,467 1137,469 1167,469 1197,469 1227,471 1257,471 1279,471"/>
                 <TextEquiv>
-                    <Unicode>cum ante exorientem eum nubes rubescunt Quod si et nigre rubentibus inter¬</Unicode>
+                    <Unicode>cum ante exorientem eum nubes rubescunt Quod si et nigrae rubentibus inter¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_2_tl_1" custom="readingOrder {index:5;}">
@@ -74,7 +74,7 @@
                 <Coords points="109,712 1235,734 1235,690 1138,668 109,659"/>
                 <Baseline points="117,699 147,699 177,701 207,701 237,701 267,703 297,701 327,701 357,699 387,701 417,703 447,705 477,707 507,707 537,709 567,709 597,709 627,711 657,713 687,711 717,711 747,711 777,711 807,711 837,709 867,711 897,711 927,711 957,711 987,711 1017,711 1047,713 1077,715 1107,715 1137,715 1167,715 1197,715 1227,715 1239,713"/>
                 <TextEquiv>
-                    <Unicode>circa eum serenitas licet sit pluvam tamen ventosam significabit</Unicode>
+                    <Unicode>circa eum serenitas licet sit pluvam tamen ventosam significabunt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_2_tl_5" custom="readingOrder {index:9;}">
@@ -88,7 +88,7 @@
                 <Coords points="106,825 1259,873 1329,870 1327,802 395,764 105,794"/>
                 <Baseline points="115,819 145,817 175,817 205,817 235,817 265,817 295,817 325,819 355,817 385,815 415,815 445,819 475,821 505,819 535,821 565,821 595,823 625,825 655,825 685,827 715,829 745,831 775,833 805,833 835,833 865,833 895,833 925,835 955,835 985,835 1015,835 1045,837 1075,839 1105,837 1135,839 1165,839 1195,841 1225,841 1255,837 1285,837 1315,835 1329,831"/>
                 <TextEquiv>
-                    <Unicode>aut radii nubem in se trahunt asperam in proximum diem tempestatem significabit</Unicode>
+                    <Unicode>aut radii nubem in se trahunt asperam in proximum diem tempestatem significabunt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_2_tl_7" custom="readingOrder {index:11;}">
@@ -123,7 +123,7 @@
                 <Coords points="111,1147 1203,1188 1218,1116 109,1090"/>
                 <Baseline points="119,1139 149,1139 179,1139 209,1139 239,1137 269,1137 299,1137 329,1137 359,1135 389,1135 419,1135 449,1135 479,1135 509,1137 539,1141 569,1141 599,1143 629,1145 659,1147 689,1145 719,1147 749,1147 779,1149 809,1149 839,1151 869,1151 899,1151 929,1151 959,1153 989,1153 1019,1155 1049,1155 1079,1157 1109,1157 1139,1159 1169,1161 1199,1165 1223,1165"/>
                 <TextEquiv>
-                    <Unicode>bidior tempestas erit Si vero etiam duplex orbis fuerit eo atrotior Quod</Unicode>
+                    <Unicode>bidior tempestas erit Si vero etiam duplex orbis fuerit eo atrocior Quod</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_4" custom="readingOrder {index:16;}">
@@ -137,7 +137,7 @@
                 <Coords points="109,1258 1233,1291 1215,1232 108,1203"/>
                 <Baseline points="117,1251 147,1253 177,1251 207,1253 237,1253 267,1253 297,1251 327,1253 357,1253 387,1253 417,1257 447,1259 477,1259 507,1259 537,1259 567,1261 597,1261 627,1263 657,1265 687,1265 717,1265 747,1265 777,1267 807,1267 837,1269 867,1271 897,1273 927,1271 957,1273 987,1273 1017,1275 1047,1275 1077,1277 1107,1277 1137,1281 1167,1279 1197,1281 1227,1279 1237,1281"/>
                 <TextEquiv>
-                    <Unicode>ditur tempestas Si non ambibunt sed imcumbent a quocumque vento fuerint</Unicode>
+                    <Unicode>ditur tempestas Si non ambibunt sed incumbent a quocumque vento fuerint</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_3_tl_1" custom="readingOrder {index:18;}">
@@ -193,7 +193,7 @@
                 <Coords points="131,1826 1106,1807 1232,1780 1233,1734 999,1759 881,1696 768,1706 693,1768 132,1734"/>
                 <Baseline points="139,1799 155,1799 185,1797 215,1797 245,1797 275,1797 305,1797 335,1799 365,1799 395,1801 425,1801 455,1801 485,1801 515,1801 545,1801 575,1801 605,1799 635,1799 665,1797 695,1797 725,1795 755,1795 785,1793 815,1791 845,1789 875,1787 905,1785 935,1785 965,1783 995,1781 1025,1779 1055,1779 1085,1777 1115,1777 1145,1775 1175,1773 1205,1771 1235,1765"/>
                 <TextEquiv>
-                    <Unicode>Proxima sunt iure lune praesagia Quartam eam maxime observat</Unicode>
+                    <Unicode>Proxima sunt iurae lunae praesagia Quartam eam maximae observat</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_6_tl_4" custom="readingOrder {index:26;}">
@@ -221,7 +221,7 @@
                 <Coords points="114,2040 665,2067 746,2026 1258,2012 1259,1959 1221,1958 115,1987"/>
                 <Baseline points="123,2027 151,2027 181,2029 211,2029 241,2031 271,2033 301,2033 331,2035 361,2035 391,2035 421,2037 451,2037 481,2039 511,2037 541,2037 571,2035 601,2033 631,2031 661,2031 691,2027 721,2025 751,2023 781,2023 811,2021 841,2021 871,2019 901,2019 931,2017 961,2017 991,2015 1021,2013 1051,2011 1081,2009 1111,2009 1141,2007 1171,2007 1201,2003 1231,2001 1261,1999"/>
                 <TextEquiv>
-                    <Unicode>Quarta tamen maxime cornu eius sepentrionale acuminatum atque rigidum</Unicode>
+                    <Unicode>Quarta tamen maximae cornu eius sepentrionale acuminatum atque rigidum</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_4_tl_4" custom="readingOrder {index:30;}">
@@ -239,24 +239,24 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Qui tempestatum serenitaterisve praesagia investigare et depraehendere nititur&#13;
+                <Unicode>Qui tempestatum serenitatisve praesagia investigare et depraehendere nititur&#13;
 his indiciis innitatur Sol purus oriens sed non fervens serenum diem nuntiat&#13;
 at hibernus pallidus grandinem Si et occidit pridie serenus et oritur tanto&#13;
-cercior fides serenitatis Concavus oriens pluvias praedicit Idem ventos&#13;
-cum ante exorientem eum nubes rubescunt Quod si et nigre rubentibus inter¬&#13;
+certior fides serenitatis Concavus oriens pluvias praedicit Idem ventos&#13;
+cum ante exorientem eum nubes rubescunt Quod si et nigrae rubentibus inter¬&#13;
 venerint et pluvias Cum occidentis aut orientis radii videntur coire&#13;
 pluvias Si circa occidentem rubescunt nubes serenitatem diei futuri&#13;
 spondent Si in ortu spargentur partim ad austrum partim ad aquilonem pura&#13;
-circa eum serenitas licet sit pluvam tamen ventosam significabit&#13;
+circa eum serenitas licet sit pluvam tamen ventosam significabunt&#13;
 Si in ortu aut in occasu contracti cernentur radii imbrem Si in occasu eius pluet&#13;
-aut radii nubem in se trahunt asperam in proximum diem tempestatem significabit&#13;
+aut radii nubem in se trahunt asperam in proximum diem tempestatem significabunt&#13;
 Cum in oriente radii non illustres eminebunt quamvis circumda nubes non sint.&#13;
 pluviam portendunt Si ante exortum nubes globabuntur hiemem aspertinam&#13;
 denuntiabunt Si ab ortu repellentur et ad occasum abibunt serenitatem&#13;
 Si nubes solem circumcludunt quanto minus luminis relinqunt tanto tur¬&#13;
-bidior tempestas erit Si vero etiam duplex orbis fuerit eo atrotior Quod&#13;
+bidior tempestas erit Si vero etiam duplex orbis fuerit eo atrocior Quod&#13;
 si in exortu aut in occasu fiet ita ut rubescant nubes maxima osten¬&#13;
-ditur tempestas Si non ambibunt sed imcumbent a quocumque vento fuerint&#13;
+ditur tempestas Si non ambibunt sed incumbent a quocumque vento fuerint&#13;
 eum portendent si a meridie et imbrem Si oriens cingetur orbe ex qua parte&#13;
 is se ruperit exspectetur ventus Si totus defluxerit aequaliter serenitatem&#13;
 dabit Si in ortu longe radios per nubes porriget et medius erit inanis pluviam&#13;
@@ -264,11 +264,11 @@ significabit Si ante ortum radii se ostendent aquam et ventum Si circa occide
 tem candidus circulus erit noctis lenem tempestatem si nebula vehementiorem&#13;
 si cadente sole ventum Si ater circulus fuerit ex qua regione is se ruperit&#13;
 ventum magnum&#13;
-Proxima sunt iure lune praesagia Quartam eam maxime observat&#13;
+Proxima sunt iurae lunae praesagia Quartam eam maximae observat&#13;
 egyptus Si splendens exorta puro nitore fulserit serenitatem&#13;
 Si rubicunda ventos Si nigra pluvias portendere creditur Si in xv&#13;
 cornua habuerit obtusa pluviam Erecta et infesta ventos semper significant&#13;
-Quarta tamen maxime cornu eius sepentrionale acuminatum atque rigidum&#13;
+Quarta tamen maximae cornu eius sepentrionale acuminatum atque rigidum&#13;
 illum praesagit ventum Inferius austrum utraque recta noctem ventosam&#13;
 Si quartam orbis rutilus cingebit et ventos et imbres praemonebit</Unicode>
             </TextEquiv>

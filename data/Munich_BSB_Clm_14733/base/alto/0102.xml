@@ -7,7 +7,7 @@
       <MeasurementUnit>pixel</MeasurementUnit>
       <OCRProcessing ID="IdOcr">
          <ocrProcessingStep>
-            <processingDateTime>2023-01-30T14:13:37.943+01:00</processingDateTime>
+            <processingDateTime>2023-01-31T19:00:53.044+01:00</processingDateTime>
             <processingSoftware>
                <softwareCreator>READ COOP</softwareCreator>
                <softwareName>Transkribus</softwareName>
@@ -379,7 +379,7 @@
                           WIDTH="1100"
                           VPOS="1780"
                           HPOS="218"
-                          CONTENT="partib᷒ fiet īcostātes uentos et undiq Si stellarꝝ errātiū aliꝗᷓ"/>
+                          CONTENT="partib᷒ fiet īcostātes uentos et undiq Si stellaꝝ errātiū aliꝗᷓ"/>
                </TextLine>
                <TextLine ID="tr_1_tl_7"
                          BASELINE="218,1884 246,1884 276,1884 306,1884 336,1884 366,1884 396,1884 426,1884 456,1882 486,1884 516,1884 546,1882 576,1884 606,1884 636,1884 666,1886 696,1886 726,1888 756,1890 786,1892 816,1892 846,1894 876,1894 906,1894 936,1894 966,1896 996,1896 1026,1898 1056,1898 1086,1898 1116,1898 1146,1898 1176,1898 1206,1898 1236,1894 1266,1890 1296,1888 1326,1882"

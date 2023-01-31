@@ -7,7 +7,7 @@
       <MeasurementUnit>pixel</MeasurementUnit>
       <OCRProcessing ID="IdOcr">
          <ocrProcessingStep>
-            <processingDateTime>2023-01-30T14:11:21.505+01:00</processingDateTime>
+            <processingDateTime>2023-01-31T19:05:27.26+01:00</processingDateTime>
             <processingSoftware>
                <softwareCreator>READ COOP</softwareCreator>
                <softwareName>Transkribus</softwareName>
@@ -379,7 +379,7 @@
                           WIDTH="1870"
                           VPOS="1774"
                           HPOS="321"
-                          CONTENT="Tercio loco stellarum obseruationem esse oportet discurrere hae uidentur Interrogatio"/>
+                          CONTENT="Tercio loco stellarum obseruationem esse oportet discurrere hae uidentur Inter"/>
                </TextLine>
                <TextLine ID="tr_1_tl_6"
                          BASELINE="328,1898 361,1898 406,1901 450,1901 495,1904 540,1907 585,1910 629,1913 674,1913 719,1913 764,1913 809,1913 853,1913 898,1916 943,1916 988,1916 1033,1916 1077,1916 1122,1913 1167,1916 1212,1913 1256,1910 1301,1907 1346,1907 1391,1907 1436,1907 1480,1907 1525,1910 1570,1907 1615,1907 1659,1904 1704,1904 1749,1901 1794,1901 1839,1901 1883,1901 1928,1898 1973,1895 2018,1895 2063,1889 2107,1886 2152,1883 2197,1880"
@@ -470,7 +470,7 @@
                           WIDTH="1940"
                           VPOS="2196"
                           HPOS="239"
-                          CONTENT="quo feruntur albescentes uentos ex his partibus nuntiabit Aut si cura stabit"/>
+                          CONTENT="quo feruntur albescentes uentos ex his partibus nuntiabunt Aut si cura stabit"/>
                </TextLine>
                <TextLine ID="tr_1_tl_13"
                          BASELINE="244,2313 274,2313 319,2313 364,2316 409,2319 453,2319 498,2319 543,2322 588,2319 632,2319 677,2322 722,2322 767,2325 812,2328 856,2328 901,2328 946,2331 991,2328 1035,2331 1080,2331 1125,2337 1170,2340 1215,2337 1259,2340 1304,2337 1349,2337 1394,2334 1439,2334 1483,2334 1528,2331 1573,2331 1618,2331 1662,2328 1707,2325 1752,2325 1797,2322 1842,2322 1886,2319 1931,2319 1976,2316 2021,2313 2066,2313 2110,2310 2155,2307 2200,2307"
@@ -587,7 +587,7 @@
                           WIDTH="1970"
                           VPOS="2756"
                           HPOS="239"
-                          CONTENT="sereno celo fulgetrae erter et tonitrua abhiemabit Atrocissime autem cum"/>
+                          CONTENT="sereno celo fulgetrae erunt et tonitrua abhiemabit Atrocissime autem cum"/>
                </TextLine>
                <TextLine ID="tr_3_tl_8"
                          BASELINE="247,2872 292,2872 337,2872 382,2875 426,2881 471,2884 516,2887 561,2890 606,2890 650,2890 695,2887 740,2887 785,2887 829,2887 874,2887 919,2887 964,2890 1009,2890 1053,2893 1098,2893 1143,2893 1188,2896 1233,2893 1277,2893 1322,2893 1367,2893 1412,2893 1456,2890 1501,2887 1546,2884 1591,2881 1636,2878 1680,2872 1725,2872 1770,2872 1815,2872 1860,2872 1904,2872 1949,2872 1994,2872 2039,2872 2083,2872 2128,2872 2173,2872 2197,2872"
@@ -600,7 +600,7 @@
                           WIDTH="1957"
                           VPOS="2818"
                           HPOS="234"
-                          CONTENT="ex ommibus iiii partibus celi fulgorauerunt Cum ab aquilone tantum in posterum diem"/>
+                          CONTENT="ex omnibus iiii partibus celi fulgorauerunt Cum ab aquilone tantum in posterum diem"/>
                </TextLine>
                <TextLine ID="tr_3_tl_9"
                          BASELINE="250,2931 265,2928 310,2931 355,2934 400,2937 444,2940 489,2946 534,2946 579,2946 623,2946 668,2946 713,2946 758,2943 803,2946 847,2943 892,2943 937,2946 982,2946 1027,2946 1071,2949 1116,2949 1161,2952 1206,2952 1250,2952 1295,2952 1340,2952 1385,2949 1430,2946 1474,2943 1519,2940 1564,2934 1609,2934 1654,2934 1698,2931 1743,2931 1788,2931 1833,2931 1877,2931 1922,2931 1967,2931 2012,2931 2057,2931 2101,2931 2146,2928 2191,2928"

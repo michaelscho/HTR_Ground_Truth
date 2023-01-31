@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.9.0:model_id=46502:lm=none:date=14_01_2023_12:43</Creator>
         <Created>2023-01-14T12:01:27.584+01:00</Created>
-        <LastChange>2023-01-30T12:51:18.748+01:00</LastChange>
-        <TranskribusMetadata docId="1292419" pageId="51581049" pageNr="102" tsid="112292117" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=GNQTGXGLZHNXMEVSNPPLXEZA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZAQWIIUJTBDKEDFMREPAFHLZ" imageId="42173247"/>
+        <LastChange>2023-01-30T16:44:34.166+01:00</LastChange>
+        <TranskribusMetadata docId="1292419" pageId="51581049" pageNr="102" tsid="112360560" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=GNQTGXGLZHNXMEVSNPPLXEZA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PACKMXBOTVEKZOUIHANBRCJE" imageId="42173247"/>
     </Metadata>
     <Page imageFilename="00102.jpg" imageWidth="1422" imageHeight="2374">
         <ReadingOrder>
-            <OrderedGroup id="ro_1675084417907" caption="Regions reading order">
+            <OrderedGroup id="ro_1675188053012" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1673703663331_69"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -200,7 +200,7 @@
                 <Coords points="220,1853 1302,1859 1318,1780 218,1797"/>
                 <Baseline points="228,1829 260,1830 290,1828 320,1830 350,1832 380,1832 410,1830 440,1832 470,1834 500,1834 530,1834 560,1834 590,1834 620,1834 650,1834 680,1834 710,1836 740,1838 770,1838 800,1838 830,1838 860,1838 890,1840 920,1840 950,1840 980,1840 1010,1842 1040,1842 1070,1842 1100,1840 1130,1840 1160,1840 1190,1840 1220,1838 1250,1836 1280,1836 1310,1836 1324,1836"/>
                 <TextEquiv>
-                    <Unicode>partib᷒ fiet īcostātes uentos et undiq Si stellarꝝ errātiū aliꝗᷓ</Unicode>
+                    <Unicode>partib᷒ fiet īcostātes uentos et undiq Si stellaꝝ errātiū aliꝗᷓ</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_7" custom="readingOrder {index:27;}">
@@ -265,7 +265,7 @@ Cum repente stellaꝝ fulgur obscurat ut id neq nubilo nec cali&#13;
 gine accidat graues denuntiant tempestates Si uolitare plu&#13;
 res stelle uidebunt qͦ ferunt albescentes uentos ex his&#13;
 partib᷒ nuntiaƀt aut si cura staƀt certos si id ī plurib᷒&#13;
-partib᷒ fiet īcostātes uentos et undiq Si stellarꝝ errātiū aliꝗᷓ&#13;
+partib᷒ fiet īcostātes uentos et undiq Si stellaꝝ errātiū aliꝗᷓ&#13;
 orbis īcluserit imbrē Sūt ī signo cancri due stelle parue&#13;
 aselle appellate exiguum īt̅ illas spatiū optinentē nubecu&#13;
 lā ꝗᷓ p̄sepia appellāt Hec cū celo sereno appar̾e desiit&#13;

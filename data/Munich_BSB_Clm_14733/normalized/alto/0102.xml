@@ -7,7 +7,7 @@
       <MeasurementUnit>pixel</MeasurementUnit>
       <OCRProcessing ID="IdOcr">
          <ocrProcessingStep>
-            <processingDateTime>2023-01-30T21:09:29.993+01:00</processingDateTime>
+            <processingDateTime>2023-01-31T19:00:30.733+01:00</processingDateTime>
             <processingSoftware>
                <softwareCreator>READ COOP</softwareCreator>
                <softwareName>Transkribus</softwareName>
@@ -132,7 +132,7 @@
                           WIDTH="1155"
                           VPOS="580"
                           HPOS="143"
-                          CONTENT="crescens dabit Si inferiore ante plenilunium Si in media nigricia"/>
+                          CONTENT="crescens dabit Si inferiore ante plenilunium Si in media nigritia"/>
                </TextLine>
                <TextLine ID="tr_6_tl_4"
                          BASELINE="156,712 158,712 188,712 218,712 248,710 278,708 308,706 338,704 368,704 398,704 428,702 458,700 488,700 518,700 548,700 578,700 608,698 638,696 668,694 698,694 728,694 758,696 788,698 818,698 848,698 878,696 908,696 938,696 968,696 998,696 1028,698 1058,698 1088,698 1118,698 1148,700 1178,700 1208,700 1238,702 1268,704 1298,704"
@@ -210,7 +210,7 @@
                           WIDTH="1136"
                           VPOS="985"
                           HPOS="176"
-                          CONTENT="praesagiet Sunt et ipsius lune octo circuli quotiens in angulos solidi inci¬"/>
+                          CONTENT="praesagiet Sunt et ipsius lunae octo circuli quotiens in angulos solis inci¬"/>
                </TextLine>
                <TextLine ID="tr_2_tl_6"
                          BASELINE="184,1098 196,1098 226,1098 256,1098 286,1098 316,1098 346,1100 376,1098 406,1100 436,1100 466,1100 496,1100 526,1098 556,1098 586,1096 616,1096 646,1092 676,1092 706,1092 736,1094 766,1094 796,1092 826,1090 856,1090 886,1090 916,1092 946,1092 976,1090 1006,1092 1036,1090 1066,1088 1096,1088 1126,1088 1156,1088 1186,1088 1216,1088 1246,1088 1276,1090 1306,1088"
@@ -249,7 +249,7 @@
                           WIDTH="1063"
                           VPOS="1159"
                           HPOS="248"
-                          CONTENT="ERTIO loco stellarum observationem esse oportet discurrere he viden¬"/>
+                          CONTENT="ERTIO loco stellarum observationem esse oportet discurrere hae viden¬"/>
                </TextLine>
                <TextLine ID="tr_4_tl_2"
                          BASELINE="256,1284 276,1284 306,1284 336,1286 366,1286 396,1284 426,1284 456,1284 486,1284 516,1282 546,1284 576,1284 606,1284 636,1282 666,1280 696,1280 726,1280 756,1278 786,1276 816,1276 846,1276 876,1276 906,1276 936,1276 966,1274 996,1274 1026,1272 1056,1272 1086,1272 1116,1270 1146,1270 1176,1272 1206,1274 1236,1274 1266,1272 1296,1270 1326,1268"
@@ -288,7 +288,7 @@
                           WIDTH="1099"
                           VPOS="1340"
                           HPOS="193"
-                          CONTENT="proposuimus auttumnum serenum praesagiabitur frigidum Si ver et aestas"/>
+                          CONTENT="proposuimus autumnum serenum praesagiabitur frigidum Si ver et aestas"/>
                </TextLine>
                <TextLine ID="tr_4_tl_5"
                          BASELINE="212,1454 216,1456 246,1456 276,1456 306,1456 336,1458 366,1458 396,1458 426,1458 456,1460 486,1458 516,1460 546,1458 576,1458 606,1460 636,1460 666,1460 696,1458 726,1458 756,1458 786,1458 816,1458 846,1458 876,1460 906,1460 936,1460 966,1460 996,1460 1026,1460 1056,1462 1086,1462 1116,1462 1146,1460 1176,1458 1206,1458 1236,1458 1266,1456 1296,1454 1326,1452"
@@ -301,7 +301,7 @@
                           WIDTH="1120"
                           VPOS="1399"
                           HPOS="204"
-                          CONTENT="non sinus refrigerio aliquo transierit autumnum serenum ac densum mi¬"/>
+                          CONTENT="non sine refrigerio aliquo transierit autumnum serenum ac densum mi¬"/>
                </TextLine>
                <TextLine ID="tr_1_tl_1"
                          BASELINE="216,1524 226,1524 256,1522 286,1522 316,1524 346,1524 376,1524 406,1524 436,1524 466,1524 496,1524 526,1524 556,1522 586,1522 616,1522 646,1522 676,1522 706,1522 736,1522 766,1522 796,1524 826,1524 856,1524 886,1524 916,1524 946,1526 976,1526 1006,1526 1036,1526 1066,1526 1096,1526 1126,1528 1156,1528 1186,1528 1216,1528 1246,1528 1276,1526 1306,1526 1336,1518"
@@ -353,7 +353,7 @@
                           WIDTH="1085"
                           VPOS="1659"
                           HPOS="216"
-                          CONTENT="res stelle videbuntur quo feruntur albescentes ventos ex his"/>
+                          CONTENT="res stellae videbuntur quo feruntur albescentes ventos ex his"/>
                </TextLine>
                <TextLine ID="tr_1_tl_5"
                          BASELINE="226,1780 240,1778 270,1776 300,1776 330,1776 360,1778 390,1778 420,1778 450,1778 480,1780 510,1778 540,1778 570,1778 600,1780 630,1780 660,1780 690,1782 720,1782 750,1782 780,1782 810,1784 840,1784 870,1784 900,1782 930,1782 960,1782 990,1784 1020,1786 1050,1786 1080,1786 1110,1786 1140,1786 1170,1784 1200,1784 1230,1784 1260,1780 1290,1776 1320,1774"
@@ -366,7 +366,7 @@
                           WIDTH="1099"
                           VPOS="1707"
                           HPOS="218"
-                          CONTENT="partibus nuntiabit aut si cura stabit certos si id in pluribus"/>
+                          CONTENT="partibus nuntiabunt aut si cura stabunt certos si id in pluribus"/>
                </TextLine>
                <TextLine ID="tr_1_tl_6"
                          BASELINE="228,1829 260,1830 290,1828 320,1830 350,1832 380,1832 410,1830 440,1832 470,1834 500,1834 530,1834 560,1834 590,1834 620,1834 650,1834 680,1834 710,1836 740,1838 770,1838 800,1838 830,1838 860,1838 890,1840 920,1840 950,1840 980,1840 1010,1842 1040,1842 1070,1842 1100,1840 1130,1840 1160,1840 1190,1840 1220,1838 1250,1836 1280,1836 1310,1836 1324,1836"
@@ -379,7 +379,7 @@
                           WIDTH="1100"
                           VPOS="1780"
                           HPOS="218"
-                          CONTENT="partibus fiet incostantes ventos et undique Si stellarum errantium aliqua"/>
+                          CONTENT="partibus fiet incostantes ventos et undique Si stellarum errantium aliquam"/>
                </TextLine>
                <TextLine ID="tr_1_tl_7"
                          BASELINE="218,1884 246,1884 276,1884 306,1884 336,1884 366,1884 396,1884 426,1884 456,1882 486,1884 516,1884 546,1882 576,1884 606,1884 636,1884 666,1886 696,1886 726,1888 756,1890 786,1892 816,1892 846,1894 876,1894 906,1894 936,1894 966,1896 996,1896 1026,1898 1056,1898 1086,1898 1116,1898 1146,1898 1176,1898 1206,1898 1236,1894 1266,1890 1296,1888 1326,1882"
@@ -392,7 +392,7 @@
                           WIDTH="1113"
                           VPOS="1847"
                           HPOS="210"
-                          CONTENT="orbis incluserit imbrem Sunt in signo cancri due stelle parve"/>
+                          CONTENT="orbis incluserit imbrem Sunt in signo cancri duae stellae parvae"/>
                </TextLine>
                <TextLine ID="tr_1_tl_8"
                          BASELINE="216,1940 246,1940 276,1940 306,1942 336,1942 366,1942 396,1942 426,1940 456,1940 486,1940 516,1940 546,1942 576,1942 606,1942 636,1944 666,1944 696,1944 726,1944 756,1948 786,1948 816,1948 846,1948 876,1950 906,1950 936,1950 966,1952 996,1952 1026,1954 1056,1954 1086,1954 1116,1954 1146,1954 1176,1954 1206,1952 1236,1950 1266,1946 1296,1944 1326,1940 1344,1940"
@@ -405,7 +405,7 @@
                           WIDTH="1134"
                           VPOS="1896"
                           HPOS="208"
-                          CONTENT="aselle appellate exiguum inter illas spatium obtinentem nubecu¬"/>
+                          CONTENT="aselle appellate exiguum inter illas spatium optinentem nubecu¬"/>
                </TextLine>
                <TextLine ID="tr_5_tl_1"
                          BASELINE="214,2014 236,2016 266,2016 296,2020 326,2020 356,2020 386,2020 416,2018 446,2016 476,2016 506,2014 536,2012 566,2012 596,2014 626,2014 656,2016 686,2018 716,2016 746,2018 776,2016 806,2018 836,2018 866,2018 896,2018 926,2020 956,2020 986,2022 1016,2024 1046,2024 1076,2024 1106,2022 1136,2022 1166,2020 1196,2018 1226,2016 1256,2012"
@@ -418,7 +418,7 @@
                           WIDTH="1047"
                           VPOS="1955"
                           HPOS="205"
-                          CONTENT="lam quam praesepia appellant Hec cum celo sereno apparere desiit"/>
+                          CONTENT="lam quam praesepia appellant Haec cum caelo sereno apparere desiit"/>
                </TextLine>
                <TextLine ID="tr_5_tl_2"
                          BASELINE="212,2078 234,2082 264,2082 294,2082 324,2082 354,2082 384,2082 414,2080 444,2080 474,2080 504,2080 534,2082 564,2080 594,2082 624,2084 654,2084 684,2084 714,2084 744,2084 774,2084 804,2084 834,2084 864,2084 894,2082 924,2082 954,2082 984,2082 1014,2082 1044,2082 1074,2080 1104,2080 1134,2080 1164,2078 1194,2078 1224,2078 1254,2076 1284,2074 1314,2076"
@@ -431,7 +431,7 @@
                           WIDTH="1107"
                           VPOS="2017"
                           HPOS="204"
-                          CONTENT="atrox hiemps sequitur Si in alteram earum aquiloniam caligo abstulit"/>
+                          CONTENT="atrox hiems sequitur Si in alteram earum aquiloniam caligo abstulit"/>
                </TextLine>
                <TextLine ID="tr_5_tl_3"
                          BASELINE="216,2134 246,2136 276,2138 306,2140 336,2140 366,2140 396,2138 426,2140 456,2138 486,2138 516,2138 546,2136 576,2136 606,2136 636,2138 666,2138 696,2140 726,2140 756,2140 786,2142 816,2144 820,2144"

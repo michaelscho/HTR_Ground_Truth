@@ -8,7 +8,7 @@
     </Metadata>
     <Page imageFilename="ÖNB Wien 1180-1199 - Cod. 12600-0033.jpg" imageWidth="2644" imageHeight="3741">
         <ReadingOrder>
-            <OrderedGroup id="ro_1675084134978" caption="Regions reading order">
+            <OrderedGroup id="ro_1675188294759" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1673723074246_498"/>
                 <RegionRefIndexed index="1" regionRef="TextRegion_1673723157236_548"/>
             </OrderedGroup>

@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.9.0:model_id=46502:lm=none:date=14_01_2023_16:15</Creator>
         <Created>2023-01-14T12:47:27.178+01:00</Created>
-        <LastChange>2023-01-30T13:24:09.346+01:00</LastChange>
-        <TranskribusMetadata docId="1314922" pageId="51971922" pageNr="36" tsid="112304461" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=NSQGVFIUDDPGQWRZIZVUOVBS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RSZZEKFQUVAHHDRYWEDOWIJW" imageId="42173563"/>
+        <LastChange>2023-01-31T15:43:52.122+01:00</LastChange>
+        <TranskribusMetadata docId="1314922" pageId="51971922" pageNr="36" tsid="112560447" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=NSQGVFIUDDPGQWRZIZVUOVBS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JPSIOZXMOWGMTWUPTCGANNGP" imageId="42173563"/>
     </Metadata>
     <Page imageFilename="ÖNB Wien 1180-1199 - Cod. 12600-0036.jpg" imageWidth="2639" imageHeight="3726">
         <ReadingOrder>
-            <OrderedGroup id="ro_1675084281473" caption="Regions reading order">
+            <OrderedGroup id="ro_1675188327230" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1673728070158_854"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -200,7 +200,7 @@
                 <Coords points="321,1851 2191,1841 2191,1781 2067,1774 321,1806"/>
                 <Baseline points="334,1845 361,1845 406,1845 450,1845 495,1848 540,1848 585,1854 629,1854 674,1857 719,1860 764,1860 809,1860 853,1860 898,1860 943,1860 988,1857 1033,1857 1077,1857 1122,1857 1167,1857 1212,1857 1256,1854 1301,1851 1346,1848 1391,1851 1436,1851 1480,1851 1525,1851 1570,1851 1615,1848 1659,1845 1704,1845 1749,1842 1794,1842 1839,1842 1883,1842 1928,1842 1973,1839 2018,1839 2063,1836 2107,1836 2152,1830 2197,1830"/>
                 <TextEquiv>
-                    <Unicode>Tercio loco stellarum obseruationem esse oportet discurrere hae uidentur Interrogatio</Unicode>
+                    <Unicode>Tercio loco stellarum obseruationem esse oportet discurrere hae uidentur Inter</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_6" custom="readingOrder {index:27;}">
@@ -249,7 +249,7 @@
                 <Coords points="239,2281 2179,2274 2149,2196 239,2209"/>
                 <Baseline points="253,2254 298,2254 343,2254 388,2257 432,2257 477,2257 522,2257 567,2257 612,2257 656,2260 701,2263 746,2266 791,2266 835,2269 880,2269 925,2272 970,2272 1015,2275 1059,2277 1104,2277 1149,2277 1194,2277 1239,2277 1283,2277 1328,2275 1373,2275 1418,2272 1462,2272 1507,2272 1552,2272 1597,2269 1642,2269 1686,2266 1731,2266 1776,2260 1821,2260 1865,2260 1910,2257 1955,2257 2000,2254 2045,2254 2089,2251 2134,2251 2179,2251 2185,2254"/>
                 <TextEquiv>
-                    <Unicode>quo feruntur albescentes uentos ex his partibus nuntiabit Aut si cura stabit</Unicode>
+                    <Unicode>quo feruntur albescentes uentos ex his partibus nuntiabunt Aut si cura stabit</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_13" custom="readingOrder {index:34;}">
@@ -312,14 +312,14 @@
                 <Coords points="239,2833 2209,2818 2055,2756 239,2764"/>
                 <Baseline points="253,2815 298,2812 343,2812 388,2818 432,2821 477,2824 522,2824 567,2827 612,2827 656,2827 701,2827 746,2827 791,2827 835,2827 880,2824 925,2830 970,2830 1015,2830 1059,2830 1104,2830 1149,2833 1194,2833 1239,2833 1283,2833 1328,2833 1373,2833 1418,2833 1462,2836 1507,2830 1552,2827 1597,2827 1642,2821 1686,2818 1731,2815 1776,2812 1821,2812 1865,2812 1910,2812 1955,2812 2000,2812 2045,2812 2089,2812 2134,2812 2179,2815 2215,2818"/>
                 <TextEquiv>
-                    <Unicode>sereno celo fulgetrae erter et tonitrua abhiemabit Atrocissime autem cum</Unicode>
+                    <Unicode>sereno celo fulgetrae erunt et tonitrua abhiemabit Atrocissime autem cum</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_3_tl_8" custom="readingOrder {index:43;}">
                 <Coords points="234,2881 2191,2898 2191,2823 2097,2818 234,2828"/>
                 <Baseline points="247,2872 292,2872 337,2872 382,2875 426,2881 471,2884 516,2887 561,2890 606,2890 650,2890 695,2887 740,2887 785,2887 829,2887 874,2887 919,2887 964,2890 1009,2890 1053,2893 1098,2893 1143,2893 1188,2896 1233,2893 1277,2893 1322,2893 1367,2893 1412,2893 1456,2890 1501,2887 1546,2884 1591,2881 1636,2878 1680,2872 1725,2872 1770,2872 1815,2872 1860,2872 1904,2872 1949,2872 1994,2872 2039,2872 2083,2872 2128,2872 2173,2872 2197,2872"/>
                 <TextEquiv>
-                    <Unicode>ex ommibus iiii partibus celi fulgorauerunt Cum ab aquilone tantum in posterum diem</Unicode>
+                    <Unicode>ex omnibus iiii partibus celi fulgorauerunt Cum ab aquilone tantum in posterum diem</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_3_tl_9" custom="readingOrder {index:44;}">
@@ -363,14 +363,14 @@ flante hiemalis toto mense erit Si xvi uehementius flammea apparuerit&#13;
 asperas tempestates praesagiet Sunt et ipsius lune octo circuli quoties in an&#13;
 gulos solis incidat plerisque intra eos tantum obseruantibus praesagia eius hoc est iii vii&#13;
 xi xv xviiii xxiii xxvii et interlunium&#13;
-Tercio loco stellarum obseruationem esse oportet discurrere hae uidentur Interrogatio&#13;
+Tercio loco stellarum obseruationem esse oportet discurrere hae uidentur Inter&#13;
 dum uentique protinus secuntur in quorum parte ita praesagiere celum cum equaliter totum&#13;
 erit splendidum articuli temporum quos proposuimus autumnum serenum praesagiabitur&#13;
 frigidum Si uer et estas non sine refrigerio aliquo transierint autumnum serenum&#13;
 ac densum minusque uentosum facient autumni serenitas uentosam hiemem facit&#13;
 Cum repente stellarum fulgur obscuratur ut id neque nubilo nec caligine acci&#13;
 dat graues denuntiantur tempestates Si uolitare plures stellę uidebuntur&#13;
-quo feruntur albescentes uentos ex his partibus nuntiabit Aut si cura stabit&#13;
+quo feruntur albescentes uentos ex his partibus nuntiabunt Aut si cura stabit&#13;
 certos si id in pluribus partibus fiet inconstantes uentos et undique Si stellarum erran&#13;
 tium aliquam orbis incluserit imbrem Sunt in signo cancri duę stellae paruae&#13;
 aselle appellatę exiguum inter illas spatium optinentem nubeculam quam praesepia&#13;
@@ -379,8 +379,8 @@ alteram earum aquiloniam caligo abstulit auster saeuit si austroniam aquil
 Arcus cum sunt duplices pluuias nuntiant a pluuiis serenitatem non perinde&#13;
 certam circulis nubit circa sydera aliqua pluuiam Cum aestate uehementius tonu&#13;
 it quam fulsit uentos ex ea parte denuntiat Contra si minus tonuit imbrem cum&#13;
-sereno celo fulgetrae erter et tonitrua abhiemabit Atrocissime autem cum&#13;
-ex ommibus iiii partibus celi fulgorauerunt Cum ab aquilone tantum in posterum diem&#13;
+sereno celo fulgetrae erunt et tonitrua abhiemabit Atrocissime autem cum&#13;
+ex omnibus iiii partibus celi fulgorauerunt Cum ab aquilone tantum in posterum diem&#13;
 aquam portendit cum viitrione uentum eum cum ab austro uel choro aut fauo&#13;
 nio uentum et imbrem ex hisdem regionibus demonstrauit Tontirua ma</Unicode>
             </TextEquiv>

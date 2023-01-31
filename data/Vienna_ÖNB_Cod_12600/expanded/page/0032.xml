@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.9.0:model_id=46502:lm=none:date=14_01_2023_16:15</Creator>
         <Created>2023-01-14T12:47:27.113+01:00</Created>
-        <LastChange>2023-01-30T12:59:47.164+01:00</LastChange>
-        <TranskribusMetadata docId="1314922" pageId="51971918" pageNr="32" tsid="112295377" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=GHGIJHPYSNPJPWJRGXTOCATR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TFPENMECICHSULHLPVPIFMZL" imageId="42173559"/>
+        <LastChange>2023-01-31T15:28:56.177+01:00</LastChange>
+        <TranskribusMetadata docId="1314922" pageId="51971918" pageNr="32" tsid="112559596" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=GHGIJHPYSNPJPWJRGXTOCATR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GFDTLWPFMYJZLPRCAXHSYNDO" imageId="42173559"/>
     </Metadata>
     <Page imageFilename="ÖNB Wien 1180-1199 - Cod. 12600-0032.jpg" imageWidth="2638" imageHeight="3725">
         <ReadingOrder>
-            <OrderedGroup id="ro_1675084281280" caption="Regions reading order">
+            <OrderedGroup id="ro_1675188327060" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1673856910992_1248"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -39,7 +39,7 @@
                 <Coords points="227,505 2173,547 2126,490 227,451"/>
                 <Baseline points="241,492 286,492 331,492 376,495 420,498 465,501 510,501 555,504 599,507 644,510 689,513 734,513 779,513 823,516 868,519 913,519 958,522 1002,522 1047,525 1092,528 1137,528 1181,528 1226,528 1271,528 1316,528 1361,525 1405,525 1450,525 1495,525 1540,528 1584,531 1629,537 1674,540 1719,540 1764,540 1808,540 1853,540 1898,540 1943,540 1987,537 2032,537 2077,537 2122,540 2166,540 2178,540"/>
                 <TextEquiv>
-                    <Unicode>Tanto enim tempus celum circuit Iouis autem stella xii et saturni xxx annos in eadem circuitione</Unicode>
+                    <Unicode>Tanto enim tempore celum circuit Iouis autem stella xii et saturni xxx annos in eadem circuitione</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
@@ -53,14 +53,14 @@
                 <Coords points="234,623 2180,658 2126,601 234,557"/>
                 <Baseline points="247,608 292,608 337,611 382,614 426,617 471,617 516,620 561,620 605,623 650,626 695,626 740,629 784,632 829,635 874,638 919,638 964,638 1008,641 1053,641 1098,644 1143,644 1187,641 1232,641 1277,641 1322,638 1367,638 1411,638 1456,635 1501,635 1546,635 1590,638 1635,641 1680,644 1725,650 1769,650 1814,653 1859,653 1904,653 1949,653 1993,647 2038,647 2083,650 2128,650 2172,653 2187,653"/>
                 <TextEquiv>
-                    <Unicode>sitatis efficitur largissimis sęcularis explicatur cuius ratio talis est Stellę omnes et sydera que infixa</Unicode>
+                    <Unicode>sitatis efficitur largissimis sęculis explicatur cuius ratio talis est Stellę omnes et sydera que infixa</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
                 <Coords points="234,680 2180,732 2178,658 234,623"/>
                 <Baseline points="247,665 292,665 337,668 382,671 426,674 471,677 516,680 561,683 605,686 650,692 695,689 740,689 784,689 829,692 874,695 919,695 964,695 1008,698 1053,701 1098,701 1143,704 1187,704 1232,704 1277,701 1322,698 1367,698 1411,698 1456,698 1501,698 1546,698 1590,701 1635,704 1680,707 1725,710 1769,710 1814,710 1859,710 1904,710 1949,710 1993,707 2038,707 2083,707 2128,704 2172,704 2184,704"/>
                 <TextEquiv>
-                    <Unicode>celo uidentur quorum proprium motum nunque uisus humanus sentire uel depraehendere poter mouentur</Unicode>
+                    <Unicode>celo uidentur quorum proprium motum nunque uisus humanus sentire uel depraehendere potest mouentur</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
@@ -88,7 +88,7 @@
                 <Coords points="224,912 2193,971 2193,872 222,857"/>
                 <Baseline points="238,895 283,898 328,904 373,907 417,913 462,913 507,916 552,916 596,922 641,922 686,922 731,925 776,925 820,928 865,931 910,931 955,934 999,934 1044,934 1089,934 1134,934 1178,934 1223,934 1268,931 1313,928 1358,928 1402,925 1447,925 1492,922 1537,925 1581,925 1626,928 1671,928 1716,934 1761,934 1805,937 1850,940 1895,940 1940,940 1984,940 2029,940 2074,940 2119,940 2163,943 2199,943"/>
                 <TextEquiv>
-                    <Unicode>omniaque sydera que a planes habet a certo loco ad eundem locum remeauerint ut nec una</Unicode>
+                    <Unicode>omniaque sydera que aplanes habet a certo loco ad eundem locum remeauerint ut nec una</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
@@ -130,7 +130,7 @@
                 <Coords points="224,1259 2131,1293 2107,1227 224,1210"/>
                 <Baseline points="238,1244 283,1247 328,1250 373,1253 417,1256 462,1259 507,1262 552,1262 596,1265 641,1271 686,1274 731,1277 776,1280 820,1280 865,1277 910,1277 955,1277 999,1277 1044,1274 1089,1274 1134,1274 1178,1274 1223,1274 1268,1277 1313,1277 1358,1277 1402,1280 1447,1280 1492,1280 1537,1280 1581,1280 1626,1280 1671,1280 1716,1280 1761,1280 1805,1277 1850,1277 1895,1277 1940,1277 1984,1280 2029,1280 2074,1283 2119,1283 2137,1286"/>
                 <TextEquiv>
-                    <Unicode>danum annum x̿v annorum quales nec computamus efficiunt Ille ergo uere annus uertens uo</Unicode>
+                    <Unicode>danum annum x̿v annorum quales nunc computamus efficiunt Ille ergo uere annus uertens uo</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_2_tl_5" custom="readingOrder {index:17;}">
@@ -172,7 +172,7 @@
                 <Coords points="227,1616 1722,1656 2124,1629 2124,1579 224,1537"/>
                 <Baseline points="238,1584 283,1590 328,1593 373,1593 417,1596 462,1599 507,1599 552,1602 596,1605 641,1608 686,1614 731,1614 776,1617 820,1617 865,1617 910,1614 955,1614 999,1614 1044,1617 1089,1620 1134,1620 1178,1620 1223,1620 1268,1623 1313,1623 1358,1623 1402,1626 1447,1626 1492,1626 1537,1626 1581,1626 1626,1626 1671,1626 1716,1626 1761,1626 1805,1623 1850,1626 1895,1623 1940,1620 1984,1620 2029,1620 2074,1617 2119,1617 2131,1620"/>
                 <TextEquiv>
-                    <Unicode>quisque facit quodcumque decreuerit Vt ecce nec cicero a defectu solis qui sub romuli fine</Unicode>
+                    <Unicode>quisque facit quodcumque decreuerit Vt ecce nunc cicero a defectu solis qui sub romuli fine</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_4_tl_3" custom="readingOrder {index:23;}">
@@ -291,7 +291,7 @@
                 <Coords points="219,2602 2153,2653 2153,2587 217,2518"/>
                 <Baseline points="232,2584 277,2584 322,2587 367,2593 411,2596 456,2602 501,2605 546,2605 590,2605 635,2605 680,2608 725,2608 770,2608 814,2611 859,2611 904,2611 949,2611 993,2611 1038,2614 1083,2614 1128,2614 1173,2614 1217,2617 1262,2617 1307,2617 1352,2617 1396,2620 1441,2620 1486,2623 1531,2626 1575,2629 1620,2629 1665,2629 1710,2629 1755,2629 1799,2626 1844,2626 1889,2623 1934,2623 1978,2626 2023,2626 2068,2629 2113,2632 2157,2638 2160,2638"/>
                 <TextEquiv>
-                    <Unicode>idmo iiii pars diei qui xxiiii horis cum sua nocte completur id est horę sex quadrans</Unicode>
+                    <Unicode>ideo iiii pars diei qui xxiiii horis cum sua nocte completur id est horę sex quadrans</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_1" custom="readingOrder {index:40;}">
@@ -319,7 +319,7 @@
                 <Coords points="219,2843 2153,2892 1767,2809 219,2789"/>
                 <Baseline points="232,2835 277,2835 322,2838 367,2844 411,2844 456,2847 501,2850 546,2850 590,2850 635,2850 680,2853 725,2856 770,2859 814,2859 859,2862 904,2862 949,2862 993,2865 1038,2865 1083,2865 1128,2868 1173,2868 1217,2871 1262,2874 1307,2877 1352,2880 1396,2880 1441,2877 1486,2877 1531,2871 1575,2868 1620,2865 1665,2862 1710,2862 1755,2865 1799,2868 1844,2868 1889,2871 1934,2877 1978,2880 2023,2883 2068,2886 2113,2883 2157,2883"/>
                 <TextEquiv>
-                    <Unicode>horis adimplere cognoscitur unde fit ut si uerbi gratia nec aequinoctialem caeli</Unicode>
+                    <Unicode>horis adimplere cognoscitur unde fit ut si uerbi gratia nunc aequinoctialem caeli</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_5" custom="readingOrder {index:44;}">
@@ -333,26 +333,26 @@
                 <Unicode>circuitu a certo loco in eundem locum reditus annus suus est Sic mensis lunę annus est intra quem&#13;
 celi ambitum lustrat Nam et a luna mensis dicitur quia greco nomine luna mene uocatur Nam&#13;
 cursus quidem ueneris atque mercurii pene par soli est Martis vero annus est fere biennium tenet&#13;
-Tanto enim tempus celum circuit Iouis autem stella xii et saturni xxx annos in eadem circuitione&#13;
+Tanto enim tempore celum circuit Iouis autem stella xii et saturni xxx annos in eadem circuitione&#13;
 consumit Annus vero qui mundasius uocatur qui uere uertens est quia conuersione plene uniuer&#13;
-sitatis efficitur largissimis sęcularis explicatur cuius ratio talis est Stellę omnes et sydera que infixa&#13;
-celo uidentur quorum proprium motum nunque uisus humanus sentire uel depraehendere poter mouentur&#13;
+sitatis efficitur largissimis sęculis explicatur cuius ratio talis est Stellę omnes et sydera que infixa&#13;
+celo uidentur quorum proprium motum nunque uisus humanus sentire uel depraehendere potest mouentur&#13;
 tamen et praeter celi uolubilitatem qua semper trahuntur suo quoque accessu tam sero promouent ut&#13;
 nullius hominum uita tam longa sit que obseruatione continua factam de loco permutati&#13;
 onem in quo eas primum uiderat depraehendat mundani ergo anni finis est cum stellae omnes&#13;
-omniaque sydera que a planes habet a certo loco ad eundem locum remeauerint ut nec una&#13;
+omniaque sydera que aplanes habet a certo loco ad eundem locum remeauerint ut nec una&#13;
 quidem celi stella in alio loco sit quam in quo fuit cum omnes alie ex eo loco motę sunt&#13;
 Ad quem reuersę anno suo finem dederunt ita ut lumina quique cum erraticis quinque&#13;
 in isdem locis et partibus sint in quibus incipiente anno mundano fuerunt Hoc autem&#13;
 ut phisici uolunt post quindecim milia peracta contigit Ergo sicut annus lunę mensis&#13;
 est et annus solis xii menses et aliarum stellarum Hi sunt anni quos supra retulimus ita mun&#13;
-danum annum x̿v annorum quales nec computamus efficiunt Ille ergo uere annus uertens uo&#13;
+danum annum x̿v annorum quales nunc computamus efficiunt Ille ergo uere annus uertens uo&#13;
 candus est quem non solis id est unius astri reditu metitur sed quem stellarum omniumque que&#13;
 in quocumque caelo sunt ad eundem locums reditums sub eadem celi totius descriptione con&#13;
 cludit Vnde et mundanus dicitur quia mundus proprie celum uocatur Igitur sicut solis non solum&#13;
 a kalendis ianuariis usque ad easdem uocamus sed et a sequente post kalendas die&#13;
 usque in diem eundem reditus annus uocatur Ita huius mundani anni initium sibi&#13;
-quisque facit quodcumque decreuerit Vt ecce nec cicero a defectu solis qui sub romuli fine&#13;
+quisque facit quodcumque decreuerit Vt ecce nunc cicero a defectu solis qui sub romuli fine&#13;
 contigit mundani anni principium sibi ipse constituit et licet iam sepissime postea&#13;
 defectus solis euenerit non dicitur tamen mundanum annum repetita defectio solis implesse&#13;
 sed tunc implebitur cum sol deficiens in isdem locis et partibus et ipse erit et omnes celi stel&#13;
@@ -369,11 +369,11 @@ a fine romuli ad africanam miliciam scipionis quos diximus annos fuisse dl
 quisquis in digitos mittit inueniet Vnde conficiatur bissextus&#13;
 Bissextus igitur ex quadrantis ratione per quadriennium conficitur Quadrantem namque solent&#13;
 appellare quartam partem cuiuslibet rei Verbi gratia pecunię temporis loci et&#13;
-idmo iiii pars diei qui xxiiii horis cum sua nocte completur id est horę sex quadrans&#13;
+ideo iiii pars diei qui xxiiii horis cum sua nocte completur id est horę sex quadrans&#13;
 consuete uocatur Quadrantis autem huiusce per quadriennium in diem integrum colligen&#13;
 di et suo in loco interkalandi hec est ratio quia sol annumum caeli ambitum id est xii&#13;
 signa circuli zodiaci notissima non in ccclxv diebus sed superadditis sex&#13;
-horis adimplere cognoscitur unde fit ut si uerbi gratia nec aequinoctialem caeli&#13;
+horis adimplere cognoscitur unde fit ut si uerbi gratia nunc aequinoctialem caeli&#13;
 locum mane oriens intrauerit in hunc anno sequente in meridie tertio uespere</Unicode>
             </TextEquiv>
         </TextRegion>

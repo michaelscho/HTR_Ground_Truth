@@ -7,7 +7,7 @@
       <MeasurementUnit>pixel</MeasurementUnit>
       <OCRProcessing ID="IdOcr">
          <ocrProcessingStep>
-            <processingDateTime>2023-01-30T14:14:16.367+01:00</processingDateTime>
+            <processingDateTime>2023-01-31T19:00:08.376+01:00</processingDateTime>
             <processingSoftware>
                <softwareCreator>READ COOP</softwareCreator>
                <softwareName>Transkribus</softwareName>
@@ -301,7 +301,7 @@
                           WIDTH="1075"
                           VPOS="1381"
                           HPOS="177"
-                          CONTENT="B his terreni ignes proxime significatur Pallidi namque murmuram"/>
+                          CONTENT="B his terreni ignes proxime significant Pallidi namque murmuram"/>
                </TextLine>
                <TextLine ID="tr_2_tl_6"
                          BASELINE="192,1530 200,1528 230,1528 260,1528 290,1526 320,1526 350,1524 380,1524 410,1522 440,1520 470,1518 500,1516 530,1516 560,1516 590,1516 620,1514 650,1512 680,1512 710,1510 740,1510 770,1508 800,1506 830,1504 860,1504 890,1502 920,1502 950,1500 980,1500 1010,1500 1040,1498 1070,1498 1100,1498 1130,1496 1160,1496 1190,1494 1220,1494"
@@ -431,7 +431,7 @@
                           WIDTH="1076"
                           VPOS="1991"
                           HPOS="111"
-                          CONTENT="pestatem Vel maris ipsiuus tranquillus sonitus spumeue disperse aut"/>
+                          CONTENT="pestatem Vel maris ipsius tranquillus sonitus spumeue disperse aut"/>
                </TextLine>
                <TextLine ID="tr_5_tl_8"
                          BASELINE="120,2142 140,2142 170,2142 200,2144 230,2146 260,2144 290,2146 320,2144 350,2144 380,2144 410,2144 440,2140 470,2138 500,2134 530,2134 560,2132 590,2132 620,2132 650,2130 680,2126 710,2126 740,2122 770,2118 800,2118 830,2114 860,2112 890,2110 920,2108 950,2106 980,2104 1010,2102 1040,2100 1070,2096 1100,2094 1130,2090 1160,2084"
@@ -444,7 +444,7 @@
                           WIDTH="1043"
                           VPOS="2039"
                           HPOS="112"
-                          CONTENT="aque bullantes plumonesue marini in pelago plurimm dierum"/>
+                          CONTENT="aque bullantes plumonesue marini in pelago plurimum dierum"/>
                </TextLine>
             </TextBlock>
          </PrintSpace>

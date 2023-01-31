@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.9.0:model_id=46502:lm=none:date=14_01_2023_12:43</Creator>
         <Created>2023-01-14T12:01:27.584+01:00</Created>
-        <LastChange>2023-01-30T12:42:57.393+01:00</LastChange>
-        <TranskribusMetadata docId="1314923" pageId="51972133" pageNr="102" tsid="112288768" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=GNQTGXGLZHNXMEVSNPPLXEZA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LGJLOHFXSYVONBMPNKISZICX" imageId="42173247"/>
+        <LastChange>2023-01-31T16:22:09.098+01:00</LastChange>
+        <TranskribusMetadata docId="1314923" pageId="51972133" pageNr="102" tsid="112562337" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=GNQTGXGLZHNXMEVSNPPLXEZA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FFJQSCNBRGGKYDICIEXDRPSZ" imageId="42173247"/>
     </Metadata>
     <Page imageFilename="00102.jpg" imageWidth="1422" imageHeight="2374">
         <ReadingOrder>
-            <OrderedGroup id="ro_1675084456316" caption="Regions reading order">
+            <OrderedGroup id="ro_1675188008261" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1673703663331_69"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -109,7 +109,7 @@
                 <Coords points="176,1053 819,1022 1299,1051 1312,985 177,988"/>
                 <Baseline points="184,1038 204,1036 234,1036 264,1034 294,1032 324,1034 354,1034 384,1034 414,1034 444,1036 474,1036 504,1034 534,1032 564,1032 594,1030 624,1028 654,1028 684,1026 714,1026 744,1024 774,1022 804,1022 834,1024 864,1022 894,1022 924,1022 954,1022 984,1022 1014,1020 1044,1020 1074,1018 1104,1016 1134,1016 1164,1016 1194,1016 1224,1016 1254,1016 1284,1016 1314,1016"/>
                 <TextEquiv>
-                    <Unicode>praesaget Sunt et ipsius lune octo circuli quotiens in angulos solidi inci</Unicode>
+                    <Unicode>praesaget Sunt et ipsius lune octo circuli quotiens in angulos solis inci</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_2_tl_6" custom="readingOrder {index:14;}">
@@ -158,7 +158,7 @@
                 <Coords points="204,1463 1324,1476 1289,1399 1156,1432 204,1408"/>
                 <Baseline points="212,1454 216,1456 246,1456 276,1456 306,1456 336,1458 366,1458 396,1458 426,1458 456,1460 486,1458 516,1460 546,1458 576,1458 606,1460 636,1460 666,1460 696,1458 726,1458 756,1458 786,1458 816,1458 846,1458 876,1460 906,1460 936,1460 966,1460 996,1460 1026,1460 1056,1462 1086,1462 1116,1462 1146,1460 1176,1458 1206,1458 1236,1458 1266,1456 1296,1454 1326,1452"/>
                 <TextEquiv>
-                    <Unicode>non sinus refrigerio aliquo transierit autumnum serenum ac densum mi</Unicode>
+                    <Unicode>non sine refrigerio aliquo transierit autumnum serenum ac densum mi</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_1" custom="readingOrder {index:21;}">
@@ -193,14 +193,14 @@
                 <Coords points="218,1797 1317,1782 1280,1717 986,1754 717,1723 574,1752 379,1707 218,1732"/>
                 <Baseline points="226,1780 240,1778 270,1776 300,1776 330,1776 360,1778 390,1778 420,1778 450,1778 480,1780 510,1778 540,1778 570,1778 600,1780 630,1780 660,1780 690,1782 720,1782 750,1782 780,1782 810,1784 840,1784 870,1784 900,1782 930,1782 960,1782 990,1784 1020,1786 1050,1786 1080,1786 1110,1786 1140,1786 1170,1784 1200,1784 1230,1784 1260,1780 1290,1776 1320,1774"/>
                 <TextEquiv>
-                    <Unicode>partibus nuntiabit aut si cura stabit certos si id in pluribus</Unicode>
+                    <Unicode>partibus nuntiabunt aut si cura stabunt certos si id in pluribus</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_6" custom="readingOrder {index:26;}">
                 <Coords points="220,1853 1302,1859 1318,1780 218,1797"/>
                 <Baseline points="228,1829 260,1830 290,1828 320,1830 350,1832 380,1832 410,1830 440,1832 470,1834 500,1834 530,1834 560,1834 590,1834 620,1834 650,1834 680,1834 710,1836 740,1838 770,1838 800,1838 830,1838 860,1838 890,1840 920,1840 950,1840 980,1840 1010,1842 1040,1842 1070,1842 1100,1840 1130,1840 1160,1840 1190,1840 1220,1838 1250,1836 1280,1836 1310,1836 1324,1836"/>
                 <TextEquiv>
-                    <Unicode>partibus fiet incostantes uentos et undique Si stellarrum errantium aliqua</Unicode>
+                    <Unicode>partibus fiet incostantes uentos et undique Si stellarum errantium aliquam</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_7" custom="readingOrder {index:27;}">
@@ -252,20 +252,20 @@ qua parte is maxime splendebit ex ea uentum ostendet Si in ortu&#13;
 cornua crassiora fuerint horridam tempestatem Si ante quartam&#13;
 non apparuerit vento fauonio flante hiemalis toto mense erit&#13;
 Si xvi uehementius flammea apparuerit asperas tempestates&#13;
-praesaget Sunt et ipsius lune octo circuli quotiens in angulos solidi inci&#13;
+praesaget Sunt et ipsius lune octo circuli quotiens in angulos solis inci&#13;
 dat plerisque intra eos tantum obseruantibus praesagia eius Hoc est iiivii&#13;
 xixvxviiiixxiiixxvii et interlunium&#13;
 ERTIO loco stellarum obseruationem esse oportet discurrere he uiden&#13;
 tur Interdum uentique protinus secuntur in quorum parte ita praesagire opor&#13;
 tet Celum cum equaliter totum erit splendidum articuli temporum quos&#13;
 proposuimus auttumnum serenum praesagiabitur frigidum Si ver et estas&#13;
-non sinus refrigerio aliquo transierit autumnum serenum ac densum mi&#13;
+non sine refrigerio aliquo transierit autumnum serenum ac densum mi&#13;
 nusque uentosum facient Autumni serenitas uentosam hiemem facit&#13;
 Cum repente stellarum fulgur obscuratur ut id neque nubilo nec cali&#13;
 gine accidat graues denuntiant tempestates Si uolitare plu&#13;
 res stelle uidebuntur quo feruntur albescentes uentos ex his&#13;
-partibus nuntiabit aut si cura stabit certos si id in pluribus&#13;
-partibus fiet incostantes uentos et undique Si stellarrum errantium aliqua&#13;
+partibus nuntiabunt aut si cura stabunt certos si id in pluribus&#13;
+partibus fiet incostantes uentos et undique Si stellarum errantium aliquam&#13;
 orbis incluserit imbrem Sunt in signo cancri due stelle parue&#13;
 aselle appellate exiguum inter illas spatium optinentem nubecu&#13;
 lam quam praesepia appellant Hec cum celo sereno apparere desiit&#13;

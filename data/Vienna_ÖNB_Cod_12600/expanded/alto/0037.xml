@@ -7,7 +7,7 @@
       <MeasurementUnit>pixel</MeasurementUnit>
       <OCRProcessing ID="IdOcr">
          <ocrProcessingStep>
-            <processingDateTime>2023-01-30T14:11:21.567+01:00</processingDateTime>
+            <processingDateTime>2023-01-31T19:05:27.3+01:00</processingDateTime>
             <processingSoftware>
                <softwareCreator>READ COOP</softwareCreator>
                <softwareName>Transkribus</softwareName>
@@ -405,7 +405,7 @@
                           WIDTH="1916"
                           VPOS="1928"
                           HPOS="495"
-                          CONTENT="nae quoque ultra solitum uocales et fulicę matutino clangore ltem mergi anatesque"/>
+                          CONTENT="nae quoque ultra solitum uocales et fulicę matutino clangore Item mergi anatesque"/>
                </TextLine>
                <TextLine ID="tr_5_tl_2"
                          BASELINE="522,2027 567,2030 612,2033 656,2033 701,2033 746,2033 791,2033 835,2033 880,2036 925,2036 970,2036 1015,2039 1059,2039 1104,2039 1149,2045 1194,2045 1239,2048 1283,2051 1328,2051 1373,2048 1418,2051 1462,2048 1507,2051 1552,2051 1597,2051 1642,2051 1686,2051 1731,2051 1776,2054 1821,2054 1866,2057 1910,2057 1955,2057 2000,2054 2045,2057 2089,2057 2134,2057 2179,2057 2224,2054 2269,2051 2313,2048 2358,2042 2403,2036 2421,2033"

@@ -7,7 +7,7 @@
       <MeasurementUnit>pixel</MeasurementUnit>
       <OCRProcessing ID="IdOcr">
          <ocrProcessingStep>
-            <processingDateTime>2023-01-30T14:11:21.456+01:00</processingDateTime>
+            <processingDateTime>2023-01-31T19:05:27.22+01:00</processingDateTime>
             <processingSoftware>
                <softwareCreator>READ COOP</softwareCreator>
                <softwareName>Transkribus</softwareName>
@@ -41,7 +41,7 @@
                           WIDTH="1935"
                           VPOS="288"
                           HPOS="476"
-                          CONTENT="decembris Et intrat in sagitarium hora septima supradictę noctis inchoante et exit de saggitarius"/>
+                          CONTENT="decembris Et intrat in sagittarium hora septima supradictę noctis inchoante et exit de saggitario"/>
                </TextLine>
                <TextLine ID="tr_2_tl_2"
                          BASELINE="510,453 534,450 579,444 623,444 668,438 713,438 758,435 803,432 847,432 892,432 937,432 982,429 1027,429 1071,429 1116,429 1161,432 1206,429 1250,429 1295,429 1340,426 1385,426 1430,423 1474,423 1519,426 1564,423 1609,423 1654,420 1698,420 1743,423 1788,423 1833,423 1877,420 1922,420 1967,420 2012,420 2057,420 2101,417 2146,415 2191,415 2236,412 2281,409 2325,406 2370,400 2415,394"
@@ -106,7 +106,7 @@
                           WIDTH="1925"
                           VPOS="584"
                           HPOS="493"
-                          CONTENT="intrat in pisces tertio puncto horę diei secunde quod est xiiii kalendis martias et exite de pi"/>
+                          CONTENT="intrat in pisces tertio puncto horę diei secunde quod est xiiii kalendis martias et exit de pi"/>
                </TextLine>
                <TextLine ID="tr_2_tl_7"
                          BASELINE="516,734 525,731 570,728 615,725 659,725 704,722 749,722 794,722 838,719 883,719 928,719 973,716 1018,716 1062,719 1107,719 1152,719 1197,719 1242,719 1286,713 1331,713 1376,710 1421,710 1465,713 1510,713 1555,713 1600,713 1645,713 1689,710 1734,710 1779,710 1824,710 1869,710 1913,713 1958,710 2003,710 2048,710 2092,707 2137,704 2182,701 2227,698 2272,698 2316,695 2361,692 2406,689 2451,686"
@@ -119,7 +119,7 @@
                           WIDTH="1942"
                           VPOS="634"
                           HPOS="503"
-                          CONTENT="scibus duodecima hora diei plena quod est xv kalendis aprilis Sique sol primo anno post bisse"/>
+                          CONTENT="scibus duodecima hora diei plena quod est xv kalendis aprilis Sicque sol primo anno post bisse"/>
                </TextLine>
                <TextLine ID="tr_2_tl_8"
                          BASELINE="501,788 513,788 558,788 603,785 647,785 692,782 737,782 782,782 827,779 871,776 916,776 961,776 1006,776 1050,776 1095,779 1140,779 1185,779 1230,779 1274,776 1319,773 1364,770 1409,773 1454,770 1498,770 1543,767 1588,770 1633,767 1677,767 1722,770 1767,770 1812,770 1857,770 1901,770 1946,770 1991,767 2036,770 2080,767 2125,767 2170,764 2215,764 2260,761 2304,758 2349,755 2394,749 2439,743"
@@ -171,7 +171,7 @@
                           WIDTH="1948"
                           VPOS="863"
                           HPOS="500"
-                          CONTENT="interkalari iubentur ut iterum sol bissexto completo prima hora noctis quem praecedit"/>
+                          CONTENT="interkalari iubentur ut iterum sol bissexto completo prima hora noctis que praecedit"/>
                </TextLine>
                <TextLine ID="tr_2_tl_12"
                          BASELINE="507,1015 522,1012 567,1009 612,1009 656,1009 701,1009 746,1006 791,1009 835,1009 880,1006 925,1006 970,1009 1015,1009 1059,1009 1104,1009 1149,1006 1194,1006 1239,1006 1283,1006 1328,1003 1373,1003 1418,1000"
@@ -353,7 +353,7 @@
                           WIDTH="1917"
                           VPOS="1681"
                           HPOS="523"
-                          CONTENT="est v̿ dcc anni ccctos dies demonstrant Iunge sexies cxc qui faciunt i̿ cxl hunc"/>
+                          CONTENT="est v̿ dcc anni ccctos dies demonstrant Lunge sexies cxc qui faciunt i̿ cxl hunc"/>
                </TextLine>
                <TextLine ID="tr_4_tl_1"
                          BASELINE="531,1815 534,1815 579,1815 623,1815 668,1812 713,1812 758,1812 803,1812 847,1812 892,1812 937,1812 982,1812 1027,1812 1071,1812 1116,1812 1161,1812 1206,1812 1250,1812 1295,1812 1340,1815 1385,1815 1430,1812 1474,1812 1519,1812 1564,1812 1609,1815 1654,1812 1698,1812 1743,1809 1788,1809 1833,1806 1877,1806 1922,1806 1967,1806 2012,1806 2057,1806 2101,1806 2146,1806 2191,1803 2236,1803 2281,1800 2325,1797 2370,1794 2415,1788 2460,1785"
@@ -509,7 +509,7 @@
                           WIDTH="1950"
                           VPOS="2391"
                           HPOS="510"
-                          CONTENT="gnificabit Si in ortu aut in occasu contracti cernentur radii imbrem Si in occasu"/>
+                          CONTENT="gnificabunt Si in ortu aut in occasu contracti cernentur radii imbrem Si in occasu"/>
                </TextLine>
                <TextLine ID="tr_4_tl_13"
                          BASELINE="543,2549 579,2552 623,2549 668,2552 713,2546 758,2546 803,2546 847,2546 892,2546 937,2549 982,2546 1027,2546 1071,2549 1116,2549 1161,2549 1206,2549 1250,2549 1295,2549 1340,2549 1385,2549 1430,2549 1474,2549 1519,2549 1564,2549 1609,2546 1654,2543 1698,2543 1743,2540 1788,2540 1833,2537 1877,2534 1922,2534 1967,2531 2012,2528 2057,2528 2101,2525 2146,2525 2191,2525 2236,2522 2281,2525 2325,2522 2370,2522 2415,2516 2460,2510"
@@ -561,7 +561,7 @@
                           WIDTH="1925"
                           VPOS="2650"
                           HPOS="518"
-                          CONTENT="asperrimam de nuntiabunt Si ab ortu repellentur et ad occasum abibunt sere"/>
+                          CONTENT="asperrimam denuntiabunt Si ab ortu repellentur et ad occasum abibunt sere"/>
                </TextLine>
                <TextLine ID="tr_1_tl_4"
                          BASELINE="534,2788 555,2791 600,2794 644,2794 689,2791 734,2794 779,2794 824,2794 868,2794 913,2794 958,2791 1003,2791 1047,2788 1092,2788 1137,2785 1182,2782 1227,2782 1271,2782 1316,2785 1361,2785 1406,2785 1451,2785 1495,2782 1540,2782 1585,2782 1630,2779 1674,2776 1719,2773 1764,2773 1809,2773 1854,2770 1898,2770 1943,2770 1988,2770 2033,2770 2078,2770 2122,2770 2167,2770 2212,2767 2257,2764 2301,2764 2346,2761 2391,2755 2436,2749"

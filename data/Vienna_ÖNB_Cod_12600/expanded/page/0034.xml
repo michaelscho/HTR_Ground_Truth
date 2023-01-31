@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.9.0:model_id=46502:lm=none:date=14_01_2023_16:15</Creator>
         <Created>2023-01-14T12:47:27.141+01:00</Created>
-        <LastChange>2023-01-30T13:11:35.427+01:00</LastChange>
-        <TranskribusMetadata docId="1314922" pageId="51971920" pageNr="34" tsid="112299498" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=DBXUQTDZDJMSLQEFCDARALOL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JIMMDDUGYWPJCLFJYHDWGWPR" imageId="42173561"/>
+        <LastChange>2023-01-31T15:36:49.987+01:00</LastChange>
+        <TranskribusMetadata docId="1314922" pageId="51971920" pageNr="34" tsid="112560089" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=DBXUQTDZDJMSLQEFCDARALOL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PGZAWRDTFTCMBFXWMJTQBOVW" imageId="42173561"/>
     </Metadata>
     <Page imageFilename="ÖNB Wien 1180-1199 - Cod. 12600-0034.jpg" imageWidth="2638" imageHeight="3725">
         <ReadingOrder>
-            <OrderedGroup id="ro_1675084281389" caption="Regions reading order">
+            <OrderedGroup id="ro_1675188327150" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1673725067352_670"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -165,7 +165,7 @@
                 <Coords points="225,1540 2155,1572 2152,1505 1977,1495 1695,1540 225,1473"/>
                 <Baseline points="238,1519 283,1519 328,1522 373,1525 417,1528 462,1534 507,1537 552,1537 596,1540 641,1546 686,1549 731,1552 776,1555 820,1555 865,1555 910,1555 955,1552 999,1552 1044,1555 1089,1555 1134,1558 1178,1558 1223,1561 1268,1561 1313,1561 1358,1561 1402,1561 1447,1561 1492,1561 1537,1564 1581,1561 1626,1561 1671,1561 1716,1561 1761,1561 1805,1561 1850,1561 1895,1561 1940,1558 1984,1558 2029,1555 2074,1552 2119,1552 2160,1555"/>
                 <TextEquiv>
-                    <Unicode>tercia noctis plena quem praecedit diem xv kalendis octobris Et intrat in libram iiiita hora praedictę noctis</Unicode>
+                    <Unicode>tercia noctis plena que praecedit diem xv kalendis octobris Et intrat in libram iiiita hora praedictę noctis</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_1" custom="readingOrder {index:22;}">
@@ -179,28 +179,28 @@
                 <Coords points="227,1663 2170,1688 2115,1626 227,1604"/>
                 <Baseline points="241,1641 286,1638 331,1638 376,1641 420,1644 465,1647 510,1650 555,1653 599,1656 644,1662 689,1665 734,1668 779,1671 823,1677 868,1680 913,1680 958,1680 1002,1677 1047,1677 1092,1677 1137,1680 1181,1680 1226,1680 1271,1680 1316,1680 1361,1680 1405,1677 1450,1677 1495,1677 1540,1677 1584,1680 1629,1680 1674,1680 1719,1680 1764,1680 1808,1680 1853,1680 1898,1680 1943,1680 1987,1680 2032,1680 2077,1677 2122,1680 2166,1680 2175,1680"/>
                 <TextEquiv>
-                    <Unicode>pionem tertio puncto horę diei seccunde quod est xvi kalendis Novembris et exit de scorpione hora diei</Unicode>
+                    <Unicode>pionem tertio puncto horę diei secunde quod est xvi kalendis Novembris et exit de scorpione hora diei</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_3" custom="readingOrder {index:24;}">
                 <Coords points="213,1715 2143,1752 2140,1688 2009,1680 213,1668"/>
                 <Baseline points="226,1698 271,1698 316,1701 361,1704 405,1707 450,1710 495,1713 540,1716 585,1719 629,1719 674,1722 719,1728 764,1731 808,1734 853,1740 898,1737 943,1737 987,1734 1032,1734 1077,1734 1122,1734 1167,1734 1211,1737 1256,1740 1301,1740 1346,1737 1390,1740 1435,1740 1480,1740 1525,1743 1569,1743 1614,1740 1659,1740 1704,1737 1749,1737 1793,1737 1838,1737 1883,1737 1928,1737 1972,1740 2017,1737 2062,1734 2107,1737 2149,1740"/>
                 <TextEquiv>
-                    <Unicode>x plena quod est xvi kalendis Decembris Et intrat in saggitarius prima hora noctis inchoante quem praecedit</Unicode>
+                    <Unicode>x plena quod est xvi kalendis Decembris Et intrat in sagittarium prima hora noctis inchoante que praecedit</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_4" custom="readingOrder {index:25;}">
                 <Coords points="217,1782 1710,1836 2128,1819 2130,1750 215,1713"/>
                 <Baseline points="232,1758 277,1761 322,1761 367,1764 411,1766 456,1766 501,1772 546,1775 590,1778 635,1784 680,1784 725,1787 770,1790 814,1793 859,1796 904,1796 949,1796 993,1793 1038,1793 1083,1793 1128,1793 1173,1796 1217,1796 1262,1796 1307,1796 1352,1796 1396,1796 1441,1796 1486,1799 1531,1799 1575,1802 1620,1805 1665,1805 1710,1802 1755,1802 1799,1802 1844,1799 1889,1802 1934,1802 1978,1802 2023,1799 2068,1799 2113,1802 2134,1799"/>
                 <TextEquiv>
-                    <Unicode>diem xv kalendis et decretis et exit de saggitarius ii puncto xime horę noctis quem praecedit diem xvi kalendis</Unicode>
+                    <Unicode>diem xv kalendis et decretis et exit de sagittario ii puncto xime horę noctis quem praecedit diem xvi kalendis</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_5" custom="readingOrder {index:26;}">
                 <Coords points="217,1829 2187,1878 2096,1811 217,1779"/>
                 <Baseline points="232,1817 277,1820 322,1826 367,1826 411,1829 456,1832 501,1835 546,1838 590,1841 635,1847 680,1847 725,1850 770,1850 814,1853 859,1853 904,1856 949,1856 993,1853 1038,1853 1083,1853 1128,1853 1173,1856 1217,1856 1262,1856 1307,1856 1352,1859 1396,1859 1441,1859 1486,1859 1531,1859 1575,1862 1620,1865 1665,1865 1710,1865 1755,1865 1799,1862 1844,1865 1889,1865 1934,1862 1978,1862 2023,1862 2068,1862 2113,1862 2157,1862 2193,1865"/>
                 <TextEquiv>
-                    <Unicode>ianuarias Et intrat in capricornus tertio puncto xi horę noctis praedictę et exit de capricornus viiii hora</Unicode>
+                    <Unicode>ianuarias Et intrat in capricornum tertio puncto xi horę noctis praedictę et exit de capricorno viiii hora</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_6" custom="readingOrder {index:27;}">
@@ -249,7 +249,7 @@
                 <Coords points="217,2244 2125,2286 2123,2224 217,2197"/>
                 <Baseline points="232,2229 277,2229 322,2232 367,2235 411,2235 456,2241 501,2244 546,2244 590,2244 635,2247 680,2250 725,2250 770,2253 814,2256 859,2256 904,2262 949,2262 993,2265 1038,2268 1083,2271 1128,2271 1173,2274 1217,2277 1262,2277 1307,2277 1352,2277 1396,2277 1441,2280 1486,2277 1531,2277 1575,2280 1620,2280 1665,2280 1710,2280 1755,2280 1799,2280 1844,2280 1889,2280 1934,2280 1978,2277 2023,2277 2068,2274 2113,2277 2131,2277"/>
                 <TextEquiv>
-                    <Unicode>diem xiiii kalendis Maias Et intrat in taurum tertio puncto horę quintę nocti praedicte et</Unicode>
+                    <Unicode>diem xiiii kalendis Maias Et intrat in taurum tertio puncto horę quintę noctis praedicte et</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_4_tl_7" custom="readingOrder {index:34;}">
@@ -263,7 +263,7 @@
                 <Coords points="203,2372 1957,2449 2143,2429 2140,2360 200,2311"/>
                 <Baseline points="214,2357 259,2357 304,2360 349,2363 393,2366 438,2369 483,2372 528,2375 573,2375 617,2378 662,2378 707,2378 752,2381 796,2381 841,2384 886,2384 931,2384 976,2387 1020,2390 1065,2390 1110,2393 1155,2396 1199,2402 1244,2405 1289,2405 1334,2408 1378,2411 1423,2411 1468,2411 1513,2414 1558,2414 1602,2417 1647,2417 1692,2417 1737,2417 1781,2417 1826,2414 1871,2414 1916,2414 1960,2414 2005,2414 2050,2411 2095,2411 2140,2414 2146,2411"/>
                 <TextEquiv>
-                    <Unicode>diei iiiita inchoante quod est xv kalendis iunm et exit de geminis secundo puncto hore noctis</Unicode>
+                    <Unicode>diei iiiita inchoante quod est xv kalendis iunii et exit de geminis secundo puncto hore noctis</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_3_tl_1" custom="readingOrder {index:36;}">
@@ -298,7 +298,7 @@
                 <Coords points="225,2669 2172,2733 2172,2681 1933,2654 225,2615"/>
                 <Baseline points="238,2662 283,2665 328,2668 373,2671 417,2674 462,2677 507,2680 552,2683 596,2683 641,2683 686,2683 731,2686 776,2689 820,2689 865,2692 910,2695 955,2695 999,2698 1044,2698 1089,2698 1134,2701 1178,2701 1223,2701 1268,2701 1313,2704 1358,2707 1402,2710 1447,2710 1492,2713 1537,2713 1581,2716 1626,2716 1671,2713 1716,2710 1761,2707 1805,2707 1850,2707 1895,2710 1940,2707 1984,2710 2029,2713 2074,2716 2119,2719 2163,2719 2178,2719"/>
                 <TextEquiv>
-                    <Unicode>cto horę diei xi quod est xvi kalendis Septer et exit de uirginem viiii hora noctis plena que</Unicode>
+                    <Unicode>cto horę diei xi quod est xvi kalendis Septembris et exit de uirginem viiii hora noctis plena que</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_3_tl_6" custom="readingOrder {index:41;}">
@@ -351,26 +351,26 @@ Et intrat in cancrum tertio puncto horę dei viiiͦ quod est xv kalendis i
 hora noctis que praecedit diem xv kalendis augustus Et intrat in leonem hora viima supradicte no&#13;
 ctis inchoante et exit de leone ii puncto horę diei quintę quod est xvi kalendis septembris&#13;
 Et intrat in uirginem iii puncto horae diei vte quod est xvi kalendis Septembris et exit de uirgine hora&#13;
-tercia noctis plena quem praecedit diem xv kalendis octobris Et intrat in libram iiiita hora praedictę noctis&#13;
+tercia noctis plena que praecedit diem xv kalendis octobris Et intrat in libram iiiita hora praedictę noctis&#13;
 inchoante et exit de libra secundo puncto horae diei secundę quod est xvi kalendis novembris Et intrat in scor&#13;
-pionem tertio puncto horę diei seccunde quod est xvi kalendis Novembris et exit de scorpione hora diei&#13;
-x plena quod est xvi kalendis Decembris Et intrat in saggitarius prima hora noctis inchoante quem praecedit&#13;
-diem xv kalendis et decretis et exit de saggitarius ii puncto xime horę noctis quem praecedit diem xvi kalendis&#13;
-ianuarias Et intrat in capricornus tertio puncto xi horę noctis praedictę et exit de capricornus viiii hora&#13;
+pionem tertio puncto horę diei secunde quod est xvi kalendis Novembris et exit de scorpione hora diei&#13;
+x plena quod est xvi kalendis Decembris Et intrat in sagittarium prima hora noctis inchoante que praecedit&#13;
+diem xv kalendis et decretis et exit de sagittario ii puncto xime horę noctis quem praecedit diem xvi kalendis&#13;
+ianuarias Et intrat in capricornum tertio puncto xi horę noctis praedictę et exit de capricorno viiii hora&#13;
 diei plena quod est xvii kalendis februar Et intrat in aquar x horae diei inchoante quod est xvii&#13;
 kalendis februar et exit de aquariis secundo puncto viii horę noctis que praecedit diem xiiii kalendis martius&#13;
 Et intrat in pisces iii puncto horę viii noctis supradictę et exit de piscipus hora&#13;
 vita diei plena quod est xv kalendis aprilis&#13;
 Anno quarto praeparationis bissexti intrat sol in arietem hora diei vii inchoan&#13;
 te quod est xv kalendis aprilis et exit de ariete secundo puncto noctis hore quinte que praecedit&#13;
-diem xiiii kalendis Maias Et intrat in taurum tertio puncto horę quintę nocti praedicte et&#13;
+diem xiiii kalendis Maias Et intrat in taurum tertio puncto horę quintę noctis praedicte et&#13;
 exit de tauro hora diei tercia plena quod est xv kalendis iunius Et intrat in geminos hora&#13;
-diei iiiita inchoante quod est xv kalendis iunm et exit de geminis secundo puncto hore noctis&#13;
+diei iiiita inchoante quod est xv kalendis iunii et exit de geminis secundo puncto hore noctis&#13;
 secundę que praecedit diem xiiii kalendis iulii Et intrat in cancrum puncto horę secunde no&#13;
 ctis supradicte et exit de cancro hora xii plena noctis que praecedit diem xv kalendis&#13;
 augustus Et intrat in leonem hora prima diei inchoante quod est xv kalendis augustus et exit de&#13;
 leone secundo puncto horę diei xi quod est xvi kalendis septembris Et intrat in uirginem tertio pun&#13;
-cto horę diei xi quod est xvi kalendis Septer et exit de uirginem viiii hora noctis plena que&#13;
+cto horę diei xi quod est xvi kalendis Septembris et exit de uirginem viiii hora noctis plena que&#13;
 praecedit diem xv kalendis octobris Et intrat in libram x hora noctis inchoante que pre&#13;
 cedit diem xv kalendis octobris et exit de libra secundo puncto octauę horę diei quod est&#13;
 xvi kalendis Novembris Et intrat in scorpionem tertio puncto viiie horę diei quod est xvi kalendis&#13;

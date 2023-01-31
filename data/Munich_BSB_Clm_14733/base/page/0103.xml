@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.9.0:model_id=46502:lm=none:date=14_01_2023_12:43</Creator>
         <Created>2023-01-14T12:01:27.676+01:00</Created>
-        <LastChange>2023-01-30T12:52:08.676+01:00</LastChange>
-        <TranskribusMetadata docId="1292419" pageId="51581050" pageNr="103" tsid="112292401" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=YLIOCXCCYZFTAWYVHVHNRGKM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LHZZLUJPLVRKWHEUFIFWANYT" imageId="42173248"/>
+        <LastChange>2023-01-30T16:44:54.059+01:00</LastChange>
+        <TranskribusMetadata docId="1292419" pageId="51581050" pageNr="103" tsid="112360602" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=YLIOCXCCYZFTAWYVHVHNRGKM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CTGTLCHQLBDPHLAJUONTDQAU" imageId="42173248"/>
     </Metadata>
     <Page imageFilename="00103.jpg" imageWidth="1422" imageHeight="2376">
         <ReadingOrder>
-            <OrderedGroup id="ro_1675084417952" caption="Regions reading order">
+            <OrderedGroup id="ro_1675188053061" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1673703687098_80"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -235,7 +235,7 @@
                 <Coords points="112,2137 178,2179 718,2131 859,2160 1155,2096 1149,2039 509,2106 115,2095"/>
                 <Baseline points="120,2142 140,2142 170,2142 200,2144 230,2146 260,2144 290,2146 320,2144 350,2144 380,2144 410,2144 440,2140 470,2138 500,2134 530,2134 560,2132 590,2132 620,2132 650,2130 680,2126 710,2126 740,2122 770,2118 800,2118 830,2114 860,2112 890,2110 920,2108 950,2106 980,2104 1010,2102 1040,2100 1070,2096 1100,2094 1130,2090 1160,2084"/>
                 <TextEquiv>
-                    <Unicode>aque bullantes plumonesue marini ī pelago plurim̄ dierū</Unicode>
+                    <Unicode>aque bullantes plumonesue marini ī pelago plurimū dierū</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -270,7 +270,7 @@ ST et aqᷓrū ꝓgonstica i p̄uisio Mare si tranquillū ī por&#13
 tu cursitabit murmuraƀue ītᷓ se uentū p̄dicit Si id&#13;
 hieme et imbrē litora ripeq resonant tranquillo asperā tem&#13;
 pestatē Vel maris ipsiu᷒ tranquill᷒ sonit᷒ spumeue disꝑse aut&#13;
-aque bullantes plumonesue marini ī pelago plurim̄ dierū</Unicode>
+aque bullantes plumonesue marini ī pelago plurimū dierū</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

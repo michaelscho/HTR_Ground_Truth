@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.9.0:model_id=46502:lm=none:date=14_01_2023_16:15</Creator>
         <Created>2023-01-14T12:47:27.091+01:00</Created>
-        <LastChange>2023-01-31T12:36:05.125+01:00</LastChange>
-        <TranskribusMetadata docId="1318065" pageId="52063500" pageNr="31" tsid="112549125" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=RNIIBRGAFAOSJUGRREAALJLJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JZHYHKXWVNSXDELTMVQMHRWU" imageId="42173558"/>
+        <LastChange>2023-01-26T19:39:52.362+01:00</LastChange>
+        <TranskribusMetadata docId="1292437" pageId="51581362" pageNr="31" tsid="111430093" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=RNIIBRGAFAOSJUGRREAALJLJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HWFLQYZTHRPWLVFAIAZIDMRN" imageId="42173558"/>
     </Metadata>
     <Page imageFilename="ÖNB Wien 1180-1199 - Cod. 12600-0031.jpg" imageWidth="2619" imageHeight="3741">
         <ReadingOrder>
-            <OrderedGroup id="ro_1675188348650" caption="Regions reading order">
+            <OrderedGroup id="ro_1675188294660" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1673721017870_396"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -18,14 +18,14 @@
                 <Coords points="661,332 1962,329 1962,379 661,382"/>
                 <Baseline points="661,377 1962,374"/>
                 <TextEquiv>
-                    <Unicode>DE ANNO ET PARTIBUS EIUS</Unicode>
+                    <Unicode>DE ANNO ET PARTIBVS EIVS</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
                 <Coords points="601,441 2440,429 2440,343 2060,380 1836,307 1444,304 1327,387 601,365"/>
                 <Baseline points="615,429 653,426 698,426 743,423 788,423 832,423 877,420 922,423 967,423 1012,423 1056,423 1101,423 1146,423 1191,423 1236,423 1280,423 1325,423 1370,420 1415,423 1459,423 1504,423 1549,420 1594,420 1639,423 1683,420 1728,420 1773,420 1818,420 1863,420 1907,420 1952,420 1997,420 2042,420 2086,420 2131,420 2176,417 2221,415 2266,415 2310,412 2355,409 2400,403 2445,397"/>
                 <TextEquiv>
-                    <Unicode>Annus solaris habet iiii tempora menses xii ebdomadas Lii dies ccclxv et qua¬</Unicode>
+                    <Unicode>Annus solaris habet iiii tempora m̅ses xii epdomadas Lii dies ccclxv et qua</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
@@ -46,266 +46,266 @@
                 <Coords points="485,621 2406,592 2350,531 485,558"/>
                 <Baseline points="498,588 528,591 573,591 618,591 662,591 707,594 752,594 797,591 841,591 886,591 931,588 976,588 1021,591 1065,591 1110,591 1155,594 1200,594 1245,594 1289,594 1334,591 1379,591 1424,591 1468,591 1513,591 1558,591 1603,591 1648,594 1692,594 1737,591 1782,594 1827,594 1871,591 1916,588 1961,588 2006,588 2051,588 2095,588 2140,585 2185,588 2230,585 2275,585 2319,582 2364,576 2409,573"/>
                 <TextEquiv>
-                    <Unicode>et clx Tempus habet menses iii dies xci horas vii et dimidiam Menses vii habent</Unicode>
+                    <Unicode>et clx Tempus habet m̅ses iii dies xci horas vii et dimidiam Menses vii hn̅t</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
                 <Coords points="489,670 2430,648 2430,580 489,623"/>
                 <Baseline points="504,653 510,650 555,650 600,647 644,647 689,650 734,650 779,650 824,650 868,647 913,647 958,644 1003,647 1047,650 1092,653 1137,653 1182,653 1227,653 1271,653 1316,650 1361,650 1406,650 1451,650 1495,647 1540,647 1585,650 1630,650 1674,650 1719,650 1764,650 1809,650 1854,647 1898,647 1943,647 1988,647 2033,647 2078,644 2122,644 2167,647 2212,647 2257,644 2301,641 2346,635 2391,632 2436,626"/>
                 <TextEquiv>
-                    <Unicode>dies xxxi et quatuor xxx et unus xxviii Ebdomadas iiii et dies supra Ebdoma¬</Unicode>
+                    <Unicode>dies xxxi et quatuor xxx et un᷒ xxviii Epdomadas iiii et dies supra Epdoma</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
                 <Coords points="485,721 2408,701 2360,645 485,672"/>
                 <Baseline points="498,707 534,707 579,704 623,704 668,707 713,707 758,707 803,707 847,707 892,704 937,707 982,704 1027,707 1071,710 1116,710 1161,710 1206,710 1250,710 1295,710 1340,710 1385,710 1430,707 1474,707 1519,707 1564,707 1609,704 1654,704 1698,707 1743,707 1788,707 1833,704 1877,704 1922,704 1967,704 2012,704 2057,704 2101,704 2146,704 2191,704 2236,704 2281,701 2325,698 2370,692 2415,686"/>
                 <TextEquiv>
-                    <Unicode>da habet dies vii Dies habet horas xxiiiior Hora habet punctos v minuta x Partes xv</Unicode>
+                    <Unicode>da ht̅ dies vii Dies ht̅ horas xxiiiior Hora ht̅ punctos v minuta x Partes xv</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
                 <Coords points="487,782 2389,762 2389,711 487,726"/>
                 <Baseline points="501,761 513,761 558,764 603,764 647,764 692,764 737,764 782,764 827,764 871,764 916,764 961,764 1006,767 1050,770 1095,770 1140,773 1185,770 1230,770 1274,767 1319,767 1364,767 1409,764 1454,767 1498,767 1543,767 1588,764 1633,767 1677,767 1722,767 1767,764 1812,767 1857,764 1901,764 1946,767 1991,767 2036,764 2080,764 2125,764 2170,761 2215,761 2260,761 2304,761 2349,755 2394,749"/>
                 <TextEquiv>
-                    <Unicode>momenta xl ostenta lx Punctus habet minuta duo partes iii momenta viii os¬</Unicode>
+                    <Unicode>momenta xl ostenta lx Punctus ht̅ minuta duo partes iii mom̅ta viii os</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_1" custom="readingOrder {index:8;}">
                 <Coords points="489,835 2447,823 2420,750 489,789"/>
                 <Baseline points="504,821 525,821 570,821 615,818 659,818 704,818 749,818 794,821 838,821 883,821 928,821 973,824 1018,824 1062,827 1107,830 1152,827 1197,830 1242,827 1286,824 1331,827 1376,824 1421,827 1465,827 1510,827 1555,827 1600,827 1645,827 1689,827 1734,824 1779,824 1824,824 1869,824 1913,827 1958,827 2003,824 2048,824 2092,824 2137,824 2182,821 2227,821 2272,821 2316,818 2361,809 2406,806 2451,800"/>
                 <TextEquiv>
-                    <Unicode>tenta xii Unum minutum habet partem i et dimidiam momenta iiii ostenta vi Una</Unicode>
+                    <Unicode>tenta xii Vnum minutum ht̅ partē i et dimidiam momenta iiii ostenta vi Una</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_2" custom="readingOrder {index:9;}">
                 <Coords points="499,896 2433,869 2433,821 499,838"/>
                 <Baseline points="513,877 558,877 603,877 647,877 692,880 737,877 782,877 827,877 871,880 916,880 961,880 1006,883 1050,883 1095,886 1140,883 1185,883 1230,886 1274,883 1319,883 1364,880 1409,883 1454,880 1498,883 1543,883 1588,883 1633,883 1677,883 1722,880 1767,880 1812,880 1857,877 1901,880 1946,880 1991,880 2036,877 2080,877 2125,877 2170,877 2215,874 2260,874 2304,871 2349,865 2394,862 2439,853"/>
                 <TextEquiv>
-                    <Unicode>pars habet momenta duo et duas partes tercii momenti ostenta iiii Unum momentum</Unicode>
+                    <Unicode>pars ht̅ momenta iiͦ et duas partes t̅cii momenti ostenta iiii Unum momentum</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_3" custom="readingOrder {index:10;}">
                 <Coords points="494,937 2179,952 2150,889 494,899"/>
                 <Baseline points="507,928 552,931 597,931 641,934 686,934 731,934 776,934 821,937 865,940 910,940 955,943 1000,943 1044,946 1089,946 1134,943 1179,943 1224,946 1268,946 1313,946 1358,943 1403,943 1448,943 1492,946 1537,943 1582,943 1627,943 1671,943 1716,940 1761,940 1806,940 1851,940 1895,940 1940,943 1985,943 2030,940 2075,943 2119,940 2164,940 2185,940"/>
                 <TextEquiv>
-                    <Unicode>habet ostentum i et dimidium Quot atomos habet annus vel partes eius</Unicode>
+                    <Unicode>ht̅ ostentū i et dimidiū Quot athomos habet ann᷒ vel partes eius</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_4" custom="readingOrder {index:11;}">
                 <Coords points="597,1013 2384,993 2384,937 597,945"/>
                 <Baseline points="609,985 644,988 689,991 734,991 779,994 824,994 868,994 913,997 958,1000 1003,1000 1047,1000 1092,1000 1137,1000 1182,1000 1227,1003 1271,1003 1316,1003 1361,1003 1406,1000 1451,1000 1495,1003 1540,1000 1585,1003 1630,1000 1674,1000 1719,1000 1764,1000 1809,997 1854,997 1898,997 1943,1000 1988,1000 2033,1000 2078,1000 2122,1000 2167,997 2212,997 2257,994 2301,991 2346,985 2391,982"/>
                 <TextEquiv>
-                    <Unicode>Ostentum habet atomos ccclxxvi Momentum habet atomos d lxiiii id est ostentum</Unicode>
+                    <Unicode>Ostentū ht̅ athomos ccclxxvi Momentū ht̅ athomos d lxiiii iđ ostentū</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_5" custom="readingOrder {index:12;}">
                 <Coords points="526,1076 2391,1052 2374,993 526,1011"/>
                 <Baseline points="540,1047 561,1047 606,1041 650,1044 695,1047 740,1047 785,1050 830,1050 874,1053 919,1053 964,1056 1009,1056 1053,1056 1098,1056 1143,1056 1188,1053 1233,1053 1277,1053 1322,1056 1367,1059 1412,1059 1456,1059 1501,1059 1546,1059 1591,1059 1636,1056 1680,1053 1725,1056 1770,1053 1815,1053 1860,1056 1904,1053 1949,1056 1994,1053 2039,1053 2083,1053 2128,1053 2173,1053 2218,1047 2263,1047 2307,1041 2352,1039 2397,1033"/>
                 <TextEquiv>
-                    <Unicode>et semissem Pars vero habet atomos i̿ diiii ostenta iiii momenta duo et bissem</Unicode>
+                    <Unicode>et semissem Pars vͦ ht̅ athomos i̿ diiii ostenta iiii momenta duo et bissē</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_6" custom="readingOrder {index:13;}">
                 <Coords points="489,1135 2391,1110 2313,1054 489,1054"/>
                 <Baseline points="504,1104 516,1107 561,1107 606,1104 650,1107 695,1107 740,1107 785,1107 830,1110 874,1113 919,1113 964,1113 1009,1113 1053,1113 1098,1113 1143,1113 1188,1116 1233,1116 1277,1119 1322,1119 1367,1119 1412,1119 1456,1116 1501,1116 1546,1119 1591,1119 1636,1116 1680,1113 1725,1116 1770,1113 1815,1116 1860,1116 1904,1116 1949,1113 1994,1113 2039,1113 2083,1113 2128,1113 2173,1113 2218,1113 2263,1107 2307,1104 2352,1101 2397,1098"/>
                 <TextEquiv>
-                    <Unicode>unius momenti Minutum habet atomos i̿icclvi ostenta vi momenta iiii partem et dimi¬</Unicode>
+                    <Unicode>uni᷒ mom̅ti Minutū ht̅ athomos i̿icclvi ostenta vi mom̅ta iiii partē et dimi</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_7" custom="readingOrder {index:14;}">
                 <Coords points="494,1176 2430,1161 2430,1105 494,1130"/>
                 <Baseline points="507,1161 510,1158 555,1161 600,1161 644,1161 689,1164 734,1164 779,1167 824,1167 868,1170 913,1170 958,1170 1003,1170 1047,1170 1092,1170 1137,1170 1182,1170 1227,1170 1271,1173 1316,1173 1361,1176 1406,1173 1451,1173 1495,1173 1540,1173 1585,1173 1630,1173 1674,1173 1719,1170 1764,1170 1809,1170 1854,1170 1898,1170 1943,1170 1988,1170 2033,1170 2078,1170 2122,1167 2167,1167 2212,1167 2257,1167 2301,1164 2346,1158 2391,1152 2436,1146"/>
                 <TextEquiv>
-                    <Unicode>diam Punctus habet atomos i̿iiidxii ostenta xii momenta vii partes iii minuta</Unicode>
+                    <Unicode>diā Punctus ht̅ athomos i̿iiidxii ostenta xii momenta vii partes iii minuta</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_8" custom="readingOrder {index:15;}">
                 <Coords points="494,1232 2408,1222 2394,1171 494,1181"/>
                 <Baseline points="507,1218 534,1221 579,1221 623,1221 668,1221 713,1224 758,1224 803,1224 847,1227 892,1227 937,1227 982,1227 1027,1227 1071,1227 1116,1227 1161,1227 1206,1230 1250,1230 1295,1233 1340,1233 1385,1233 1430,1233 1474,1233 1519,1233 1564,1233 1609,1233 1654,1233 1698,1230 1743,1230 1788,1230 1833,1230 1877,1230 1922,1230 1967,1230 2012,1230 2057,1227 2101,1227 2146,1227 2191,1227 2236,1227 2281,1224 2325,1221 2370,1215 2415,1212"/>
                 <TextEquiv>
-                    <Unicode>duo Hora vero habet atomos x̿xiidlx ostenta xlx momenta xl partes xv minu¬</Unicode>
+                    <Unicode>duo Hora vͦ ht̅ athomos x̿xiidlx ostenta xlx mom̅ta xl partes xv minu</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_9" custom="readingOrder {index:16;}">
                 <Coords points="487,1303 2420,1288 2420,1237 487,1237"/>
                 <Baseline points="501,1277 546,1277 591,1280 635,1280 680,1283 725,1283 770,1283 815,1283 859,1286 904,1286 949,1286 994,1286 1039,1283 1083,1283 1128,1286 1173,1286 1218,1286 1262,1286 1307,1289 1352,1289 1397,1289 1442,1292 1486,1292 1531,1292 1576,1292 1621,1292 1665,1289 1710,1292 1755,1289 1800,1289 1845,1289 1889,1289 1934,1289 1979,1286 2024,1286 2069,1286 2113,1286 2158,1286 2203,1286 2248,1286 2292,1283 2337,1280 2382,1274 2427,1271"/>
                 <TextEquiv>
-                    <Unicode>ta x punctos v Dies quippe habet atomos d̿xli et ccccxl ostenta i̿ ccccxl mo¬</Unicode>
+                    <Unicode>ta x punctos v Dies qͥppe ht̅ athomos d̿xli et ccccxl ostenta i̿ ccccxl mo</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_10" custom="readingOrder {index:17;}">
                 <Coords points="494,1344 2394,1344 2379,1281 494,1298"/>
                 <Baseline points="507,1331 552,1334 597,1337 641,1340 686,1340 731,1343 776,1343 821,1346 865,1343 910,1343 955,1343 1000,1340 1044,1343 1089,1343 1134,1343 1179,1346 1224,1346 1268,1346 1313,1346 1358,1346 1403,1349 1448,1352 1492,1352 1537,1352 1582,1352 1627,1355 1671,1352 1716,1352 1761,1349 1806,1349 1851,1349 1895,1349 1940,1349 1985,1349 2030,1349 2075,1349 2119,1349 2164,1349 2209,1346 2254,1343 2298,1340 2343,1337 2388,1334 2400,1331"/>
                 <TextEquiv>
-                    <Unicode>menta dcccclx partes ccclx minuta ccxl punctos cxx horas xxiiii Signum</Unicode>
+                    <Unicode>m̅ta dcccclx partes ccclx minuta ccxl punctos cxx horas xxiiii Signū</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_11" custom="readingOrder {index:18;}">
                 <Coords points="494,1398 2391,1403 2374,1344 494,1344"/>
                 <Baseline points="507,1391 552,1397 597,1397 641,1397 686,1397 731,1400 776,1400 821,1400 865,1400 910,1400 955,1400 1000,1400 1044,1400 1089,1400 1134,1400 1179,1403 1224,1403 1268,1403 1313,1403 1358,1406 1403,1406 1448,1406 1492,1409 1537,1406 1582,1409 1627,1409 1671,1412 1716,1409 1761,1409 1806,1406 1851,1406 1895,1406 1940,1406 1985,1406 2030,1406 2075,1406 2119,1406 2164,1403 2209,1403 2254,1403 2298,1400 2343,1394 2388,1391 2397,1391"/>
                 <TextEquiv>
-                    <Unicode>vero unum habet atomos x̿vi et ccxliiicc ostenta x̿liiicc momenta x̿xviiiidcccc</Unicode>
+                    <Unicode>vͦ unū ht̅ athomos x̿vi et ccxliiicc ostenta x̿liiicc mom̅ta x̿xviiiidcccc</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_12" custom="readingOrder {index:19;}">
                 <Coords points="487,1483 2384,1473 2384,1410 487,1395"/>
                 <Baseline points="501,1451 510,1451 555,1456 600,1459 644,1456 689,1456 734,1459 779,1459 824,1459 868,1456 913,1456 958,1456 1003,1456 1047,1456 1092,1456 1137,1456 1182,1459 1227,1456 1271,1459 1316,1459 1361,1462 1406,1462 1451,1462 1495,1465 1540,1465 1585,1468 1630,1468 1674,1468 1719,1471 1764,1468 1809,1468 1854,1468 1898,1465 1943,1462 1988,1465 2033,1465 2078,1465 2122,1462 2167,1462 2212,1459 2257,1459 2301,1456 2346,1454 2391,1442"/>
                 <TextEquiv>
-                    <Unicode>partes horarum x̿dccc minuta v̿iicc punctos i̿ii dc horas dccxx partes</Unicode>
+                    <Unicode>partes horarū x̿dccc minuta v̿iicc punctos i̿ii dc horas dccxx partes</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_3_tl_1" custom="readingOrder {index:20;}">
                 <Coords points="492,1539 2389,1524 2360,1466 489,1480"/>
                 <Baseline points="504,1516 510,1513 555,1516 600,1519 644,1519 689,1519 734,1516 779,1516 824,1516 868,1516 913,1516 958,1519 1003,1519 1047,1519 1092,1519 1137,1519 1182,1519 1227,1519 1271,1519 1316,1519 1361,1519 1406,1522 1451,1525 1495,1522 1540,1525 1585,1528 1630,1528 1674,1528 1719,1528 1764,1528 1809,1528 1854,1525 1898,1525 1943,1522 1988,1522 2033,1522 2078,1525 2122,1525 2167,1522 2212,1522 2257,1519 2301,1513 2346,1510 2391,1504"/>
                 <TextEquiv>
-                    <Unicode>proprias que pro diebus computantur xxx Duodecim signa habent atomos centies</Unicode>
+                    <Unicode>ꝓpͥas que ꝓ dieb᷒ computantur xxx Duodecim signa hn̅t athomos centies</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_3_tl_2" custom="readingOrder {index:21;}">
                 <Coords points="487,1578 2379,1583 2379,1519 487,1541"/>
                 <Baseline points="501,1567 504,1570 549,1573 594,1570 638,1570 683,1573 728,1570 773,1570 818,1573 862,1570 907,1573 952,1573 997,1573 1041,1573 1086,1576 1131,1576 1176,1576 1221,1579 1265,1576 1310,1576 1355,1576 1400,1576 1445,1576 1489,1579 1534,1579 1579,1582 1624,1582 1668,1582 1713,1582 1758,1582 1803,1579 1848,1579 1892,1576 1937,1576 1982,1576 2027,1579 2072,1579 2116,1579 2161,1579 2206,1576 2251,1573 2295,1573 2340,1567 2385,1558"/>
                 <TextEquiv>
-                    <Unicode>nonagies et quater M et dccccxviii ccc ostenta d̿xviii cccc momenta c̿ccxlv</Unicode>
+                    <Unicode>nonagies et quat̅ M et dccccxviii ccc ostenta d̿xviii cccc mom̅ta c̿ccxlv</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_3_tl_3" custom="readingOrder {index:22;}">
                 <Coords points="487,1631 2408,1634 2381,1573 487,1580"/>
                 <Baseline points="501,1624 531,1624 576,1627 621,1624 665,1627 710,1624 755,1627 800,1627 844,1627 889,1627 934,1627 979,1627 1024,1630 1068,1633 1113,1630 1158,1633 1203,1633 1247,1633 1292,1630 1337,1630 1382,1630 1427,1630 1471,1633 1516,1633 1561,1636 1606,1639 1651,1639 1695,1639 1740,1639 1785,1636 1830,1636 1874,1636 1919,1633 1964,1633 2009,1633 2054,1633 2098,1636 2143,1636 2188,1633 2233,1633 2278,1630 2322,1627 2367,1624 2412,1621"/>
                 <TextEquiv>
-                    <Unicode>dc partes horarum c̿xxviiii dc minuta lxxxvicccc punctos xliiicc horas</Unicode>
+                    <Unicode>dc partes horarū c̿xxviiii dc minuta lxxxvicccc punctos xliiicc horas</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_3_tl_4" custom="readingOrder {index:23;}">
                 <Coords points="497,1709 2179,1700 2145,1641 497,1641"/>
                 <Baseline points="510,1677 555,1683 600,1683 644,1683 689,1680 734,1683 779,1683 824,1686 868,1686 913,1686 958,1686 1003,1689 1047,1689 1092,1692 1137,1692 1182,1695 1227,1695 1271,1695 1316,1695 1361,1695 1406,1695 1451,1698 1495,1698 1540,1698 1585,1701 1630,1701 1674,1701 1719,1698 1764,1698 1809,1698 1854,1695 1898,1695 1943,1695 1988,1695 2033,1692 2078,1695 2122,1695 2167,1692 2185,1689"/>
                 <TextEquiv>
-                    <Unicode>v̿iii dcxl partes proprias ccclx Quot modis soleat annus nominari</Unicode>
+                    <Unicode>v̿iii dcxl partes ꝓpͥas ccclx Quot modis soleat annus nominari</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_3_tl_5" custom="readingOrder {index:24;}">
                 <Coords points="565,1746 2381,1761 2381,1692 565,1704"/>
                 <Baseline points="579,1740 623,1740 668,1740 713,1743 758,1743 803,1743 847,1743 892,1743 937,1746 982,1749 1027,1749 1071,1749 1116,1749 1161,1752 1206,1752 1250,1755 1295,1755 1340,1755 1385,1755 1430,1755 1474,1755 1519,1758 1564,1758 1609,1758 1654,1755 1698,1758 1743,1755 1788,1755 1833,1752 1877,1752 1922,1752 1967,1752 2012,1749 2057,1749 2101,1749 2146,1749 2191,1752 2236,1752 2281,1749 2325,1746 2370,1740 2388,1740"/>
                 <TextEquiv>
-                    <Unicode>Primus modus est de luna qui quinquifarie accipitur unus namque annus est cum luna</Unicode>
+                    <Unicode>Prim᷒ modus e̅ de luna qͥ quinqͥfarie accipit un᷒ nāq ann᷒ e̅ cū luna</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_3_tl_6" custom="readingOrder {index:25;}">
                 <Coords points="580,1814 2406,1804 2406,1746 580,1748"/>
                 <Baseline points="594,1797 621,1800 665,1800 710,1800 755,1803 800,1803 844,1803 889,1803 934,1803 979,1806 1024,1806 1068,1806 1113,1809 1158,1809 1203,1812 1247,1812 1292,1812 1337,1812 1382,1812 1427,1812 1471,1815 1516,1815 1561,1815 1606,1815 1651,1818 1695,1818 1740,1815 1785,1815 1830,1815 1874,1812 1919,1812 1964,1809 2009,1809 2054,1806 2098,1806 2143,1806 2188,1809 2233,1809 2278,1809 2322,1806 2367,1800 2412,1794"/>
                 <TextEquiv>
-                    <Unicode>xxvii diebus et viii horis zodiacum percurrens ad signum ex quo egressa est rever¬</Unicode>
+                    <Unicode>xxvii dieb᷒ et viii horis zodiacū ꝑcurrens ad signū ex quo egressa e̅ reu̅</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_3_tl_7" custom="readingOrder {index:26;}">
                 <Coords points="460,1882 2401,1882 2401,1807 460,1834"/>
                 <Baseline points="474,1854 480,1854 525,1854 570,1854 615,1857 659,1857 704,1860 749,1863 794,1863 838,1863 883,1863 928,1863 973,1863 1018,1863 1062,1866 1107,1866 1152,1869 1197,1869 1242,1871 1286,1871 1331,1874 1376,1874 1421,1874 1465,1874 1510,1874 1555,1874 1600,1874 1645,1874 1689,1874 1734,1874 1779,1874 1824,1871 1869,1871 1913,1869 1958,1869 2003,1869 2048,1866 2092,1866 2137,1866 2182,1866 2227,1866 2272,1866 2316,1863 2361,1860 2406,1851"/>
                 <TextEquiv>
-                    <Unicode>titur Alter duobus diebus et iiii horis prolixior Tertius qui xii mensibus huiusmodo id est diebus</Unicode>
+                    <Unicode>tit Alt̅ duob᷒ dieb᷒ et iiii horis ꝓlixior Terci᷒ qui xii m̅sib᷒ hui᷒mͦ iđ dieb᷒</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_3_tl_8" custom="readingOrder {index:27;}">
                 <Coords points="489,1931 2423,1936 2423,1870 489,1892"/>
                 <Baseline points="504,1916 546,1916 591,1916 635,1916 680,1916 725,1919 770,1919 815,1919 859,1922 904,1922 949,1922 994,1922 1039,1922 1083,1922 1128,1925 1173,1925 1218,1928 1262,1931 1307,1931 1352,1934 1397,1931 1442,1931 1486,1931 1531,1931 1576,1931 1621,1931 1665,1931 1710,1931 1755,1928 1800,1931 1845,1928 1889,1925 1934,1925 1979,1925 2024,1925 2069,1922 2113,1922 2158,1922 2203,1922 2248,1922 2292,1922 2337,1922 2382,1916 2427,1910"/>
                 <TextEquiv>
-                    <Unicode>cccliiii expletur et vocatur communis Quartus qui embolismus graece dicitur id est super¬</Unicode>
+                    <Unicode>cccliiii expletur et uocat cōmunis Quartus qui embolism᷒ g̅ce dr̅ iđ suꝑ</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_3_tl_9" custom="readingOrder {index:28;}">
                 <Coords points="494,1994 2420,1987 2384,1933 494,1929"/>
                 <Baseline points="507,1976 546,1973 591,1973 635,1973 680,1973 725,1973 770,1976 815,1976 859,1979 904,1979 949,1982 994,1982 1039,1982 1083,1985 1128,1985 1173,1988 1218,1991 1262,1991 1307,1991 1352,1994 1397,1994 1442,1991 1486,1991 1531,1991 1576,1991 1621,1991 1665,1988 1710,1985 1755,1988 1800,1985 1845,1985 1889,1985 1934,1985 1979,1988 2024,1985 2069,1982 2113,1985 2158,1982 2203,1982 2248,1982 2292,1982 2337,1979 2382,1976 2427,1970"/>
                 <TextEquiv>
-                    <Unicode>augmentum et habet xiii menses i dies ccclxxxiiii Quintus est dum luna per xviiii an¬</Unicode>
+                    <Unicode>augm̅tum et ht̅ xiii m̅ses i dies ccclxxxiiii Quint᷒ e̅ dū luna ꝑ xviiii an</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_6_tl_1" custom="readingOrder {index:29;}">
                 <Coords points="487,2058 2423,2045 2355,1985 487,1999"/>
                 <Baseline points="501,2039 504,2039 549,2039 594,2039 638,2039 683,2039 728,2042 773,2042 818,2042 862,2045 907,2045 952,2042 997,2045 1041,2045 1086,2045 1131,2045 1176,2048 1221,2051 1265,2051 1310,2051 1355,2051 1400,2051 1445,2048 1489,2048 1534,2048 1579,2048 1624,2045 1668,2045 1713,2045 1758,2045 1803,2045 1848,2045 1892,2045 1937,2048 1982,2048 2027,2048 2072,2045 2116,2048 2161,2048 2206,2048 2251,2045 2295,2045 2340,2042 2385,2039 2430,2033"/>
                 <TextEquiv>
-                    <Unicode>nos etiam saltu transacto ad easdem recurrit aetates Sextus annus est secundum stel¬</Unicode>
+                    <Unicode>nos etiā saltu transacto ad easdē recurrit aetates Sextus annus e̅ scđm stel</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_6_tl_2" custom="readingOrder {index:30;}">
                 <Coords points="497,2106 2442,2114 2442,2043 497,2055"/>
                 <Baseline points="510,2098 519,2098 564,2095 609,2095 653,2098 698,2098 743,2101 788,2101 832,2101 877,2104 922,2104 967,2104 1012,2104 1056,2104 1101,2104 1146,2104 1191,2107 1236,2107 1280,2107 1325,2107 1370,2107 1415,2110 1459,2110 1504,2107 1549,2107 1594,2104 1639,2104 1683,2104 1728,2104 1773,2104 1818,2104 1863,2104 1907,2107 1952,2107 1997,2104 2042,2104 2086,2104 2131,2104 2176,2104 2221,2104 2266,2104 2310,2101 2355,2098 2400,2095 2445,2089"/>
                 <TextEquiv>
-                    <Unicode>lam quae vocatur mercurius qui cccxxxviiii diebus expletur Septimus annus est secundum stel¬</Unicode>
+                    <Unicode>lā que uocat mercuri᷒ qui cccxxxviiii dieb᷒ expletur Septim᷒ ann᷒ e̅ scđm stel</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_6_tl_3" custom="readingOrder {index:31;}">
                 <Coords points="494,2177 2391,2165 2391,2106 494,2109"/>
                 <Baseline points="507,2158 516,2161 561,2161 606,2161 650,2164 695,2164 740,2164 785,2164 830,2164 874,2167 919,2167 964,2167 1009,2167 1053,2167 1098,2167 1143,2167 1188,2167 1233,2170 1277,2167 1322,2170 1367,2167 1412,2167 1456,2170 1501,2170 1546,2167 1591,2164 1636,2164 1680,2164 1725,2167 1770,2167 1815,2167 1860,2167 1904,2170 1949,2170 1994,2170 2039,2167 2083,2167 2128,2167 2173,2167 2218,2164 2263,2164 2307,2164 2352,2161 2397,2152"/>
                 <TextEquiv>
-                    <Unicode>lam quae vocatur venus qui cccxlviii diebus expletur Octavus annus est solaris cum sol</Unicode>
+                    <Unicode>lam que uocatur uen᷒ qui cccxlviii diebus expletur Octauus ann᷒ e̅ solaris cū sol</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_6_tl_4" custom="readingOrder {index:32;}">
                 <Coords points="497,2240 2394,2228 2394,2165 497,2174"/>
                 <Baseline points="510,2221 516,2221 561,2224 606,2224 650,2224 695,2224 740,2227 785,2227 830,2224 874,2224 919,2224 964,2227 1009,2227 1053,2227 1098,2227 1143,2227 1188,2227 1233,2227 1277,2224 1322,2227 1367,2227 1412,2224 1456,2227 1501,2224 1546,2224 1591,2224 1636,2224 1680,2224 1725,2227 1770,2227 1815,2227 1860,2230 1904,2230 1949,2230 1994,2227 2039,2227 2083,2230 2128,2230 2173,2230 2218,2227 2263,2227 2307,2224 2352,2218 2397,2215"/>
                 <TextEquiv>
-                    <Unicode>ad eadem loca siderum redit peractis ccclxv diebus et vi horis Nonus est item solaris dum</Unicode>
+                    <Unicode>ad eadē loca syderum redit ꝑactis ccclxv dieb᷒ et vi horis Non᷒ e̅ itē solaris dū</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_6_tl_5" custom="readingOrder {index:33;}">
                 <Coords points="494,2311 2391,2306 2391,2235 494,2245"/>
                 <Baseline points="507,2281 516,2281 561,2284 606,2286 650,2286 695,2286 740,2289 785,2289 830,2286 874,2286 919,2286 964,2286 1009,2289 1053,2289 1098,2289 1143,2289 1188,2286 1233,2284 1277,2286 1322,2286 1367,2284 1412,2286 1456,2286 1501,2286 1546,2286 1591,2286 1636,2286 1680,2289 1725,2292 1770,2292 1815,2292 1860,2292 1904,2292 1949,2292 1994,2292 2039,2289 2083,2289 2128,2289 2173,2289 2218,2289 2263,2286 2307,2286 2352,2281 2397,2272"/>
                 <TextEquiv>
-                    <Unicode>iiii anno bissextus inseritur et fiunt dies ccclxvi Decimus est item solaris dum sol per</Unicode>
+                    <Unicode>iiii anno bissextus inseritur et fiunt dies ccclxvi Decim᷒ e̅ itē solaris dū sol ꝑ</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_6_tl_6" custom="readingOrder {index:34;}">
                 <Coords points="489,2360 2416,2347 2416,2291 489,2294"/>
                 <Baseline points="504,2337 540,2340 585,2340 629,2340 674,2343 719,2346 764,2346 809,2346 853,2346 898,2346 943,2343 988,2346 1033,2346 1077,2346 1122,2346 1167,2346 1212,2346 1256,2346 1301,2349 1346,2346 1391,2343 1436,2343 1480,2346 1525,2346 1570,2349 1615,2349 1660,2352 1704,2349 1749,2349 1794,2349 1839,2349 1883,2349 1928,2349 1973,2346 2018,2346 2063,2349 2107,2349 2152,2346 2197,2346 2242,2349 2286,2349 2331,2346 2376,2343 2421,2334"/>
                 <TextEquiv>
-                    <Unicode>xxviii annos circulum concurrentium complet Undecimus annus est secundum stellam</Unicode>
+                    <Unicode>xxviii annos circulum concurrentiū complet Vndecim᷒ ann᷒ e̅ scđm stellam</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_6_tl_7" custom="readingOrder {index:35;}">
                 <Coords points="489,2420 2406,2408 2406,2347 489,2360"/>
                 <Baseline points="504,2403 531,2400 576,2403 621,2403 665,2403 710,2403 755,2406 800,2406 844,2406 889,2409 934,2406 979,2409 1024,2409 1068,2406 1113,2409 1158,2409 1203,2409 1247,2412 1292,2412 1337,2412 1382,2412 1427,2412 1471,2412 1516,2412 1561,2415 1606,2418 1651,2415 1695,2415 1740,2415 1785,2415 1830,2415 1874,2415 1919,2412 1964,2412 2009,2409 2054,2406 2098,2406 2143,2406 2188,2406 2233,2406 2278,2406 2322,2403 2367,2403 2412,2397"/>
                 <TextEquiv>
-                    <Unicode>quae vocatur mars qui peractis duobus diei annis constat Duodecimus annus est secundum stellam</Unicode>
+                    <Unicode>que uocatur mars qͥ ꝑactis duob᷒ đ annis c̅stat Duodecim᷒ ann᷒ e̅ scđm stellā</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_6_tl_8" custom="readingOrder {index:36;}">
                 <Coords points="494,2493 2394,2476 2325,2418 494,2430"/>
                 <Baseline points="507,2466 519,2469 564,2466 609,2466 653,2466 698,2466 743,2466 788,2466 832,2466 877,2466 922,2469 967,2469 1012,2469 1056,2472 1101,2472 1146,2472 1191,2475 1236,2475 1280,2478 1325,2478 1370,2478 1415,2478 1459,2478 1504,2481 1549,2481 1594,2481 1639,2481 1683,2478 1728,2478 1773,2478 1818,2475 1863,2478 1907,2472 1952,2472 1997,2469 2042,2469 2086,2469 2131,2466 2176,2469 2221,2469 2266,2466 2310,2466 2355,2466 2400,2463"/>
                 <TextEquiv>
-                    <Unicode>quae vocatur iovis qui peractis xii annis inpletur Xiiius annus est secundum stellam que vo¬</Unicode>
+                    <Unicode>que uocat iouis qͥ ꝑactis xii annis inplet Xiii᷒ ann᷒ e̅ scđm stellam que uo</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_1" custom="readingOrder {index:37;}">
                 <Coords points="497,2547 2406,2554 2406,2469 497,2489"/>
                 <Baseline points="510,2528 528,2531 573,2531 618,2531 662,2531 707,2528 752,2528 797,2528 841,2525 886,2528 931,2531 976,2531 1021,2534 1065,2534 1110,2534 1155,2537 1200,2537 1245,2537 1289,2540 1334,2543 1379,2543 1424,2543 1468,2543 1513,2543 1558,2543 1603,2540 1648,2540 1692,2540 1737,2537 1782,2534 1827,2534 1871,2531 1916,2531 1961,2531 2006,2531 2051,2531 2095,2531 2140,2528 2185,2531 2230,2528 2275,2531 2319,2531 2364,2531 2409,2522"/>
                 <TextEquiv>
-                    <Unicode>catur saturnus qui peractis xxx annis completur xiiiius annus est requies anni septimi qui</Unicode>
+                    <Unicode>cat saturn᷒ qͥ ꝑactis xxx annis cōpletur xiiii᷒ ann᷒ e̅ requies anni septimi qͥ</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_2" custom="readingOrder {index:38;}">
                 <Coords points="489,2608 2423,2603 2423,2545 489,2564"/>
                 <Baseline points="504,2588 549,2591 594,2594 638,2594 683,2594 728,2594 773,2591 818,2591 862,2591 907,2594 952,2591 997,2591 1041,2594 1086,2597 1131,2597 1176,2600 1221,2600 1265,2603 1310,2603 1355,2603 1400,2603 1445,2603 1489,2600 1534,2600 1579,2597 1624,2597 1668,2594 1713,2594 1758,2594 1803,2591 1848,2591 1892,2588 1937,2588 1982,2588 2027,2588 2072,2591 2116,2591 2161,2588 2206,2588 2251,2591 2295,2591 2340,2591 2385,2588 2430,2582"/>
                 <TextEquiv>
-                    <Unicode>iubebatur populo dei a rurali opere vacare Xviᷓ species anni est iubelei qui est annus</Unicode>
+                    <Unicode>iubebat ppꝉo di̅ a rurali opere uacare Xviᷓ species anni e̅ iubelei qui e̅ annus</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_3" custom="readingOrder {index:39;}">
                 <Coords points="487,2657 2428,2652 2406,2596 487,2603"/>
                 <Baseline points="501,2645 507,2645 552,2648 597,2648 641,2651 686,2654 731,2654 776,2654 821,2654 865,2654 910,2654 955,2654 1000,2654 1044,2654 1089,2657 1134,2660 1179,2660 1224,2660 1268,2660 1313,2660 1358,2660 1403,2657 1448,2657 1492,2654 1537,2654 1582,2651 1627,2651 1671,2651 1716,2651 1761,2648 1806,2648 1851,2648 1895,2648 1940,2648 1985,2648 2030,2648 2075,2648 2119,2648 2164,2645 2209,2645 2254,2648 2298,2648 2343,2648 2388,2642 2433,2633"/>
                 <TextEquiv>
-                    <Unicode>remissionis et L impletur annis Xviius annus est qui vocatur magnus annus planetarum</Unicode>
+                    <Unicode>remissionis et L implet annis Xvii᷒ ann᷒ est qui uocatur magn᷒ ann᷒ planetaꝝ</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_4" custom="readingOrder {index:40;}">
                 <Coords points="487,2722 2408,2710 487,2657"/>
                 <Baseline points="501,2701 546,2704 591,2707 635,2710 680,2710 725,2713 770,2713 815,2713 859,2713 904,2716 949,2716 994,2713 1039,2713 1083,2716 1128,2716 1173,2716 1218,2716 1262,2716 1307,2716 1352,2716 1397,2713 1442,2713 1486,2713 1531,2710 1576,2710 1621,2710 1665,2710 1710,2710 1755,2710 1800,2707 1845,2707 1889,2704 1934,2704 1979,2707 2024,2707 2069,2707 2113,2707 2158,2707 2203,2707 2248,2710 2292,2710 2337,2710 2382,2704 2412,2704"/>
                 <TextEquiv>
-                    <Unicode>dum omnia sidera ad locum revertuntur ubi primum statuta fuerunt et dxxxii</Unicode>
+                    <Unicode>dū om̅ia sydera ad locum reuertuntur ubi pͥmum statuta fuerunt et dxxxii</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_5" custom="readingOrder {index:41;}">
                 <Coords points="497,2788 2401,2791 2401,2713 497,2717"/>
                 <Baseline points="510,2764 555,2767 600,2767 644,2767 689,2773 734,2773 779,2773 824,2776 868,2776 913,2779 958,2779 1003,2779 1047,2776 1092,2776 1137,2773 1182,2773 1227,2773 1271,2773 1316,2770 1361,2770 1406,2770 1451,2770 1495,2770 1540,2773 1585,2773 1630,2773 1674,2773 1719,2773 1764,2773 1809,2773 1854,2773 1898,2773 1943,2770 1988,2770 2033,2770 2078,2770 2122,2767 2167,2770 2212,2770 2257,2770 2301,2770 2346,2770 2391,2764 2406,2764"/>
                 <TextEquiv>
-                    <Unicode>annis impletur De mundano anno qui quindecim milibus solarium confi¬</Unicode>
+                    <Unicode>annis impletur De mundano anno qui quindecim milibus solarium confi</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_6" custom="readingOrder {index:42;}">
@@ -319,70 +319,70 @@
                 <Coords points="575,2898 2274,2915 2447,2900 2450,2829 577,2842"/>
                 <Baseline points="591,2887 618,2887 662,2887 707,2890 752,2890 797,2896 841,2896 886,2899 931,2899 976,2899 1021,2899 1065,2899 1110,2896 1155,2896 1200,2893 1245,2893 1289,2890 1334,2890 1379,2890 1424,2890 1468,2890 1513,2893 1558,2890 1603,2890 1648,2890 1692,2893 1737,2896 1782,2893 1827,2893 1871,2893 1916,2893 1961,2890 2006,2887 2051,2887 2095,2887 2140,2887 2185,2887 2230,2887 2275,2887 2319,2887 2364,2881 2409,2875 2454,2866"/>
                 <TextEquiv>
-                    <Unicode>Annus non is solus est quem nunc communis omnium usus appellat exponentis ac senacae</Unicode>
+                    <Unicode>Ann᷒ n̅ is solus e̅ quē nc̅ cōmunis omniū usus appellat exponentis ac senacę</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_8" custom="readingOrder {index:44;}">
                 <Coords points="562,2968 2184,3007 2435,2934 2435,2878 562,2907"/>
                 <Baseline points="576,2946 606,2946 650,2946 695,2946 740,2946 785,2949 830,2952 874,2955 919,2955 964,2958 1009,2958 1053,2958 1098,2958 1143,2955 1188,2952 1233,2952 1277,2949 1322,2946 1367,2943 1412,2943 1456,2946 1501,2946 1546,2946 1591,2946 1636,2946 1680,2949 1725,2952 1770,2949 1815,2949 1860,2949 1904,2949 1949,2949 1994,2949 2039,2946 2083,2946 2128,2946 2173,2946 2218,2946 2263,2946 2307,2946 2352,2940 2397,2934 2442,2925"/>
                 <TextEquiv>
-                    <Unicode>sed singulorum seu luminum seu stellarum emenso omni caeli philosophorum aucto¬</Unicode>
+                    <Unicode>s singuloꝝ seu luminū seu stellarum emenso omni celi philosophoꝝ aucto</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_4_tl_1" custom="readingOrder {index:45;}">
                 <Coords points="2226,3041 2265,3046 2301,3019 2328,3019 2355,3002 2362,3015 2379,3015 2401,3000 2416,3002 2425,2949 2391,2951 2381,2961 2369,2954 2352,2966 2325,2954 2299,2956 2269,2971 2265,2963 2238,2966"/>
                 <Baseline points="2245,3006 2248,3009 2292,3006 2337,3000 2382,2991 2427,2982"/>
                 <TextEquiv>
-                    <Unicode>ritas</Unicode>
+                    <Unicode>ritas</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>DE ANNO ET PARTIBUS EIUS&#13;
-Annus solaris habet iiii tempora menses xii ebdomadas Lii dies ccclxv et qua¬&#13;
+                <Unicode>DE ANNO ET PARTIBVS EIVS&#13;
+Annus solaris habet iiii tempora m̅ses xii epdomadas Lii dies ccclxv et qua&#13;
 drantem Horas v̿iii et  dcc lxvi Punctos x̿liii et dcccxxx minuta l̿xxxvii&#13;
 et dc lx Partes c̿xxxi et ccccxc Momenta c̿cclviiii et ccccxl Ostenta d̿xxxvii&#13;
-et clx Tempus habet menses iii dies xci horas vii et dimidiam Menses vii habent&#13;
-dies xxxi et quatuor xxx et unus xxviii Ebdomadas iiii et dies supra Ebdoma¬&#13;
-da habet dies vii Dies habet horas xxiiiior Hora habet punctos v minuta x Partes xv&#13;
-momenta xl ostenta lx Punctus habet minuta duo partes iii momenta viii os¬&#13;
-tenta xii Unum minutum habet partem i et dimidiam momenta iiii ostenta vi Una&#13;
-pars habet momenta duo et duas partes tercii momenti ostenta iiii Unum momentum&#13;
-habet ostentum i et dimidium Quot atomos habet annus vel partes eius&#13;
-Ostentum habet atomos ccclxxvi Momentum habet atomos d lxiiii id est ostentum&#13;
-et semissem Pars vero habet atomos i̿ diiii ostenta iiii momenta duo et bissem&#13;
-unius momenti Minutum habet atomos i̿icclvi ostenta vi momenta iiii partem et dimi¬&#13;
-diam Punctus habet atomos i̿iiidxii ostenta xii momenta vii partes iii minuta&#13;
-duo Hora vero habet atomos x̿xiidlx ostenta xlx momenta xl partes xv minu¬&#13;
-ta x punctos v Dies quippe habet atomos d̿xli et ccccxl ostenta i̿ ccccxl mo¬&#13;
-menta dcccclx partes ccclx minuta ccxl punctos cxx horas xxiiii Signum&#13;
-vero unum habet atomos x̿vi et ccxliiicc ostenta x̿liiicc momenta x̿xviiiidcccc&#13;
-partes horarum x̿dccc minuta v̿iicc punctos i̿ii dc horas dccxx partes&#13;
-proprias que pro diebus computantur xxx Duodecim signa habent atomos centies&#13;
-nonagies et quater M et dccccxviii ccc ostenta d̿xviii cccc momenta c̿ccxlv&#13;
-dc partes horarum c̿xxviiii dc minuta lxxxvicccc punctos xliiicc horas&#13;
-v̿iii dcxl partes proprias ccclx Quot modis soleat annus nominari&#13;
-Primus modus est de luna qui quinquifarie accipitur unus namque annus est cum luna&#13;
-xxvii diebus et viii horis zodiacum percurrens ad signum ex quo egressa est rever¬&#13;
-titur Alter duobus diebus et iiii horis prolixior Tertius qui xii mensibus huiusmodo id est diebus&#13;
-cccliiii expletur et vocatur communis Quartus qui embolismus graece dicitur id est super¬&#13;
-augmentum et habet xiii menses i dies ccclxxxiiii Quintus est dum luna per xviiii an¬&#13;
-nos etiam saltu transacto ad easdem recurrit aetates Sextus annus est secundum stel¬&#13;
-lam quae vocatur mercurius qui cccxxxviiii diebus expletur Septimus annus est secundum stel¬&#13;
-lam quae vocatur venus qui cccxlviii diebus expletur Octavus annus est solaris cum sol&#13;
-ad eadem loca siderum redit peractis ccclxv diebus et vi horis Nonus est item solaris dum&#13;
-iiii anno bissextus inseritur et fiunt dies ccclxvi Decimus est item solaris dum sol per&#13;
-xxviii annos circulum concurrentium complet Undecimus annus est secundum stellam&#13;
-quae vocatur mars qui peractis duobus diei annis constat Duodecimus annus est secundum stellam&#13;
-quae vocatur iovis qui peractis xii annis inpletur Xiiius annus est secundum stellam que vo¬&#13;
-catur saturnus qui peractis xxx annis completur xiiiius annus est requies anni septimi qui&#13;
-iubebatur populo dei a rurali opere vacare Xviᷓ species anni est iubelei qui est annus&#13;
-remissionis et L impletur annis Xviius annus est qui vocatur magnus annus planetarum&#13;
-dum omnia sidera ad locum revertuntur ubi primum statuta fuerunt et dxxxii&#13;
-annis impletur De mundano anno qui quindecim milibus solarium confi¬&#13;
+et clx Tempus habet m̅ses iii dies xci horas vii et dimidiam Menses vii hn̅t&#13;
+dies xxxi et quatuor xxx et un᷒ xxviii Epdomadas iiii et dies supra Epdoma&#13;
+da ht̅ dies vii Dies ht̅ horas xxiiiior Hora ht̅ punctos v minuta x Partes xv&#13;
+momenta xl ostenta lx Punctus ht̅ minuta duo partes iii mom̅ta viii os&#13;
+tenta xii Vnum minutum ht̅ partē i et dimidiam momenta iiii ostenta vi Una&#13;
+pars ht̅ momenta iiͦ et duas partes t̅cii momenti ostenta iiii Unum momentum&#13;
+ht̅ ostentū i et dimidiū Quot athomos habet ann᷒ vel partes eius&#13;
+Ostentū ht̅ athomos ccclxxvi Momentū ht̅ athomos d lxiiii iđ ostentū&#13;
+et semissem Pars vͦ ht̅ athomos i̿ diiii ostenta iiii momenta duo et bissē&#13;
+uni᷒ mom̅ti Minutū ht̅ athomos i̿icclvi ostenta vi mom̅ta iiii partē et dimi&#13;
+diā Punctus ht̅ athomos i̿iiidxii ostenta xii momenta vii partes iii minuta&#13;
+duo Hora vͦ ht̅ athomos x̿xiidlx ostenta xlx mom̅ta xl partes xv minu&#13;
+ta x punctos v Dies qͥppe ht̅ athomos d̿xli et ccccxl ostenta i̿ ccccxl mo&#13;
+m̅ta dcccclx partes ccclx minuta ccxl punctos cxx horas xxiiii Signū&#13;
+vͦ unū ht̅ athomos x̿vi et ccxliiicc ostenta x̿liiicc mom̅ta x̿xviiiidcccc&#13;
+partes horarū x̿dccc minuta v̿iicc punctos i̿ii dc horas dccxx partes&#13;
+ꝓpͥas que ꝓ dieb᷒ computantur xxx Duodecim signa hn̅t athomos centies&#13;
+nonagies et quat̅ M et dccccxviii ccc ostenta d̿xviii cccc mom̅ta c̿ccxlv&#13;
+dc partes horarū c̿xxviiii dc minuta lxxxvicccc punctos xliiicc horas&#13;
+v̿iii dcxl partes ꝓpͥas ccclx Quot modis soleat annus nominari&#13;
+Prim᷒ modus e̅ de luna qͥ quinqͥfarie accipit un᷒ nāq ann᷒ e̅ cū luna&#13;
+xxvii dieb᷒ et viii horis zodiacū ꝑcurrens ad signū ex quo egressa e̅ reu̅&#13;
+tit Alt̅ duob᷒ dieb᷒ et iiii horis ꝓlixior Terci᷒ qui xii m̅sib᷒ hui᷒mͦ iđ dieb᷒&#13;
+cccliiii expletur et uocat cōmunis Quartus qui embolism᷒ g̅ce dr̅ iđ suꝑ&#13;
+augm̅tum et ht̅ xiii m̅ses i dies ccclxxxiiii Quint᷒ e̅ dū luna ꝑ xviiii an&#13;
+nos etiā saltu transacto ad easdē recurrit aetates Sextus annus e̅ scđm stel&#13;
+lā que uocat mercuri᷒ qui cccxxxviiii dieb᷒ expletur Septim᷒ ann᷒ e̅ scđm stel&#13;
+lam que uocatur uen᷒ qui cccxlviii diebus expletur Octauus ann᷒ e̅ solaris cū sol&#13;
+ad eadē loca syderum redit ꝑactis ccclxv dieb᷒ et vi horis Non᷒ e̅ itē solaris dū&#13;
+iiii anno bissextus inseritur et fiunt dies ccclxvi Decim᷒ e̅ itē solaris dū sol ꝑ&#13;
+xxviii annos circulum concurrentiū complet Vndecim᷒ ann᷒ e̅ scđm stellam&#13;
+que uocatur mars qͥ ꝑactis duob᷒ đ annis c̅stat Duodecim᷒ ann᷒ e̅ scđm stellā&#13;
+que uocat iouis qͥ ꝑactis xii annis inplet Xiii᷒ ann᷒ e̅ scđm stellam que uo&#13;
+cat saturn᷒ qͥ ꝑactis xxx annis cōpletur xiiii᷒ ann᷒ e̅ requies anni septimi qͥ&#13;
+iubebat ppꝉo di̅ a rurali opere uacare Xviᷓ species anni e̅ iubelei qui e̅ annus&#13;
+remissionis et L implet annis Xvii᷒ ann᷒ est qui uocatur magn᷒ ann᷒ planetaꝝ&#13;
+dū om̅ia sydera ad locum reuertuntur ubi pͥmum statuta fuerunt et dxxxii&#13;
+annis impletur De mundano anno qui quindecim milibus solarium confi&#13;
 citur annorum tullii ciceronis somnium scipionis dictantis et macrobii idem&#13;
-Annus non is solus est quem nunc communis omnium usus appellat exponentis ac senacae&#13;
-sed singulorum seu luminum seu stellarum emenso omni caeli philosophorum aucto¬&#13;
-ritas</Unicode>
+Ann᷒ n̅ is solus e̅ quē nc̅ cōmunis omniū usus appellat exponentis ac senacę&#13;
+s singuloꝝ seu luminū seu stellarum emenso omni celi philosophoꝝ aucto&#13;
+ritas</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

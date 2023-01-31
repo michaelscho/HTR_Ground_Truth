@@ -7,7 +7,7 @@
       <MeasurementUnit>pixel</MeasurementUnit>
       <OCRProcessing ID="IdOcr">
          <ocrProcessingStep>
-            <processingDateTime>2023-01-30T21:14:06.804+01:00</processingDateTime>
+            <processingDateTime>2023-01-31T19:05:48.71+01:00</processingDateTime>
             <processingSoftware>
                <softwareCreator>READ COOP</softwareCreator>
                <softwareName>Transkribus</softwareName>
@@ -54,7 +54,7 @@
                           WIDTH="1947"
                           VPOS="345"
                           HPOS="224"
-                          CONTENT="celi ambitum lustrat Nam et a luna mensis dicitur quia graeco nomine luna mene vocatur Nam"/>
+                          CONTENT="caeli ambitum lustrat Nam et a luna mensis dicitur quia graeco nomine luna mene vocatur Nam"/>
                </TextLine>
                <TextLine ID="tr_1_tl_3"
                          BASELINE="241,438 286,438 331,438 376,441 420,444 465,441 510,441 555,444 599,447 644,450 689,453 734,453 779,456 823,459 868,459 913,462 958,462 1002,468 1047,468 1092,471 1137,474 1181,474 1226,474 1271,471 1316,471 1361,471 1405,468 1450,468 1495,468 1540,471 1584,474 1629,474 1674,477 1719,477 1764,477 1808,477 1853,477 1898,477 1943,474 1987,474 2032,474 2077,477 2122,477 2166,477 2175,477"
@@ -67,7 +67,7 @@
                           WIDTH="1947"
                           VPOS="394"
                           HPOS="224"
-                          CONTENT="cursus quidem veneris atque mercurii poene par soli est Martis vero annus est fere biennium tenet"/>
+                          CONTENT="cursus quidem veneris atque mercurii paene par soli est Martis vero annus est fere biennium tenet"/>
                </TextLine>
                <TextLine ID="tr_1_tl_4"
                          BASELINE="241,492 286,492 331,492 376,495 420,498 465,501 510,501 555,504 599,507 644,510 689,513 734,513 779,513 823,516 868,519 913,519 958,522 1002,522 1047,525 1092,528 1137,528 1181,528 1226,528 1271,528 1316,528 1361,525 1405,525 1450,525 1495,525 1540,528 1584,531 1629,537 1674,540 1719,540 1764,540 1808,540 1853,540 1898,540 1943,540 1987,537 2032,537 2077,537 2122,540 2166,540 2178,540"
@@ -80,7 +80,7 @@
                           WIDTH="1946"
                           VPOS="451"
                           HPOS="227"
-                          CONTENT="Tanto enim tempus caelum circuit Iovis autem stella xii et saturni xxx annos in eadem circuitione"/>
+                          CONTENT="Tanto enim tempore caelum circuit Iovis autem stella xii et saturni xxx annos in eadem circuitione"/>
                </TextLine>
                <TextLine ID="tr_1_tl_5"
                          BASELINE="247,543 292,546 337,549 382,552 426,555 471,558 516,561 561,561 605,564 650,567 695,567 740,570 784,573 829,576 874,576 919,579 964,582 1008,582 1053,585 1098,585 1143,588 1187,588 1232,588 1277,585 1322,585 1367,582 1411,582 1456,579 1501,579 1546,582 1590,585 1635,588 1680,590 1725,593 1769,593 1814,593 1859,593 1904,593 1949,593 1993,593 2038,590 2083,593 2128,593 2172,602 2175,602"
@@ -93,7 +93,7 @@
                           WIDTH="1934"
                           VPOS="505"
                           HPOS="234"
-                          CONTENT="consumit Annus vero qui mundasius vocatur qui vere vertens est quia conversione plene univer¬"/>
+                          CONTENT="consumit Annus vero qui mundasius vocatur qui vere vertens est quia conversione plenae univer¬"/>
                </TextLine>
                <TextLine ID="tr_1_tl_6"
                          BASELINE="247,608 292,608 337,611 382,614 426,617 471,617 516,620 561,620 605,623 650,626 695,626 740,629 784,632 829,635 874,638 919,638 964,638 1008,641 1053,641 1098,644 1143,644 1187,641 1232,641 1277,641 1322,638 1367,638 1411,638 1456,635 1501,635 1546,635 1590,638 1635,641 1680,644 1725,650 1769,650 1814,653 1859,653 1904,653 1949,653 1993,647 2038,647 2083,650 2128,650 2172,653 2187,653"
@@ -106,7 +106,7 @@
                           WIDTH="1946"
                           VPOS="557"
                           HPOS="234"
-                          CONTENT="sitatis efficitur largissimis saecularis explicatur cuius ratio talis est Stellae omnes et sidera que infixa"/>
+                          CONTENT="sitatis efficitur largissimis saeculis explicatur cuius ratio talis est Stellae omnes et sidera quae infixa"/>
                </TextLine>
                <TextLine ID="tr_1_tl_7"
                          BASELINE="247,665 292,665 337,668 382,671 426,674 471,677 516,680 561,683 605,686 650,692 695,689 740,689 784,689 829,692 874,695 919,695 964,695 1008,698 1053,701 1098,701 1143,704 1187,704 1232,704 1277,701 1322,698 1367,698 1411,698 1456,698 1501,698 1546,698 1590,701 1635,704 1680,707 1725,710 1769,710 1814,710 1859,710 1904,710 1949,710 1993,707 2038,707 2083,707 2128,704 2172,704 2184,704"
@@ -119,7 +119,7 @@
                           WIDTH="1946"
                           VPOS="623"
                           HPOS="234"
-                          CONTENT="celo videntur quorum proprium motum nunque visus humanus sentire uel depraehendere poter moventur"/>
+                          CONTENT="caelo videntur quorum proprium motum nunquam visus humanus sentire vel depraehendere potest moventur"/>
                </TextLine>
                <TextLine ID="tr_1_tl_8"
                          BASELINE="235,722 280,725 325,728 370,731 414,734 459,737 504,737 549,740 593,743 638,746 683,746 728,746 773,749 817,749 862,749 907,755 952,758 996,758 1041,758 1086,761 1131,761 1176,761 1220,761 1265,761 1310,758 1355,755 1399,755 1444,755 1489,755 1534,755 1578,758 1623,761 1668,761 1713,767 1758,767 1802,767 1847,767 1892,767 1937,767 1981,767 2026,764 2071,767 2116,764 2131,767"
@@ -132,7 +132,7 @@
                           WIDTH="1902"
                           VPOS="682"
                           HPOS="222"
-                          CONTENT="tamen et praeter caeli volubilitatem qua semper trahuntur so quoque accessu tam sero promovent ut"/>
+                          CONTENT="tamen et praeter caeli volubilitatem qua semper trahuntur suo quoque accessu tam sero promovent ut"/>
                </TextLine>
                <TextLine ID="tr_1_tl_9"
                          BASELINE="238,782 283,784 328,787 373,790 417,790 462,793 507,796 552,796 596,802 641,802 686,805 731,808 776,808 820,808 865,811 910,814 955,817 999,817 1044,817 1089,817 1134,817 1178,817 1223,817 1268,817 1313,814 1358,811 1402,808 1447,808 1492,808 1537,811 1581,811 1626,814 1671,817 1716,820 1761,820 1805,823 1850,826 1895,826 1940,826 1984,826 2029,826 2074,823 2119,823 2152,823"
@@ -145,7 +145,7 @@
                           WIDTH="1922"
                           VPOS="739"
                           HPOS="224"
-                          CONTENT="nullius hominum vita tam longa sit que observatione continua factam de loco permutati¬"/>
+                          CONTENT="nullius hominum vita tam longa sit quae observatione continua factam de loco permutati¬"/>
                </TextLine>
                <TextLine ID="tr_1_tl_10"
                          BASELINE="238,835 283,838 328,841 373,844 417,847 462,853 507,856 552,859 596,859 641,862 686,865 731,865 776,865 820,868 865,868 910,871 955,874 999,874 1044,874 1089,874 1134,874 1178,874 1223,874 1268,874 1313,871 1358,868 1402,868 1447,868 1492,868 1537,865 1581,868 1626,871 1671,871 1716,877 1761,880 1805,880 1850,883 1895,883 1940,883 1984,883 2029,883 2074,883 2119,883"
@@ -158,7 +158,7 @@
                           WIDTH="1890"
                           VPOS="798"
                           HPOS="224"
-                          CONTENT="onem in quo eas primum viderat depraehendat mundani ergo anni finis est cum stellae omnes"/>
+                          CONTENT="onem in quo eas primum viderat deprehendat mundani ergo anni finis est cum stellae omnes"/>
                </TextLine>
                <TextLine ID="tr_1_tl_11"
                          BASELINE="238,895 283,898 328,904 373,907 417,913 462,913 507,916 552,916 596,922 641,922 686,922 731,925 776,925 820,928 865,931 910,931 955,934 999,934 1044,934 1089,934 1134,934 1178,934 1223,934 1268,931 1313,928 1358,928 1402,925 1447,925 1492,922 1537,925 1581,925 1626,928 1671,928 1716,934 1761,934 1805,937 1850,940 1895,940 1940,940 1984,940 2029,940 2074,940 2119,940 2163,943 2199,943"
@@ -171,7 +171,7 @@
                           WIDTH="1971"
                           VPOS="857"
                           HPOS="222"
-                          CONTENT="omniaque sidera que a planes habet a certo loco ad eundem locum remeaverint ut nec una"/>
+                          CONTENT="omniaque sidera quae aplanes habet a certo loco ad eundem locum remeaverint ut nec una"/>
                </TextLine>
                <TextLine ID="tr_1_tl_12"
                          BASELINE="238,949 283,955 328,958 373,961 417,964 462,967 507,970 552,973 596,976 641,976 686,979 731,979 776,981 820,981 865,984 910,987 955,990 999,990 1044,987 1089,987 1134,990 1178,987 1223,987 1268,984 1313,981 1358,981 1402,979 1447,979 1492,981 1537,981 1581,981 1626,981 1671,984 1716,987 1761,987 1805,990 1850,993 1895,993 1940,993 1984,993 2029,993 2074,993 2119,996 2146,993"
@@ -184,7 +184,7 @@
                           WIDTH="1919"
                           VPOS="912"
                           HPOS="224"
-                          CONTENT="quidem caeli stella in alio loco sit quam in quo fuit cum omnes alie ex eo loco motae sunt"/>
+                          CONTENT="quidem caeli stella in alio loco sit quam in quo fuit cum omnes aliae ex eo loco motae sunt"/>
                </TextLine>
                <TextLine ID="tr_1_tl_13"
                          BASELINE="232,1005 277,1005 322,1011 367,1014 411,1017 456,1020 501,1023 546,1026 590,1029 635,1032 680,1032 725,1035 770,1035 814,1038 859,1041 904,1041 949,1041 993,1044 1038,1041 1083,1041 1128,1041 1173,1041 1217,1041 1262,1038 1307,1038 1352,1035 1396,1035 1441,1035 1486,1038 1531,1035 1575,1038 1620,1035 1665,1035 1710,1038 1755,1038 1799,1041 1844,1044 1889,1044 1934,1047 1978,1047 2023,1047 2068,1050 2113,1053 2119,1050"
@@ -197,7 +197,7 @@
                           WIDTH="1897"
                           VPOS="961"
                           HPOS="219"
-                          CONTENT="Ad quem reversae anno so finem dederunt ita ut lumina quique cum erraticis quinque"/>
+                          CONTENT="Ad quem reversae anno suo finem dederunt ita ut lumina quique cum erraticis quinque"/>
                </TextLine>
                <TextLine ID="tr_2_tl_1"
                          BASELINE="232,1065 277,1068 322,1071 367,1077 411,1077 456,1080 501,1083 546,1086 590,1092 635,1092 680,1095 725,1095 770,1098 814,1098 859,1101 904,1101 949,1101 993,1101 1038,1101 1083,1098 1128,1101 1173,1101 1217,1101 1262,1098 1307,1095 1352,1095 1396,1098 1441,1098 1486,1098 1531,1098 1575,1098 1620,1098 1665,1098 1710,1098 1755,1098 1799,1098 1844,1101 1889,1101 1934,1104 1978,1104 2023,1107 2068,1107 2113,1107 2157,1107 2172,1107"
@@ -210,7 +210,7 @@
                           WIDTH="1947"
                           VPOS="1013"
                           HPOS="219"
-                          CONTENT="in idem locis et partibus sint in quibus incipiente anno mundano fuerunt Hoc autem"/>
+                          CONTENT="in isdem locis et partibus sint in quibus incipiente anno mundano fuerunt Hoc autem"/>
                </TextLine>
                <TextLine ID="tr_2_tl_2"
                          BASELINE="232,1122 277,1125 322,1131 367,1134 411,1137 456,1140 501,1143 546,1146 590,1149 635,1152 680,1152 725,1155 770,1155 814,1161 859,1158 904,1161 949,1161 993,1158 1038,1158 1083,1158 1128,1158 1173,1158 1217,1158 1262,1158 1307,1155 1352,1155 1396,1158 1441,1158 1486,1161 1531,1158 1575,1161 1620,1161 1665,1161 1710,1158 1755,1155 1799,1158 1844,1158 1889,1158 1934,1161 1978,1161 2023,1164 2068,1167 2113,1170 2146,1173"
@@ -236,7 +236,7 @@
                           WIDTH="1900"
                           VPOS="1138"
                           HPOS="224"
-                          CONTENT="est et annus solis xii menses et aliarum stellarum Hi sunt anni quos supra retulimus ita mun¬"/>
+                          CONTENT="est et annus solis xii menses et aliarum stellarum Hi sunt anni quos supra rettulimus ita mun¬"/>
                </TextLine>
                <TextLine ID="tr_2_tl_4"
                          BASELINE="238,1244 283,1247 328,1250 373,1253 417,1256 462,1259 507,1262 552,1262 596,1265 641,1271 686,1274 731,1277 776,1280 820,1280 865,1277 910,1277 955,1277 999,1277 1044,1274 1089,1274 1134,1274 1178,1274 1223,1274 1268,1277 1313,1277 1358,1277 1402,1280 1447,1280 1492,1280 1537,1280 1581,1280 1626,1280 1671,1280 1716,1280 1761,1280 1805,1277 1850,1277 1895,1277 1940,1277 1984,1280 2029,1280 2074,1283 2119,1283 2137,1286"
@@ -249,7 +249,7 @@
                           WIDTH="1907"
                           VPOS="1210"
                           HPOS="224"
-                          CONTENT="danum annum x̿v annorum quales nec computamus efficiunt Ille ergo vere annus vertens vo¬"/>
+                          CONTENT="danum annum x̿v annorum quales nunc computamus efficiunt Ille ergo vere annus vertens vo¬"/>
                </TextLine>
                <TextLine ID="tr_2_tl_5"
                          BASELINE="238,1304 283,1307 328,1310 373,1313 417,1316 462,1319 507,1322 552,1322 596,1325 641,1328 686,1334 731,1337 776,1337 820,1337 865,1337 910,1334 955,1334 999,1334 1044,1334 1089,1334 1134,1334 1178,1334 1223,1337 1268,1337 1313,1340 1358,1340 1402,1340 1447,1340 1492,1340 1537,1340 1581,1340 1626,1340 1671,1340 1716,1340 1761,1337 1805,1337 1850,1337 1895,1337 1940,1334 1984,1334 2029,1340 2074,1340 2119,1343 2152,1343"
@@ -262,7 +262,7 @@
                           WIDTH="1922"
                           VPOS="1274"
                           HPOS="224"
-                          CONTENT="candus est quem non solis id est unius astri reditu metitur sed quem stellarum omniumque que"/>
+                          CONTENT="candus est quem non solis id est unius astri reditu metitur sed quem stellarum omniumque quae"/>
                </TextLine>
                <TextLine ID="tr_2_tl_6"
                          BASELINE="232,1355 277,1361 322,1364 367,1367 411,1370 456,1372 501,1372 546,1375 590,1378 635,1384 680,1387 725,1387 770,1390 814,1387 859,1384 904,1384 949,1384 993,1384 1038,1384 1083,1387 1128,1390 1173,1390 1217,1390 1262,1393 1307,1396 1352,1396 1396,1399 1441,1399 1486,1396 1531,1396 1575,1396 1620,1396 1665,1396 1710,1396 1755,1396 1799,1396 1844,1393 1889,1393 1934,1390 1978,1390 2023,1390 2068,1393 2113,1393 2119,1393"
@@ -327,7 +327,7 @@
                           WIDTH="1900"
                           VPOS="1537"
                           HPOS="224"
-                          CONTENT="quisque facit quodcumque decreverit Ut ecce nec cicero a defectu solis qui sub romuli fine"/>
+                          CONTENT="quisque facit quodcumque decreverit Ut ecce nunc cicero a defectu solis qui sub romuli fine"/>
                </TextLine>
                <TextLine ID="tr_4_tl_3"
                          BASELINE="235,1644 280,1647 325,1647 370,1650 414,1653 459,1656 504,1659 549,1662 593,1665 638,1668 683,1671 728,1674 773,1677 817,1677 862,1677 907,1677 952,1677 996,1674 1041,1677 1086,1677 1131,1680 1176,1680 1220,1680 1265,1680 1310,1680 1355,1680 1399,1680 1444,1680 1489,1683 1534,1683 1578,1683 1623,1683 1668,1683 1713,1683 1758,1686 1802,1683 1847,1683 1892,1683 1937,1680 1981,1680 2026,1677 2071,1677 2116,1677 2143,1680"
@@ -340,7 +340,7 @@
                           WIDTH="1917"
                           VPOS="1609"
                           HPOS="219"
-                          CONTENT="contigit mundani anni principium sibi ipse constituit et licet iam sepissime postea"/>
+                          CONTENT="contigit mundani anni principium sibi ipse constituit et licet iam saepissime postea"/>
                </TextLine>
                <TextLine ID="tr_4_tl_4"
                          BASELINE="232,1701 277,1701 322,1704 367,1707 411,1710 456,1716 501,1719 546,1722 590,1725 635,1725 680,1728 725,1731 770,1734 814,1734 859,1737 904,1737 949,1734 993,1737 1038,1737 1083,1737 1128,1737 1173,1737 1217,1737 1262,1737 1307,1737 1352,1740 1396,1740 1441,1743 1486,1743 1531,1746 1575,1746 1620,1746 1665,1743 1710,1743 1755,1743 1799,1743 1844,1746 1889,1743 1934,1740 1978,1737 2023,1740 2068,1737 2113,1740"
@@ -366,7 +366,7 @@
                           WIDTH="1963"
                           VPOS="1715"
                           HPOS="212"
-                          CONTENT="sed tunc implebitur cum sol deficiens in idem locis et partibus et ipse erit et omnes caeli stel¬"/>
+                          CONTENT="sed tunc implebitur cum sol deficiens in isdem locis et partibus et ipse erit et omnes caeli stel¬"/>
                </TextLine>
                <TextLine ID="tr_4_tl_6"
                          BASELINE="235,1814 280,1820 325,1820 370,1823 414,1829 459,1835 504,1841 549,1838 593,1838 638,1841 683,1844 728,1847 773,1847 817,1850 862,1853 907,1853 952,1853 996,1853 1041,1853 1086,1853 1131,1853 1176,1853 1220,1853 1265,1853 1310,1850 1355,1853 1399,1856 1444,1856 1489,1859 1534,1862 1578,1862 1623,1862 1668,1862 1713,1859 1758,1859 1802,1859 1847,1859 1892,1859 1937,1859 1981,1859 2026,1859 2071,1856 2116,1856 2160,1856 2205,1853"
@@ -444,7 +444,7 @@
                           WIDTH="1892"
                           VPOS="2060"
                           HPOS="222"
-                          CONTENT="pio deleta kartagine triumphavit Ex quo numero annis remotis xxx iibus regni"/>
+                          CONTENT="pio deleta carthagine triumphavit Ex quo numero annis remotis xxx iibus regni"/>
                </TextLine>
                <TextLine ID="tr_3_tl_4"
                          BASELINE="226,2157 271,2155 316,2155 361,2160 405,2163 450,2163 495,2166 540,2169 585,2172 629,2175 674,2178 719,2181 764,2184 808,2187 853,2190 898,2193 943,2196 987,2199 1032,2199 1077,2202 1122,2202 1167,2202 1211,2202 1256,2202 1301,2202 1346,2202 1390,2199 1435,2202 1480,2202 1525,2202 1569,2202 1614,2205 1659,2205 1704,2205 1749,2205 1793,2205 1838,2205 1883,2205 1928,2205 1972,2205 2017,2205 2062,2202 2107,2202 2122,2199"
@@ -548,7 +548,7 @@
                           WIDTH="1936"
                           VPOS="2518"
                           HPOS="217"
-                          CONTENT="idmo iiii pars diei qui xxiiii horis cum sua nocte completur id est horae sex quadrans"/>
+                          CONTENT="ideo iiii pars diei qui xxiiii horis cum sua nocte completur id est horae sex quadrans"/>
                </TextLine>
                <TextLine ID="tr_5_tl_1"
                          BASELINE="235,2647 280,2644 325,2647 370,2650 414,2656 459,2659 504,2662 549,2662 593,2665 638,2668 683,2668 728,2668 773,2671 817,2671 862,2674 907,2677 952,2677 996,2674 1041,2677 1086,2677 1131,2677 1176,2677 1220,2680 1265,2683 1310,2680 1355,2680 1399,2680 1444,2683 1489,2683 1534,2683 1578,2686 1623,2689 1668,2689 1713,2686 1758,2683 1802,2683 1847,2683 1892,2683 1937,2683 1981,2686 2026,2689 2071,2692 2116,2695 2160,2698 2172,2701"
@@ -574,7 +574,7 @@
                           WIDTH="1900"
                           VPOS="2656"
                           HPOS="219"
-                          CONTENT="di et so in loco interkalandi hec est ratio quia sol annumum caeli ambitum id est xii"/>
+                          CONTENT="di et suo in loco intercalandi haec est ratio quia sol annumum caeli ambitum id est xii"/>
                </TextLine>
                <TextLine ID="tr_5_tl_3"
                          BASELINE="241,2775 286,2772 331,2775 376,2778 420,2781 465,2784 510,2784 555,2787 599,2787 644,2790 689,2790 734,2793 779,2793 823,2796 868,2796 913,2796 958,2799 1002,2799 1047,2802 1092,2802 1137,2805 1181,2805 1226,2808 1271,2808 1316,2811 1361,2814 1405,2814 1450,2817 1495,2814 1540,2811 1584,2808 1629,2808 1674,2805 1719,2802 1764,2802 1808,2802 1853,2805 1898,2805 1943,2811 1987,2814 2032,2817 2077,2820 2122,2823 2128,2826"
@@ -600,7 +600,7 @@
                           WIDTH="1934"
                           VPOS="2789"
                           HPOS="219"
-                          CONTENT="horis adimplere cognoscitur unde fit ut si verbi gratia nec aequinoctialem caeli"/>
+                          CONTENT="horis adimplere cognoscitur unde fit ut si verbi gratia nunc aequinoctialem caeli"/>
                </TextLine>
                <TextLine ID="tr_5_tl_5"
                          BASELINE="238,2898 283,2898 328,2901 373,2904 417,2907 462,2910 507,2913 552,2913 596,2913 641,2913 686,2916 731,2916 776,2919 820,2922 865,2922 910,2922 955,2925 999,2925 1044,2928 1089,2931 1134,2934 1178,2934 1223,2940 1268,2940 1313,2942 1358,2942 1402,2940 1447,2937 1492,2934 1537,2931 1581,2928 1626,2928 1671,2928 1716,2931 1761,2934 1805,2934 1850,2940 1895,2942 1940,2945 1984,2948 2029,2951 2074,2951 2119,2951 2163,2954 2196,2951"

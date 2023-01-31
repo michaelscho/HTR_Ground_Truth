@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.9.0:model_id=46502:lm=none:date=14_01_2023_16:15</Creator>
         <Created>2023-01-14T12:47:27.163+01:00</Created>
-        <LastChange>2023-01-30T20:54:02.297+01:00</LastChange>
-        <TranskribusMetadata docId="1318065" pageId="52063511" pageNr="35" tsid="112409688" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=GPBQLUPANCRYNBMBMJEZFVJR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JWIWYZUWKRQMAFPXXVRDLYLJ" imageId="42173562"/>
+        <LastChange>2023-01-31T15:01:42.275+01:00</LastChange>
+        <TranskribusMetadata docId="1318065" pageId="52063511" pageNr="35" tsid="112555926" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=GPBQLUPANCRYNBMBMJEZFVJR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FWXPBKXFKGWJITSZCFMRMUHP" imageId="42173562"/>
     </Metadata>
     <Page imageFilename="ÖNB Wien 1180-1199 - Cod. 12600-0035.jpg" imageWidth="2644" imageHeight="3741">
         <ReadingOrder>
-            <OrderedGroup id="ro_1675109646878" caption="Regions reading order">
+            <OrderedGroup id="ro_1675188348810" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1673726814414_735"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -18,28 +18,28 @@
                 <Coords points="476,412 2260,382 2408,357 2411,288 476,338"/>
                 <Baseline points="489,394 534,394 579,391 623,388 668,385 713,385 758,385 803,382 847,379 892,376 937,373 982,373 1027,373 1071,373 1116,373 1161,373 1206,373 1250,373 1295,370 1340,370 1385,367 1430,367 1474,364 1519,367 1564,364 1609,367 1654,364 1698,364 1743,364 1788,364 1833,364 1877,364 1922,361 1967,361 2012,361 2057,361 2101,358 2146,358 2191,358 2236,355 2281,352 2325,349 2370,343 2415,337"/>
                 <TextEquiv>
-                    <Unicode>decembris Et intrat in sagittarium hora septima supradictae noctis inchoante et exit de saggitarius</Unicode>
+                    <Unicode>decembris Et intrat in sagittarium hora septima supradictae noctis inchoante et exit de saggitario</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
                 <Coords points="495,466 2238,436 2408,414 2411,355 495,417"/>
                 <Baseline points="510,453 534,450 579,444 623,444 668,438 713,438 758,435 803,432 847,432 892,432 937,432 982,429 1027,429 1071,429 1116,429 1161,432 1206,429 1250,429 1295,429 1340,426 1385,426 1430,423 1474,423 1519,426 1564,423 1609,423 1654,420 1698,420 1743,423 1788,423 1833,423 1877,420 1922,420 1967,420 2012,420 2057,420 2101,417 2146,415 2191,415 2236,412 2281,409 2325,406 2370,400 2415,394"/>
                 <TextEquiv>
-                    <Unicode>secundo puncto quinte horae diei quod est xvi kalendis ianuarii Et intrat in capricornum tertio puncto</Unicode>
+                    <Unicode>secundo puncto quintae horae diei quod est xvi kalendis ianuarii Et intrat in capricornum tertio puncto</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
                 <Coords points="491,518 2413,463 2413,409 493,463"/>
                 <Baseline points="504,504 537,501 582,498 626,495 671,492 716,492 761,489 806,489 850,489 895,486 940,486 985,483 1030,483 1074,483 1119,483 1164,486 1209,486 1253,486 1298,483 1343,480 1388,480 1433,477 1477,477 1522,477 1567,477 1612,474 1657,474 1701,474 1746,477 1791,474 1836,477 1880,474 1925,474 1970,474 2015,471 2060,471 2104,471 2149,468 2194,468 2239,465 2284,462 2328,459 2373,453 2418,447"/>
                 <TextEquiv>
-                    <Unicode>horae diei quintae quod est xvi kalendis ianuarias et exit de capricorno hora noctis iii plena que</Unicode>
+                    <Unicode>horae diei quintae quod est xvi kalendis ianuarias et exit de capricorno hora noctis iii plena quae</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
                 <Coords points="491,584 2199,552 2411,525 2413,461 491,518"/>
                 <Baseline points="504,555 537,555 582,555 626,552 671,549 716,549 761,549 806,549 850,549 895,549 940,546 985,543 1030,543 1074,543 1119,546 1164,546 1209,546 1253,546 1298,543 1343,540 1388,537 1433,537 1477,534 1522,534 1567,537 1612,534 1657,534 1701,534 1746,534 1791,534 1836,534 1880,534 1925,531 1970,531 2015,531 2060,534 2104,531 2149,528 2194,525 2239,522 2284,522 2328,516 2373,510 2418,501"/>
                 <TextEquiv>
-                    <Unicode>praecedit diem xvi kalendis februariis Et intrat in aquarium inchoante hora quarta noctis supra</Unicode>
+                    <Unicode>praecedit diem xvi kalendis februariis Et intrat in aquarium inchoante hora quarta noctis supra¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
@@ -53,14 +53,14 @@
                 <Coords points="493,693 2418,638 2418,584 495,624"/>
                 <Baseline points="510,671 543,671 588,668 632,668 677,665 722,665 767,665 812,665 856,665 901,665 946,662 991,662 1036,659 1080,659 1125,659 1170,659 1215,656 1259,659 1304,653 1349,653 1394,650 1439,650 1483,650 1528,653 1573,653 1618,653 1662,653 1707,650 1752,650 1797,650 1842,650 1886,650 1931,650 1976,650 2021,650 2066,650 2110,647 2155,644 2200,644 2245,641 2289,638 2334,635 2379,632 2424,626"/>
                 <TextEquiv>
-                    <Unicode>intrat in pisces tertio puncto horae diei secunde quod est xiiii kalendis martias et exite de pi¬</Unicode>
+                    <Unicode>intrat in pisces tertio puncto horae diei secundae quod est xiiii kalendis martias et exit de pi¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
                 <Coords points="503,747 2445,707 2413,634 505,700"/>
                 <Baseline points="516,734 525,731 570,728 615,725 659,725 704,722 749,722 794,722 838,719 883,719 928,719 973,716 1018,716 1062,719 1107,719 1152,719 1197,719 1242,719 1286,713 1331,713 1376,710 1421,710 1465,713 1510,713 1555,713 1600,713 1645,713 1689,710 1734,710 1779,710 1824,710 1869,710 1913,713 1958,710 2003,710 2048,710 2092,707 2137,704 2182,701 2227,698 2272,698 2316,695 2361,692 2406,689 2451,686"/>
                 <TextEquiv>
-                    <Unicode>scibus duodecima hora diei plena quod est xv kalendis aprilis Sique sol primo anno post bisse¬</Unicode>
+                    <Unicode>scibus duodecima hora diei plena quod est xv kalendis aprilis Sicque sol primo anno post bisse¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
@@ -88,7 +88,7 @@
                 <Coords points="500,974 2448,927 2433,863 500,924"/>
                 <Baseline points="513,955 525,958 570,958 615,955 659,958 704,955 749,955 794,952 838,952 883,952 928,952 973,952 1018,955 1062,955 1107,955 1152,955 1197,952 1242,952 1286,952 1331,952 1376,949 1421,949 1465,946 1510,946 1555,946 1600,946 1645,943 1689,946 1734,943 1779,943 1824,943 1869,940 1913,940 1958,940 2003,943 2048,943 2092,943 2137,943 2182,940 2227,934 2272,934 2316,931 2361,928 2406,919 2451,910"/>
                 <TextEquiv>
-                    <Unicode>interkalari iubentur ut iterum sol bissexto completo prima hora noctis quem praecedit</Unicode>
+                    <Unicode>intercalari iubentur ut iterum sol bissexto completo prima hora noctis quae praecedit</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
@@ -123,14 +123,14 @@
                 <Coords points="515,1250 2423,1220 2421,1154 515,1196"/>
                 <Baseline points="528,1236 546,1236 591,1236 635,1236 680,1236 725,1236 770,1236 815,1236 859,1239 904,1239 949,1239 994,1236 1039,1236 1083,1236 1128,1236 1173,1233 1218,1233 1262,1236 1307,1239 1352,1239 1397,1239 1442,1239 1486,1236 1531,1239 1576,1239 1621,1236 1665,1236 1710,1233 1755,1233 1800,1233 1845,1230 1889,1230 1934,1230 1979,1227 2024,1227 2069,1227 2113,1227 2158,1224 2203,1221 2248,1221 2292,1218 2337,1215 2382,1212 2427,1206"/>
                 <TextEquiv>
-                    <Unicode>compleatur Et in xxx diebus horae due in lx diebus id est iibus mensibus hore iiiior et in tribus</Unicode>
+                    <Unicode>compleatur Et in xxx diebus horae duae in lx diebus id est iibus mensibus horae iiiior et in tribus</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_3_tl_3" custom="readingOrder {index:16;}">
                 <Coords points="505,1326 2416,1277 2384,1220 505,1250"/>
                 <Baseline points="519,1292 540,1295 585,1295 629,1295 674,1295 719,1295 764,1295 809,1295 853,1295 898,1295 943,1295 988,1295 1033,1292 1077,1292 1122,1292 1167,1289 1212,1289 1256,1292 1301,1295 1346,1298 1391,1298 1436,1298 1480,1298 1525,1298 1570,1298 1615,1298 1660,1298 1704,1295 1749,1292 1794,1292 1839,1289 1883,1289 1928,1289 1973,1289 2018,1289 2063,1286 2107,1286 2152,1286 2197,1286 2242,1283 2286,1280 2331,1277 2376,1274 2421,1265"/>
                 <TextEquiv>
-                    <Unicode>mensibus horae vi sic fit ut diebus brumalis brevissima que fuit sex horarum ascenden¬</Unicode>
+                    <Unicode>mensibus horae vi sic fit ut diebus brumalis brevissima quae fuit sex horarum ascenden¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_3_tl_4" custom="readingOrder {index:17;}">
@@ -144,7 +144,7 @@
                 <Coords points="508,1444 2423,1395 2403,1334 510,1363"/>
                 <Baseline points="525,1406 549,1409 594,1412 638,1412 683,1412 728,1409 773,1409 818,1406 862,1406 907,1406 952,1406 997,1406 1041,1406 1086,1406 1131,1406 1176,1403 1221,1403 1265,1403 1310,1406 1355,1406 1400,1406 1445,1406 1489,1406 1534,1409 1579,1409 1624,1409 1668,1409 1713,1406 1758,1406 1803,1406 1848,1403 1892,1403 1937,1400 1982,1400 2027,1400 2072,1400 2116,1397 2161,1397 2206,1397 2251,1394 2295,1391 2340,1388 2385,1385 2430,1376"/>
                 <TextEquiv>
-                    <Unicode>horas totidem xviii et contra dies solstitialis longissima que xviii horarum fuit di¬</Unicode>
+                    <Unicode>horas totidem xviii et contra dies solstitialis longissima quae xviii horarum fuit di¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_3_tl_6" custom="readingOrder {index:19;}">
@@ -158,7 +158,7 @@
                 <Coords points="518,1541 2443,1504 2443,1440 518,1496"/>
                 <Baseline points="531,1528 567,1528 612,1525 656,1525 701,1525 746,1522 791,1522 835,1519 880,1519 925,1519 970,1519 1015,1519 1059,1522 1104,1516 1149,1516 1194,1516 1239,1516 1283,1516 1328,1516 1373,1516 1418,1516 1462,1516 1507,1519 1552,1519 1597,1522 1642,1522 1686,1525 1731,1522 1776,1522 1821,1519 1866,1519 1910,1516 1955,1516 2000,1516 2045,1516 2089,1516 2134,1513 2179,1513 2224,1510 2269,1507 2313,1507 2358,1504 2403,1495 2448,1492"/>
                 <TextEquiv>
-                    <Unicode>cottidie accrescere ostenta iiii hora autem habet ostenta lx xves iiii faciunt Ex sicut</Unicode>
+                    <Unicode>cotidie adcrescere ostenta iiii hora autem habet ostenta lx xves iiii faciunt Ex sicut</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_3_tl_8" custom="readingOrder {index:21;}">
@@ -172,7 +172,7 @@
                 <Coords points="579,1654 2487,1615 2487,1555 579,1595"/>
                 <Baseline points="594,1636 609,1639 653,1639 698,1639 743,1636 788,1636 832,1636 877,1636 922,1636 967,1636 1012,1636 1056,1633 1101,1633 1146,1633 1191,1633 1236,1633 1280,1633 1325,1633 1370,1633 1415,1633 1459,1633 1504,1636 1549,1636 1594,1639 1639,1639 1683,1639 1728,1636 1773,1633 1818,1630 1863,1630 1907,1630 1952,1627 1997,1627 2042,1627 2086,1630 2131,1627 2176,1630 2221,1627 2266,1624 2310,1621 2355,1618 2400,1612 2445,1603 2490,1597"/>
                 <TextEquiv>
-                    <Unicode>Item de saltu lune xviiii anni unum diem efficiunt cxc anni x observanda</Unicode>
+                    <Unicode>Item de saltu lunae xviiii anni unum diem efficiunt cxc anni x observanda</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_3_tl_10" custom="readingOrder {index:23;}">
@@ -186,14 +186,14 @@
                 <Coords points="523,1767 2305,1767 2438,1740 2440,1681 523,1716"/>
                 <Baseline points="537,1752 564,1752 609,1755 653,1755 698,1755 743,1755 788,1752 832,1752 877,1752 922,1752 967,1752 1012,1755 1056,1752 1101,1752 1146,1755 1191,1752 1236,1752 1280,1752 1325,1755 1370,1752 1415,1752 1459,1752 1504,1752 1549,1752 1594,1755 1639,1758 1683,1755 1728,1752 1773,1752 1818,1749 1863,1746 1907,1746 1952,1746 1997,1743 2042,1743 2086,1746 2131,1746 2176,1746 2221,1743 2266,1740 2310,1737 2355,1734 2400,1728 2445,1722"/>
                 <TextEquiv>
-                    <Unicode>est v̿ dcc anni ccctos dies demonstrant Iunge sexies cxc qui faciunt i̿ cxl hunc</Unicode>
+                    <Unicode>est v̿ dcc anni ccctos dies demonstrant Lunge sexies cxc qui faciunt i̿ cxl hunc</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_4_tl_1" custom="readingOrder {index:25;}">
                 <Coords points="518,1836 2253,1822 2450,1807 2453,1750 520,1772"/>
                 <Baseline points="531,1815 534,1815 579,1815 623,1815 668,1812 713,1812 758,1812 803,1812 847,1812 892,1812 937,1812 982,1812 1027,1812 1071,1812 1116,1812 1161,1812 1206,1812 1250,1812 1295,1812 1340,1815 1385,1815 1430,1812 1474,1812 1519,1812 1564,1812 1609,1815 1654,1812 1698,1812 1743,1809 1788,1809 1833,1806 1877,1806 1922,1806 1967,1806 2012,1806 2057,1806 2101,1806 2146,1806 2191,1803 2236,1803 2281,1800 2325,1797 2370,1794 2415,1788 2460,1785"/>
                 <TextEquiv>
-                    <Unicode>numerum su si superioribus iunxeris habebis dies ccclx Adice autem ad hunc numme¬</Unicode>
+                    <Unicode>numerum su si superioribus iunxeris habebis dies ccclx Adice autem ad hunc nume¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_4_tl_2" custom="readingOrder {index:26;}">
@@ -235,7 +235,7 @@
                 <Coords points="486,2196 2251,2182 2448,2162 2450,2093 486,2142"/>
                 <Baseline points="498,2182 528,2179 573,2176 618,2176 662,2176 707,2176 752,2173 797,2173 841,2173 886,2173 931,2173 976,2176 1021,2173 1065,2173 1110,2173 1155,2170 1200,2170 1245,2170 1289,2170 1334,2167 1379,2167 1424,2167 1468,2167 1513,2164 1558,2164 1603,2161 1648,2161 1692,2161 1737,2161 1782,2161 1827,2161 1871,2164 1916,2161 1961,2164 2006,2161 2051,2161 2095,2161 2140,2164 2185,2161 2230,2161 2275,2158 2319,2152 2364,2149 2409,2143 2454,2134"/>
                 <TextEquiv>
-                    <Unicode>Concavus oriens pluvias praedicit Idem ventos cum ante ex orientem eum nubes ru¬</Unicode>
+                    <Unicode>Concavus oriens pluvias praedicit Idem ventos cum ante exorientem eum nubes ru¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_4_tl_8" custom="readingOrder {index:32;}">
@@ -270,7 +270,7 @@
                 <Coords points="510,2500 2371,2487 2458,2470 2460,2391 510,2463"/>
                 <Baseline points="525,2490 540,2490 585,2493 629,2493 674,2490 719,2490 764,2487 809,2487 853,2487 898,2487 943,2487 988,2487 1033,2487 1077,2487 1122,2487 1167,2487 1212,2487 1256,2487 1301,2484 1346,2487 1391,2484 1436,2484 1480,2484 1525,2487 1570,2484 1615,2484 1660,2481 1704,2481 1749,2478 1794,2481 1839,2478 1883,2478 1928,2475 1973,2472 2018,2469 2063,2466 2107,2463 2152,2463 2197,2463 2242,2463 2286,2463 2331,2463 2376,2460 2421,2457 2466,2448"/>
                 <TextEquiv>
-                    <Unicode>gnificabit Si in ortu aut in occasu contracti cernentur radii imbrem Si in occasu</Unicode>
+                    <Unicode>gnificabunt Si in ortu aut in occasu contracti cernentur radii imbrem Si in occasu</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_4_tl_13" custom="readingOrder {index:37;}">
@@ -298,7 +298,7 @@
                 <Coords points="518,2751 2443,2712 2396,2650 518,2704"/>
                 <Baseline points="531,2731 567,2734 612,2731 656,2734 701,2734 746,2731 791,2734 835,2734 880,2734 925,2731 970,2731 1015,2728 1059,2728 1104,2728 1149,2728 1194,2725 1239,2728 1283,2725 1328,2725 1373,2722 1418,2722 1462,2719 1507,2719 1552,2719 1597,2719 1642,2716 1686,2713 1731,2713 1776,2713 1821,2713 1866,2710 1910,2710 1955,2710 2000,2710 2045,2710 2089,2710 2134,2707 2179,2707 2224,2704 2269,2704 2313,2701 2358,2699 2403,2696 2448,2687"/>
                 <TextEquiv>
-                    <Unicode>asperrimam de nuntiabunt Si ab ortu repellentur et ad occasum abibunt sere¬</Unicode>
+                    <Unicode>asperrimam denuntiabunt Si ab ortu repellentur et ad occasum abibunt sere¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_4" custom="readingOrder {index:41;}">
@@ -330,47 +330,47 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>decembris Et intrat in sagittarium hora septima supradictae noctis inchoante et exit de saggitarius&#13;
-secundo puncto quinte horae diei quod est xvi kalendis ianuarii Et intrat in capricornum tertio puncto&#13;
-horae diei quintae quod est xvi kalendis ianuarias et exit de capricorno hora noctis iii plena que&#13;
-praecedit diem xvi kalendis februariis Et intrat in aquarium inchoante hora quarta noctis supra&#13;
+                <Unicode>decembris Et intrat in sagittarium hora septima supradictae noctis inchoante et exit de saggitario&#13;
+secundo puncto quintae horae diei quod est xvi kalendis ianuarii Et intrat in capricornum tertio puncto&#13;
+horae diei quintae quod est xvi kalendis ianuarias et exit de capricorno hora noctis iii plena quae&#13;
+praecedit diem xvi kalendis februariis Et intrat in aquarium inchoante hora quarta noctis supra¬&#13;
 dictae et exit de aquario secundo puncto horae diei secundae quod est xiiii kalendis martias Et&#13;
-intrat in pisces tertio puncto horae diei secunde quod est xiiii kalendis martias et exite de pi¬&#13;
-scibus duodecima hora diei plena quod est xv kalendis aprilis Sique sol primo anno post bisse¬&#13;
+intrat in pisces tertio puncto horae diei secundae quod est xiiii kalendis martias et exit de pi¬&#13;
+scibus duodecima hora diei plena quod est xv kalendis aprilis Sicque sol primo anno post bisse¬&#13;
 xtum sexta hora noctis qua arietem intraverat exit de piscibus secundo vero anno xii&#13;
 eiusdem noctis Tertio autem anno sexta hora diei sequentis Quarto quoque anno xii&#13;
 ipsius diei quod est xv kalendis aprilis Hae quoque xiiii horae id est nox cum die vi kalendis martias&#13;
-interkalari iubentur ut iterum sol bissexto completo prima hora noctis quem praecedit&#13;
+intercalari iubentur ut iterum sol bissexto completo prima hora noctis quae praecedit&#13;
 xv kalendis aprilis arietem possit aggredi&#13;
 Ascensu solis dicitur augmentum lucis et descensus eius augmentum noctis ac tenebrarum&#13;
 hic autem ascensus atque discensus eo modo conficitur ut in xv diebus sive in ascen¬&#13;
 su id est in lucis augmento sive in descensu quod est in lucis detrimento una hora&#13;
-compleatur Et in xxx diebus horae due in lx diebus id est iibus mensibus hore iiiior et in tribus&#13;
-mensibus horae vi sic fit ut diebus brumalis brevissima que fuit sex horarum ascenden¬&#13;
+compleatur Et in xxx diebus horae duae in lx diebus id est iibus mensibus horae iiiior et in tribus&#13;
+mensibus horae vi sic fit ut diebus brumalis brevissima quae fuit sex horarum ascenden¬&#13;
 te sole Post iiies menses exactos habeat horas xii ac deinde post totidem menses habeat&#13;
-horas totidem xviii et contra dies solstitialis longissima que xviii horarum fuit di¬&#13;
+horas totidem xviii et contra dies solstitialis longissima quae xviii horarum fuit di¬&#13;
 scendente sole post iii menses totidem horas vi in ascensu itaque solis ad augmentum diei&#13;
-cottidie accrescere ostenta iiii hora autem habet ostenta lx xves iiii faciunt Ex sicut&#13;
+cotidie adcrescere ostenta iiii hora autem habet ostenta lx xves iiii faciunt Ex sicut&#13;
 in xv diebus accrescit una hora Eadem ratio est in decessu solis id est in detrimto lucis&#13;
-Item de saltu lune xviiii anni unum diem efficiunt cxc anni x observanda&#13;
+Item de saltu lunae xviiii anni unum diem efficiunt cxc anni x observanda&#13;
 dies faciunt i̿dcccc anni centum dies faciunt Hic numerus ter ductus hoc&#13;
-est v̿ dcc anni ccctos dies demonstrant Iunge sexies cxc qui faciunt i̿ cxl hunc&#13;
-numerum su si superioribus iunxeris habebis dies ccclx Adice autem ad hunc numme¬&#13;
+est v̿ dcc anni ccctos dies demonstrant Lunge sexies cxc qui faciunt i̿ cxl hunc&#13;
+numerum su si superioribus iunxeris habebis dies ccclx Adice autem ad hunc nume¬&#13;
 rum quinquies x et novem ad integrum annum qui sunt ccclxv Sunt in totum&#13;
 v̿i dccccxxxv anni annum unum in saltu lunari per diem efficiunt&#13;
 Qui tempestatum serenitatisve praesagia investigare et depraehendere nititur his&#13;
 indiciis innitatur Sol oriens sed non fervens serenum diem nuntiat at hibernus&#13;
 pallidus grandinem Si et occidit pridie serenus et oritur tanto certior fides serenitatis&#13;
-Concavus oriens pluvias praedicit Idem ventos cum ante ex orientem eum nubes ru¬&#13;
+Concavus oriens pluvias praedicit Idem ventos cum ante exorientem eum nubes ru¬&#13;
 bescunt Quod si et nigrae rubentibus intervenerint et pluvias Cum occidentis aut&#13;
 orientis radii videntur coire pluvias Si circa occidentem rubescunt nubes&#13;
 serenitatem diei futuri spondent Si in exortu spargentur partim ad austrum&#13;
 partim ad aquilonem pura circa eum serenitas sit licet pluviam tamen ventosam si¬&#13;
-gnificabit Si in ortu aut in occasu contracti cernentur radii imbrem Si in occasu&#13;
+gnificabunt Si in ortu aut in occasu contracti cernentur radii imbrem Si in occasu&#13;
 eius pluet aut radii nubem in se trahent asperam in proximum diem tempestatem&#13;
 significabit Cum oriente radii non illustres eminebunt quamvis circumdatae&#13;
 nubes non sint pluviam portendent Si ante exortum nubes globabuntur hiemem&#13;
-asperrimam de nuntiabunt Si ab ortu repellentur et ad occasum abibunt sere¬&#13;
+asperrimam denuntiabunt Si ab ortu repellentur et ad occasum abibunt sere¬&#13;
 nitatem Si nubes solem circumcludent quanto minus luminis relinquunt&#13;
 tanto turbidior tempestas erit Si vero etiam duplex orbis fuerit eo atrocior&#13;
 Quod si in exortu aut in occasu fiet ita ut rubescant nubes maxima ostendetur&#13;

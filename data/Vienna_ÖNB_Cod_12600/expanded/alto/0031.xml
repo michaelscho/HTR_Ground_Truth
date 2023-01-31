@@ -7,7 +7,7 @@
       <MeasurementUnit>pixel</MeasurementUnit>
       <OCRProcessing ID="IdOcr">
          <ocrProcessingStep>
-            <processingDateTime>2023-01-31T19:05:48.677+01:00</processingDateTime>
+            <processingDateTime>2023-01-31T19:05:27.049+01:00</processingDateTime>
             <processingSoftware>
                <softwareCreator>READ COOP</softwareCreator>
                <softwareName>Transkribus</softwareName>
@@ -41,7 +41,7 @@
                           WIDTH="1301"
                           VPOS="329"
                           HPOS="661"
-                          CONTENT="DE ANNO ET PARTIBUS EIUS"/>
+                          CONTENT="DE ANNO ET PARTIBVS EIVS"/>
                </TextLine>
                <TextLine ID="tr_2_tl_2"
                          BASELINE="615,429 653,426 698,426 743,423 788,423 832,423 877,420 922,423 967,423 1012,423 1056,423 1101,423 1146,423 1191,423 1236,423 1280,423 1325,423 1370,420 1415,423 1459,423 1504,423 1549,420 1594,420 1639,423 1683,420 1728,420 1773,420 1818,420 1863,420 1907,420 1952,420 1997,420 2042,420 2086,420 2131,420 2176,417 2221,415 2266,415 2310,412 2355,409 2400,403 2445,397"
@@ -54,7 +54,7 @@
                           WIDTH="1839"
                           VPOS="304"
                           HPOS="601"
-                          CONTENT="Annus solaris habet iiii tempora menses xii ebdomadas Lii dies ccclxv et qua¬"/>
+                          CONTENT="Annus solaris habet iiii tempora menses xii epdomadas Lii dies ccclxv et qua"/>
                </TextLine>
                <TextLine ID="tr_2_tl_3"
                          BASELINE="635,483 653,480 698,480 743,477 788,477 832,477 877,477 922,480 967,477 1012,480 1056,480 1101,483 1146,480 1191,480 1236,480 1280,480 1325,480 1370,477 1415,477 1459,477 1504,477 1549,477 1594,477 1639,477 1683,477 1728,477 1773,474 1818,474 1863,477 1907,474 1952,474 1997,474 2042,474 2086,474 2131,474 2176,471 2221,471 2266,471 2310,468 2355,468 2400,462 2445,459"
@@ -106,7 +106,7 @@
                           WIDTH="1941"
                           VPOS="580"
                           HPOS="489"
-                          CONTENT="dies xxxi et quatuor xxx et unus xxviii Ebdomadas iiii et dies supra Ebdoma¬"/>
+                          CONTENT="dies xxxi et quatuor xxx et unus xxviii Epdomadas iiii et dies supra Epdoma"/>
                </TextLine>
                <TextLine ID="tr_2_tl_7"
                          BASELINE="498,707 534,707 579,704 623,704 668,707 713,707 758,707 803,707 847,707 892,704 937,707 982,704 1027,707 1071,710 1116,710 1161,710 1206,710 1250,710 1295,710 1340,710 1385,710 1430,707 1474,707 1519,707 1564,707 1609,704 1654,704 1698,707 1743,707 1788,707 1833,704 1877,704 1922,704 1967,704 2012,704 2057,704 2101,704 2146,704 2191,704 2236,704 2281,701 2325,698 2370,692 2415,686"
@@ -132,7 +132,7 @@
                           WIDTH="1902"
                           VPOS="711"
                           HPOS="487"
-                          CONTENT="momenta xl ostenta lx Punctus habet minuta duo partes iii momenta viii os¬"/>
+                          CONTENT="momenta xl ostenta lx Punctus habet minuta duo partes iii momenta viii os"/>
                </TextLine>
                <TextLine ID="tr_1_tl_1"
                          BASELINE="504,821 525,821 570,821 615,818 659,818 704,818 749,818 794,821 838,821 883,821 928,821 973,824 1018,824 1062,827 1107,830 1152,827 1197,830 1242,827 1286,824 1331,827 1376,824 1421,827 1465,827 1510,827 1555,827 1600,827 1645,827 1689,827 1734,824 1779,824 1824,824 1869,824 1913,827 1958,827 2003,824 2048,824 2092,824 2137,824 2182,821 2227,821 2272,821 2316,818 2361,809 2406,806 2451,800"
@@ -145,7 +145,7 @@
                           WIDTH="1958"
                           VPOS="750"
                           HPOS="489"
-                          CONTENT="tenta xii Unum minutum habet partem i et dimidiam momenta iiii ostenta vi Una"/>
+                          CONTENT="tenta xii Vnum minutum habet partem i et dimidiam momenta iiii ostenta vi Una"/>
                </TextLine>
                <TextLine ID="tr_1_tl_2"
                          BASELINE="513,877 558,877 603,877 647,877 692,880 737,877 782,877 827,877 871,880 916,880 961,880 1006,883 1050,883 1095,886 1140,883 1185,883 1230,886 1274,883 1319,883 1364,880 1409,883 1454,880 1498,883 1543,883 1588,883 1633,883 1677,883 1722,880 1767,880 1812,880 1857,877 1901,880 1946,880 1991,880 2036,877 2080,877 2125,877 2170,877 2215,874 2260,874 2304,871 2349,865 2394,862 2439,853"
@@ -158,7 +158,7 @@
                           WIDTH="1934"
                           VPOS="821"
                           HPOS="499"
-                          CONTENT="pars habet momenta duo et duas partes tercii momenti ostenta iiii Unum momentum"/>
+                          CONTENT="pars habet momenta secundo et duas partes tercii momenti ostenta iiii Unum momentum"/>
                </TextLine>
                <TextLine ID="tr_1_tl_3"
                          BASELINE="507,928 552,931 597,931 641,934 686,934 731,934 776,934 821,937 865,940 910,940 955,943 1000,943 1044,946 1089,946 1134,943 1179,943 1224,946 1268,946 1313,946 1358,943 1403,943 1448,943 1492,946 1537,943 1582,943 1627,943 1671,943 1716,940 1761,940 1806,940 1851,940 1895,940 1940,943 1985,943 2030,940 2075,943 2119,940 2164,940 2185,940"
@@ -171,7 +171,7 @@
                           WIDTH="1685"
                           VPOS="889"
                           HPOS="494"
-                          CONTENT="habet ostentum i et dimidium Quot atomos habet annus vel partes eius"/>
+                          CONTENT="habet ostentum i et dimidium Quot athomos habet annus vel partes eius"/>
                </TextLine>
                <TextLine ID="tr_1_tl_4"
                          BASELINE="609,985 644,988 689,991 734,991 779,994 824,994 868,994 913,997 958,1000 1003,1000 1047,1000 1092,1000 1137,1000 1182,1000 1227,1003 1271,1003 1316,1003 1361,1003 1406,1000 1451,1000 1495,1003 1540,1000 1585,1003 1630,1000 1674,1000 1719,1000 1764,1000 1809,997 1854,997 1898,997 1943,1000 1988,1000 2033,1000 2078,1000 2122,1000 2167,997 2212,997 2257,994 2301,991 2346,985 2391,982"
@@ -184,7 +184,7 @@
                           WIDTH="1787"
                           VPOS="937"
                           HPOS="597"
-                          CONTENT="Ostentum habet atomos ccclxxvi Momentum habet atomos d lxiiii id est ostentum"/>
+                          CONTENT="Ostentum habet athomos ccclxxvi Momentum habet athomos d lxiiii id est ostentum"/>
                </TextLine>
                <TextLine ID="tr_1_tl_5"
                          BASELINE="540,1047 561,1047 606,1041 650,1044 695,1047 740,1047 785,1050 830,1050 874,1053 919,1053 964,1056 1009,1056 1053,1056 1098,1056 1143,1056 1188,1053 1233,1053 1277,1053 1322,1056 1367,1059 1412,1059 1456,1059 1501,1059 1546,1059 1591,1059 1636,1056 1680,1053 1725,1056 1770,1053 1815,1053 1860,1056 1904,1053 1949,1056 1994,1053 2039,1053 2083,1053 2128,1053 2173,1053 2218,1047 2263,1047 2307,1041 2352,1039 2397,1033"
@@ -197,7 +197,7 @@
                           WIDTH="1865"
                           VPOS="993"
                           HPOS="526"
-                          CONTENT="et semissem Pars vero habet atomos i̿ diiii ostenta iiii momenta duo et bissem"/>
+                          CONTENT="et semissem Pars vero habet athomos i̿ diiii ostenta iiii momenta duo et bissem"/>
                </TextLine>
                <TextLine ID="tr_1_tl_6"
                          BASELINE="504,1104 516,1107 561,1107 606,1104 650,1107 695,1107 740,1107 785,1107 830,1110 874,1113 919,1113 964,1113 1009,1113 1053,1113 1098,1113 1143,1113 1188,1116 1233,1116 1277,1119 1322,1119 1367,1119 1412,1119 1456,1116 1501,1116 1546,1119 1591,1119 1636,1116 1680,1113 1725,1116 1770,1113 1815,1116 1860,1116 1904,1116 1949,1113 1994,1113 2039,1113 2083,1113 2128,1113 2173,1113 2218,1113 2263,1107 2307,1104 2352,1101 2397,1098"
@@ -210,7 +210,7 @@
                           WIDTH="1902"
                           VPOS="1054"
                           HPOS="489"
-                          CONTENT="unius momenti Minutum habet atomos i̿icclvi ostenta vi momenta iiii partem et dimi¬"/>
+                          CONTENT="unius momnti Minutum habet athomos i̿icclvi ostenta vi momenta iiii partem et dimi"/>
                </TextLine>
                <TextLine ID="tr_1_tl_7"
                          BASELINE="507,1161 510,1158 555,1161 600,1161 644,1161 689,1164 734,1164 779,1167 824,1167 868,1170 913,1170 958,1170 1003,1170 1047,1170 1092,1170 1137,1170 1182,1170 1227,1170 1271,1173 1316,1173 1361,1176 1406,1173 1451,1173 1495,1173 1540,1173 1585,1173 1630,1173 1674,1173 1719,1170 1764,1170 1809,1170 1854,1170 1898,1170 1943,1170 1988,1170 2033,1170 2078,1170 2122,1167 2167,1167 2212,1167 2257,1167 2301,1164 2346,1158 2391,1152 2436,1146"
@@ -223,7 +223,7 @@
                           WIDTH="1936"
                           VPOS="1105"
                           HPOS="494"
-                          CONTENT="diam Punctus habet atomos i̿iiidxii ostenta xii momenta vii partes iii minuta"/>
+                          CONTENT="diam Punctus habet athomos i̿iiidxii ostenta xii momenta vii partes iii minuta"/>
                </TextLine>
                <TextLine ID="tr_1_tl_8"
                          BASELINE="507,1218 534,1221 579,1221 623,1221 668,1221 713,1224 758,1224 803,1224 847,1227 892,1227 937,1227 982,1227 1027,1227 1071,1227 1116,1227 1161,1227 1206,1230 1250,1230 1295,1233 1340,1233 1385,1233 1430,1233 1474,1233 1519,1233 1564,1233 1609,1233 1654,1233 1698,1230 1743,1230 1788,1230 1833,1230 1877,1230 1922,1230 1967,1230 2012,1230 2057,1227 2101,1227 2146,1227 2191,1227 2236,1227 2281,1224 2325,1221 2370,1215 2415,1212"
@@ -236,7 +236,7 @@
                           WIDTH="1914"
                           VPOS="1171"
                           HPOS="494"
-                          CONTENT="duo Hora vero habet atomos x̿xiidlx ostenta xlx momenta xl partes xv minu¬"/>
+                          CONTENT="duo Hora vero habet athomos x̿xiidlx ostenta xlx momenta xl partes xv minu"/>
                </TextLine>
                <TextLine ID="tr_1_tl_9"
                          BASELINE="501,1277 546,1277 591,1280 635,1280 680,1283 725,1283 770,1283 815,1283 859,1286 904,1286 949,1286 994,1286 1039,1283 1083,1283 1128,1286 1173,1286 1218,1286 1262,1286 1307,1289 1352,1289 1397,1289 1442,1292 1486,1292 1531,1292 1576,1292 1621,1292 1665,1289 1710,1292 1755,1289 1800,1289 1845,1289 1889,1289 1934,1289 1979,1286 2024,1286 2069,1286 2113,1286 2158,1286 2203,1286 2248,1286 2292,1283 2337,1280 2382,1274 2427,1271"
@@ -249,7 +249,7 @@
                           WIDTH="1933"
                           VPOS="1237"
                           HPOS="487"
-                          CONTENT="ta x punctos v Dies quippe habet atomos d̿xli et ccccxl ostenta i̿ ccccxl mo¬"/>
+                          CONTENT="ta x punctos v Dies quippe habet athomos d̿xli et ccccxl ostenta i̿ ccccxl mo"/>
                </TextLine>
                <TextLine ID="tr_1_tl_10"
                          BASELINE="507,1331 552,1334 597,1337 641,1340 686,1340 731,1343 776,1343 821,1346 865,1343 910,1343 955,1343 1000,1340 1044,1343 1089,1343 1134,1343 1179,1346 1224,1346 1268,1346 1313,1346 1358,1346 1403,1349 1448,1352 1492,1352 1537,1352 1582,1352 1627,1355 1671,1352 1716,1352 1761,1349 1806,1349 1851,1349 1895,1349 1940,1349 1985,1349 2030,1349 2075,1349 2119,1349 2164,1349 2209,1346 2254,1343 2298,1340 2343,1337 2388,1334 2400,1331"
@@ -275,7 +275,7 @@
                           WIDTH="1897"
                           VPOS="1344"
                           HPOS="494"
-                          CONTENT="vero unum habet atomos x̿vi et ccxliiicc ostenta x̿liiicc momenta x̿xviiiidcccc"/>
+                          CONTENT="vero unum habet athomos x̿vi et ccxliiicc ostenta x̿liiicc momenta x̿xviiiidcccc"/>
                </TextLine>
                <TextLine ID="tr_1_tl_12"
                          BASELINE="501,1451 510,1451 555,1456 600,1459 644,1456 689,1456 734,1459 779,1459 824,1459 868,1456 913,1456 958,1456 1003,1456 1047,1456 1092,1456 1137,1456 1182,1459 1227,1456 1271,1459 1316,1459 1361,1462 1406,1462 1451,1462 1495,1465 1540,1465 1585,1468 1630,1468 1674,1468 1719,1471 1764,1468 1809,1468 1854,1468 1898,1465 1943,1462 1988,1465 2033,1465 2078,1465 2122,1462 2167,1462 2212,1459 2257,1459 2301,1456 2346,1454 2391,1442"
@@ -301,7 +301,7 @@
                           WIDTH="1900"
                           VPOS="1466"
                           HPOS="489"
-                          CONTENT="proprias que pro diebus computantur xxx Duodecim signa habent atomos centies"/>
+                          CONTENT="proprias que pro diebus computantur xxx Duodecim signa habent athomos centies"/>
                </TextLine>
                <TextLine ID="tr_3_tl_2"
                          BASELINE="501,1567 504,1570 549,1573 594,1570 638,1570 683,1573 728,1570 773,1570 818,1573 862,1570 907,1573 952,1573 997,1573 1041,1573 1086,1576 1131,1576 1176,1576 1221,1579 1265,1576 1310,1576 1355,1576 1400,1576 1445,1576 1489,1579 1534,1579 1579,1582 1624,1582 1668,1582 1713,1582 1758,1582 1803,1579 1848,1579 1892,1576 1937,1576 1982,1576 2027,1579 2072,1579 2116,1579 2161,1579 2206,1576 2251,1573 2295,1573 2340,1567 2385,1558"
@@ -366,7 +366,7 @@
                           WIDTH="1826"
                           VPOS="1746"
                           HPOS="580"
-                          CONTENT="xxvii diebus et viii horis zodiacum percurrens ad signum ex quo egressa est rever¬"/>
+                          CONTENT="xxvii diebus et viii horis zodiacum percurrens ad signum ex quo egressa est reuer"/>
                </TextLine>
                <TextLine ID="tr_3_tl_7"
                          BASELINE="474,1854 480,1854 525,1854 570,1854 615,1857 659,1857 704,1860 749,1863 794,1863 838,1863 883,1863 928,1863 973,1863 1018,1863 1062,1866 1107,1866 1152,1869 1197,1869 1242,1871 1286,1871 1331,1874 1376,1874 1421,1874 1465,1874 1510,1874 1555,1874 1600,1874 1645,1874 1689,1874 1734,1874 1779,1874 1824,1871 1869,1871 1913,1869 1958,1869 2003,1869 2048,1866 2092,1866 2137,1866 2182,1866 2227,1866 2272,1866 2316,1863 2361,1860 2406,1851"
@@ -379,7 +379,7 @@
                           WIDTH="1941"
                           VPOS="1807"
                           HPOS="460"
-                          CONTENT="titur Alter duobus diebus et iiii horis prolixior Tertius qui xii mensibus huiusmodo id est diebus"/>
+                          CONTENT="titur Alter duobus diebus et iiii horis prolixior Tercius qui xii mensibus huiusmodo id est diebus"/>
                </TextLine>
                <TextLine ID="tr_3_tl_8"
                          BASELINE="504,1916 546,1916 591,1916 635,1916 680,1916 725,1919 770,1919 815,1919 859,1922 904,1922 949,1922 994,1922 1039,1922 1083,1922 1128,1925 1173,1925 1218,1928 1262,1931 1307,1931 1352,1934 1397,1931 1442,1931 1486,1931 1531,1931 1576,1931 1621,1931 1665,1931 1710,1931 1755,1928 1800,1931 1845,1928 1889,1925 1934,1925 1979,1925 2024,1925 2069,1922 2113,1922 2158,1922 2203,1922 2248,1922 2292,1922 2337,1922 2382,1916 2427,1910"
@@ -392,7 +392,7 @@
                           WIDTH="1934"
                           VPOS="1870"
                           HPOS="489"
-                          CONTENT="cccliiii expletur et vocatur communis Quartus qui embolismus graece dicitur id est super¬"/>
+                          CONTENT="cccliiii expletur et uocatur communis Quartus qui embolismus grece dicitur id est super"/>
                </TextLine>
                <TextLine ID="tr_3_tl_9"
                          BASELINE="507,1976 546,1973 591,1973 635,1973 680,1973 725,1973 770,1976 815,1976 859,1979 904,1979 949,1982 994,1982 1039,1982 1083,1985 1128,1985 1173,1988 1218,1991 1262,1991 1307,1991 1352,1994 1397,1994 1442,1991 1486,1991 1531,1991 1576,1991 1621,1991 1665,1988 1710,1985 1755,1988 1800,1985 1845,1985 1889,1985 1934,1985 1979,1988 2024,1985 2069,1982 2113,1985 2158,1982 2203,1982 2248,1982 2292,1982 2337,1979 2382,1976 2427,1970"
@@ -405,7 +405,7 @@
                           WIDTH="1926"
                           VPOS="1929"
                           HPOS="494"
-                          CONTENT="augmentum et habet xiii menses i dies ccclxxxiiii Quintus est dum luna per xviiii an¬"/>
+                          CONTENT="augmentum et habet xiii menses i dies ccclxxxiiii Quintus est dum luna per xviiii an"/>
                </TextLine>
                <TextLine ID="tr_6_tl_1"
                          BASELINE="501,2039 504,2039 549,2039 594,2039 638,2039 683,2039 728,2042 773,2042 818,2042 862,2045 907,2045 952,2042 997,2045 1041,2045 1086,2045 1131,2045 1176,2048 1221,2051 1265,2051 1310,2051 1355,2051 1400,2051 1445,2048 1489,2048 1534,2048 1579,2048 1624,2045 1668,2045 1713,2045 1758,2045 1803,2045 1848,2045 1892,2045 1937,2048 1982,2048 2027,2048 2072,2045 2116,2048 2161,2048 2206,2048 2251,2045 2295,2045 2340,2042 2385,2039 2430,2033"
@@ -418,7 +418,7 @@
                           WIDTH="1936"
                           VPOS="1985"
                           HPOS="487"
-                          CONTENT="nos etiam saltu transacto ad easdem recurrit aetates Sextus annus est secundum stel¬"/>
+                          CONTENT="nos etiam saltu transacto ad easdem recurrit aetates Sextus annus est secundum stel"/>
                </TextLine>
                <TextLine ID="tr_6_tl_2"
                          BASELINE="510,2098 519,2098 564,2095 609,2095 653,2098 698,2098 743,2101 788,2101 832,2101 877,2104 922,2104 967,2104 1012,2104 1056,2104 1101,2104 1146,2104 1191,2107 1236,2107 1280,2107 1325,2107 1370,2107 1415,2110 1459,2110 1504,2107 1549,2107 1594,2104 1639,2104 1683,2104 1728,2104 1773,2104 1818,2104 1863,2104 1907,2107 1952,2107 1997,2104 2042,2104 2086,2104 2131,2104 2176,2104 2221,2104 2266,2104 2310,2101 2355,2098 2400,2095 2445,2089"
@@ -431,7 +431,7 @@
                           WIDTH="1945"
                           VPOS="2043"
                           HPOS="497"
-                          CONTENT="lam quae vocatur mercurius qui cccxxxviiii diebus expletur Septimus annus est secundum stel¬"/>
+                          CONTENT="lam que uocatur mercurius qui cccxxxviiii diebus expletur Septimus annus est secundum stel"/>
                </TextLine>
                <TextLine ID="tr_6_tl_3"
                          BASELINE="507,2158 516,2161 561,2161 606,2161 650,2164 695,2164 740,2164 785,2164 830,2164 874,2167 919,2167 964,2167 1009,2167 1053,2167 1098,2167 1143,2167 1188,2167 1233,2170 1277,2167 1322,2170 1367,2167 1412,2167 1456,2170 1501,2170 1546,2167 1591,2164 1636,2164 1680,2164 1725,2167 1770,2167 1815,2167 1860,2167 1904,2170 1949,2170 1994,2170 2039,2167 2083,2167 2128,2167 2173,2167 2218,2164 2263,2164 2307,2164 2352,2161 2397,2152"
@@ -444,7 +444,7 @@
                           WIDTH="1897"
                           VPOS="2106"
                           HPOS="494"
-                          CONTENT="lam quae vocatur venus qui cccxlviii diebus expletur Octavus annus est solaris cum sol"/>
+                          CONTENT="lam que uocatur uenus qui cccxlviii diebus expletur Octauus annus est solaris cum sol"/>
                </TextLine>
                <TextLine ID="tr_6_tl_4"
                          BASELINE="510,2221 516,2221 561,2224 606,2224 650,2224 695,2224 740,2227 785,2227 830,2224 874,2224 919,2224 964,2227 1009,2227 1053,2227 1098,2227 1143,2227 1188,2227 1233,2227 1277,2224 1322,2227 1367,2227 1412,2224 1456,2227 1501,2224 1546,2224 1591,2224 1636,2224 1680,2224 1725,2227 1770,2227 1815,2227 1860,2230 1904,2230 1949,2230 1994,2227 2039,2227 2083,2230 2128,2230 2173,2230 2218,2227 2263,2227 2307,2224 2352,2218 2397,2215"
@@ -457,7 +457,7 @@
                           WIDTH="1897"
                           VPOS="2165"
                           HPOS="497"
-                          CONTENT="ad eadem loca siderum redit peractis ccclxv diebus et vi horis Nonus est item solaris dum"/>
+                          CONTENT="ad eadem loca syderum redit peractis ccclxv diebus et vi horis Nonus est item solaris dum"/>
                </TextLine>
                <TextLine ID="tr_6_tl_5"
                          BASELINE="507,2281 516,2281 561,2284 606,2286 650,2286 695,2286 740,2289 785,2289 830,2286 874,2286 919,2286 964,2286 1009,2289 1053,2289 1098,2289 1143,2289 1188,2286 1233,2284 1277,2286 1322,2286 1367,2284 1412,2286 1456,2286 1501,2286 1546,2286 1591,2286 1636,2286 1680,2289 1725,2292 1770,2292 1815,2292 1860,2292 1904,2292 1949,2292 1994,2292 2039,2289 2083,2289 2128,2289 2173,2289 2218,2289 2263,2286 2307,2286 2352,2281 2397,2272"
@@ -483,7 +483,7 @@
                           WIDTH="1927"
                           VPOS="2291"
                           HPOS="489"
-                          CONTENT="xxviii annos circulum concurrentium complet Undecimus annus est secundum stellam"/>
+                          CONTENT="xxviii annos circulum concurrentium complet Vndecimus annus est secundum stellam"/>
                </TextLine>
                <TextLine ID="tr_6_tl_7"
                          BASELINE="504,2403 531,2400 576,2403 621,2403 665,2403 710,2403 755,2406 800,2406 844,2406 889,2409 934,2406 979,2409 1024,2409 1068,2406 1113,2409 1158,2409 1203,2409 1247,2412 1292,2412 1337,2412 1382,2412 1427,2412 1471,2412 1516,2412 1561,2415 1606,2418 1651,2415 1695,2415 1740,2415 1785,2415 1830,2415 1874,2415 1919,2412 1964,2412 2009,2409 2054,2406 2098,2406 2143,2406 2188,2406 2233,2406 2278,2406 2322,2403 2367,2403 2412,2397"
@@ -496,7 +496,7 @@
                           WIDTH="1917"
                           VPOS="2347"
                           HPOS="489"
-                          CONTENT="quae vocatur mars qui peractis duobus diei annis constat Duodecimus annus est secundum stellam"/>
+                          CONTENT="que uocatur mars qui peractis duobus diei annis constat Duodecimus annus est secundum stellam"/>
                </TextLine>
                <TextLine ID="tr_6_tl_8"
                          BASELINE="507,2466 519,2469 564,2466 609,2466 653,2466 698,2466 743,2466 788,2466 832,2466 877,2466 922,2469 967,2469 1012,2469 1056,2472 1101,2472 1146,2472 1191,2475 1236,2475 1280,2478 1325,2478 1370,2478 1415,2478 1459,2478 1504,2481 1549,2481 1594,2481 1639,2481 1683,2478 1728,2478 1773,2478 1818,2475 1863,2478 1907,2472 1952,2472 1997,2469 2042,2469 2086,2469 2131,2466 2176,2469 2221,2469 2266,2466 2310,2466 2355,2466 2400,2463"
@@ -509,7 +509,7 @@
                           WIDTH="1900"
                           VPOS="2418"
                           HPOS="494"
-                          CONTENT="quae vocatur iovis qui peractis xii annis inpletur Xiiius annus est secundum stellam que vo¬"/>
+                          CONTENT="que uocatur iouis qui peractis xii annis inpletur Xiiius annus est secundum stellam que uo"/>
                </TextLine>
                <TextLine ID="tr_5_tl_1"
                          BASELINE="510,2528 528,2531 573,2531 618,2531 662,2531 707,2528 752,2528 797,2528 841,2525 886,2528 931,2531 976,2531 1021,2534 1065,2534 1110,2534 1155,2537 1200,2537 1245,2537 1289,2540 1334,2543 1379,2543 1424,2543 1468,2543 1513,2543 1558,2543 1603,2540 1648,2540 1692,2540 1737,2537 1782,2534 1827,2534 1871,2531 1916,2531 1961,2531 2006,2531 2051,2531 2095,2531 2140,2528 2185,2531 2230,2528 2275,2531 2319,2531 2364,2531 2409,2522"
@@ -535,7 +535,7 @@
                           WIDTH="1934"
                           VPOS="2545"
                           HPOS="489"
-                          CONTENT="iubebatur populo dei a rurali opere vacare Xviᷓ species anni est iubelei qui est annus"/>
+                          CONTENT="iubebatur populo dei a rurali opere uacare Xviᷓ species anni est iubelei qui est annus"/>
                </TextLine>
                <TextLine ID="tr_5_tl_3"
                          BASELINE="501,2645 507,2645 552,2648 597,2648 641,2651 686,2654 731,2654 776,2654 821,2654 865,2654 910,2654 955,2654 1000,2654 1044,2654 1089,2657 1134,2660 1179,2660 1224,2660 1268,2660 1313,2660 1358,2660 1403,2657 1448,2657 1492,2654 1537,2654 1582,2651 1627,2651 1671,2651 1716,2651 1761,2648 1806,2648 1851,2648 1895,2648 1940,2648 1985,2648 2030,2648 2075,2648 2119,2648 2164,2645 2209,2645 2254,2648 2298,2648 2343,2648 2388,2642 2433,2633"
@@ -548,7 +548,7 @@
                           WIDTH="1941"
                           VPOS="2596"
                           HPOS="487"
-                          CONTENT="remissionis et L impletur annis Xviius annus est qui vocatur magnus annus planetarum"/>
+                          CONTENT="remissionis et L impletur annis Xviius annus est qui uocatur magnus annus planetarum"/>
                </TextLine>
                <TextLine ID="tr_5_tl_4"
                          BASELINE="501,2701 546,2704 591,2707 635,2710 680,2710 725,2713 770,2713 815,2713 859,2713 904,2716 949,2716 994,2713 1039,2713 1083,2716 1128,2716 1173,2716 1218,2716 1262,2716 1307,2716 1352,2716 1397,2713 1442,2713 1486,2713 1531,2710 1576,2710 1621,2710 1665,2710 1710,2710 1755,2710 1800,2707 1845,2707 1889,2704 1934,2704 1979,2707 2024,2707 2069,2707 2113,2707 2158,2707 2203,2707 2248,2710 2292,2710 2337,2710 2382,2704 2412,2704"
@@ -561,7 +561,7 @@
                           WIDTH="1921"
                           VPOS="2657"
                           HPOS="487"
-                          CONTENT="dum omnia sidera ad locum revertuntur ubi primum statuta fuerunt et dxxxii"/>
+                          CONTENT="dum omnia sydera ad locum reuertuntur ubi primum statuta fuerunt et dxxxii"/>
                </TextLine>
                <TextLine ID="tr_5_tl_5"
                          BASELINE="510,2764 555,2767 600,2767 644,2767 689,2773 734,2773 779,2773 824,2776 868,2776 913,2779 958,2779 1003,2779 1047,2776 1092,2776 1137,2773 1182,2773 1227,2773 1271,2773 1316,2770 1361,2770 1406,2770 1451,2770 1495,2770 1540,2773 1585,2773 1630,2773 1674,2773 1719,2773 1764,2773 1809,2773 1854,2773 1898,2773 1943,2770 1988,2770 2033,2770 2078,2770 2122,2767 2167,2770 2212,2770 2257,2770 2301,2770 2346,2770 2391,2764 2406,2764"
@@ -574,7 +574,7 @@
                           WIDTH="1904"
                           VPOS="2713"
                           HPOS="497"
-                          CONTENT="annis impletur De mundano anno qui quindecim milibus solarium confi¬"/>
+                          CONTENT="annis impletur De mundano anno qui quindecim milibus solarium confi"/>
                </TextLine>
                <TextLine ID="tr_5_tl_6"
                          BASELINE="519,2824 537,2824 582,2827 626,2833 671,2833 716,2836 761,2836 806,2839 850,2839 895,2842 940,2842 985,2845 1030,2845 1074,2842 1119,2839 1164,2839 1209,2836 1253,2833 1298,2833 1343,2830 1388,2830 1433,2833 1477,2833 1522,2833 1567,2836 1612,2836 1657,2836 1701,2836 1746,2839 1791,2839 1836,2836 1880,2836 1925,2833 1970,2833 2015,2833 2060,2833 2104,2830 2149,2830 2194,2830 2239,2830 2284,2830 2328,2830 2373,2824 2418,2818"
@@ -600,7 +600,7 @@
                           WIDTH="1875"
                           VPOS="2829"
                           HPOS="575"
-                          CONTENT="Annus non is solus est quem nunc communis omnium usus appellat exponentis ac senacae"/>
+                          CONTENT="Annus non is solus est quem nec communis omnium usus appellat exponentis ac senacę"/>
                </TextLine>
                <TextLine ID="tr_5_tl_8"
                          BASELINE="576,2946 606,2946 650,2946 695,2946 740,2946 785,2949 830,2952 874,2955 919,2955 964,2958 1009,2958 1053,2958 1098,2958 1143,2955 1188,2952 1233,2952 1277,2949 1322,2946 1367,2943 1412,2943 1456,2946 1501,2946 1546,2946 1591,2946 1636,2946 1680,2949 1725,2952 1770,2949 1815,2949 1860,2949 1904,2949 1949,2949 1994,2949 2039,2946 2083,2946 2128,2946 2173,2946 2218,2946 2263,2946 2307,2946 2352,2940 2397,2934 2442,2925"
@@ -613,7 +613,7 @@
                           WIDTH="1873"
                           VPOS="2878"
                           HPOS="562"
-                          CONTENT="sed singulorum seu luminum seu stellarum emenso omni caeli philosophorum aucto¬"/>
+                          CONTENT="sed singulorum seu luminum seu stellarum emenso omni celi philosophorum aucto"/>
                </TextLine>
                <TextLine ID="tr_4_tl_1"
                          BASELINE="2245,3006 2248,3009 2292,3006 2337,3000 2382,2991 2427,2982"
@@ -626,7 +626,7 @@
                           WIDTH="199"
                           VPOS="2949"
                           HPOS="2226"
-                          CONTENT="ritas"/>
+                          CONTENT="ritas"/>
                </TextLine>
             </TextBlock>
          </PrintSpace>

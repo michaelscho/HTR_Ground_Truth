@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.9.0:model_id=46502:lm=none:date=14_01_2023_12:43</Creator>
         <Created>2023-01-14T12:01:27.503+01:00</Created>
-        <LastChange>2023-01-29T19:59:55.232+01:00</LastChange>
-        <TranskribusMetadata docId="1314923" pageId="51972130" pageNr="101" tsid="112107991" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=KKWLQJPWIXJEVQZFLXEWFSUV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ENRXCNYVGIZXIYHGLIARKBSH" imageId="42173246"/>
+        <LastChange>2023-01-31T16:19:56.120+01:00</LastChange>
+        <TranskribusMetadata docId="1314923" pageId="51972130" pageNr="101" tsid="112562082" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=KKWLQJPWIXJEVQZFLXEWFSUV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XCJAPLSNACAFRDZOWRAOOXYD" imageId="42173246"/>
     </Metadata>
     <Page imageFilename="00101.jpg" imageWidth="1422" imageHeight="2435">
         <ReadingOrder>
-            <OrderedGroup id="ro_1675084456279" caption="Regions reading order">
+            <OrderedGroup id="ro_1675188007644" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1673703636250_62"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -18,7 +18,7 @@
                 <Coords points="125,275 342,217 1277,232 1277,175 1092,149 1028,182 125,161"/>
                 <Baseline points="133,215 163,219 193,221 223,219 253,217 283,213 313,213 343,211 373,211 403,209 433,207 463,207 493,209 523,207 553,207 583,207 613,207 643,207 673,209 703,207 733,207 763,209 793,207 823,209 853,209 883,211 913,213 943,213 973,213 1003,213 1033,213 1063,215 1093,217 1123,219 1153,221 1183,223 1213,225 1243,223 1273,221 1279,223"/>
                 <TextEquiv>
-                    <Unicode>Qui tempestatum serenitaterisue praesagia inuestigare et depraehemdere nititur</Unicode>
+                    <Unicode>Qui tempestatum serenitatesue praesagia inuestigare et depraehemdere nititur</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_5" custom="readingOrder {index:1;}">
@@ -53,7 +53,7 @@
                 <Coords points="106,539 1251,532 1250,491 1138,475 105,497"/>
                 <Baseline points="115,523 145,523 175,521 205,521 235,517 265,517 295,515 325,519 355,519 385,517 415,517 445,519 475,519 505,519 535,519 565,519 595,519 625,519 655,519 685,519 715,519 745,519 775,519 805,517 835,519 865,519 895,519 925,521 955,521 985,521 1015,521 1045,521 1075,521 1105,521 1135,521 1165,521 1195,521 1225,519 1255,517"/>
                 <TextEquiv>
-                    <Unicode>uenerimt et pluuias Cum occidentis aut orientis radii uidentur coire</Unicode>
+                    <Unicode>uenerint et pluuias Cum occidentis aut orientis radii uidentur coire</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_2_tl_2" custom="readingOrder {index:6;}">
@@ -116,7 +116,7 @@
                 <Coords points="111,1083 1261,1122 1259,1065 1051,1043 109,1019"/>
                 <Baseline points="119,1077 149,1077 179,1077 209,1077 239,1075 269,1077 299,1077 329,1077 359,1077 389,1077 419,1075 449,1075 479,1075 509,1075 539,1077 569,1077 599,1077 629,1079 659,1079 689,1081 719,1081 749,1081 779,1083 809,1083 839,1083 869,1083 899,1085 929,1089 959,1089 989,1089 1019,1089 1049,1089 1079,1091 1109,1091 1139,1093 1169,1095 1199,1095 1229,1095 1259,1093 1263,1091"/>
                 <TextEquiv>
-                    <Unicode>Si nubes solem cricumcludunt quanto minus luminis relinqunt tanto tur</Unicode>
+                    <Unicode>Si nubes solem circumcludunt quanto minus luminis relinqunt tanto tur</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_3" custom="readingOrder {index:15;}">
@@ -158,7 +158,7 @@
                 <Coords points="106,1460 492,1504 1292,1475 1291,1429 1241,1422 106,1417"/>
                 <Baseline points="115,1457 145,1457 175,1457 205,1455 235,1457 265,1457 295,1457 325,1457 355,1459 385,1461 415,1461 445,1463 475,1463 505,1465 535,1465 565,1463 595,1467 625,1465 655,1467 685,1467 715,1465 745,1467 775,1467 805,1467 835,1467 865,1465 895,1467 925,1467 955,1465 985,1465 1015,1465 1045,1463 1075,1465 1105,1463 1135,1463 1165,1463 1195,1467 1225,1467 1255,1465 1285,1465 1295,1465"/>
                 <TextEquiv>
-                    <Unicode>dabit Si in ortu longe radios per nubes porriget et medius erit inanis pluuriam</Unicode>
+                    <Unicode>dabit Si in ortu longe radios per nubes porriget et medius erit inanis pluuiam</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_3_tl_4" custom="readingOrder {index:21;}">
@@ -207,7 +207,7 @@
                 <Coords points="117,1929 878,1938 1172,1915 1185,1862 118,1877"/>
                 <Baseline points="125,1919 139,1917 169,1917 199,1917 229,1917 259,1917 289,1917 319,1917 349,1919 379,1919 409,1921 439,1921 469,1921 499,1921 529,1921 559,1921 589,1921 619,1919 649,1917 679,1915 709,1913 739,1911 769,1909 799,1909 829,1909 859,1907 889,1905 919,1901 949,1899 979,1899 1009,1895 1039,1895 1069,1895 1099,1897 1129,1895 1159,1895 1189,1891"/>
                 <TextEquiv>
-                    <Unicode>Si rubicunda uentos Si nigra pluurias portendere creditur Si in xv</Unicode>
+                    <Unicode>Si rubicunda uentos Si nigra pluuias portendere creditur Si in xv</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_4_tl_2" custom="readingOrder {index:28;}">
@@ -221,7 +221,7 @@
                 <Coords points="114,2040 665,2067 746,2026 1258,2012 1259,1959 1221,1958 115,1987"/>
                 <Baseline points="123,2027 151,2027 181,2029 211,2029 241,2031 271,2033 301,2033 331,2035 361,2035 391,2035 421,2037 451,2037 481,2039 511,2037 541,2037 571,2035 601,2033 631,2031 661,2031 691,2027 721,2025 751,2023 781,2023 811,2021 841,2021 871,2019 901,2019 931,2017 961,2017 991,2015 1021,2013 1051,2011 1081,2009 1111,2009 1141,2007 1171,2007 1201,2003 1231,2001 1261,1999"/>
                 <TextEquiv>
-                    <Unicode>Quarta tamen maxime cornu eius sepemtrionale acuminatum atque rigidum</Unicode>
+                    <Unicode>Quarta tamen maxime cornu eius sepentrionale acuminatum atque rigidum</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_4_tl_4" custom="readingOrder {index:30;}">
@@ -239,12 +239,12 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Qui tempestatum serenitaterisue praesagia inuestigare et depraehemdere nititur&#13;
+                <Unicode>Qui tempestatum serenitatesue praesagia inuestigare et depraehemdere nititur&#13;
 his indiciis innitatur Sol purus oriens sed non feruens serenum diem nuntiat&#13;
 at hibernus pallidus grandinem Si et occidit pridie serenus et oritur tanto&#13;
 cercior fides serenitatis Concauus oriens pluuias praedicit Idem uentos&#13;
 cum ante exorientem eum nubes rubescunt Quod si et nigre rubentibus inter&#13;
-uenerimt et pluuias Cum occidentis aut orientis radii uidentur coire&#13;
+uenerint et pluuias Cum occidentis aut orientis radii uidentur coire&#13;
 pluuias Si circa occidentem rubescunt nubes serenitatem diei futuri&#13;
 spondent Si in ortu spargentur partim ad austrum partim ad aquilonem pura&#13;
 circa eum serenitas licet sit pluuam tamen uentosam significabit&#13;
@@ -253,22 +253,22 @@ aut radii nubem in se trahunt asperam in proximum diem tempestatem significabit�
 Cum in oriente radii non illustres eminebunt quamuis circumda nubes non sint.&#13;
 pluuiam portendunt Si ante exortum nubes globabuntur hiemem aspertinam&#13;
 denuntiabunt Si ab ortu repellentur et ad occasum abibunt serenitatem&#13;
-Si nubes solem cricumcludunt quanto minus luminis relinqunt tanto tur&#13;
+Si nubes solem circumcludunt quanto minus luminis relinqunt tanto tur&#13;
 bidior tempestas erit Si uero etiam duplex orbis fuerit eo atrotior Quod&#13;
 si in exortu aut in occasu fiet ita ut rubescant nubes maxima osten&#13;
 ditur tempestas Si non ambibunt sed imcumbent a quocumque uento fuerint&#13;
 eum portendent si a meridie et imbrem Si oriens cingetur orbe ex qua parte&#13;
 is se ruperit exspectetur uentus Si totus defluxerit equaliter serenitatem&#13;
-dabit Si in ortu longe radios per nubes porriget et medius erit inanis pluuriam&#13;
+dabit Si in ortu longe radios per nubes porriget et medius erit inanis pluuiam&#13;
 significabit Si ante ortum radii se ostendent aquam et uentum Si circa occiden&#13;
 tem candidus circulus erit noctis lenem tempestatem si nebula uehementiorem&#13;
 si cadente sole uentum Si ater circulus fuerit ex qua regione is se ruperit&#13;
 uentum magnum&#13;
 Proxima sunt iure lune praesagia Quartam eam maxime obseruat&#13;
 egyptus Si splendens exorta puro nitore fulserit serenitatem&#13;
-Si rubicunda uentos Si nigra pluurias portendere creditur Si in xv&#13;
+Si rubicunda uentos Si nigra pluuias portendere creditur Si in xv&#13;
 cornua habuerit obtusa pluuiam Erecta et infesta uentos semper significant&#13;
-Quarta tamen maxime cornu eius sepemtrionale acuminatum atque rigidum&#13;
+Quarta tamen maxime cornu eius sepentrionale acuminatum atque rigidum&#13;
 illum praesagit uentum Inferius austrum utraque recta noctem uentosam&#13;
 Si quartam orbis rutilus cingebit et uentos et imbres praemonebit</Unicode>
             </TextEquiv>

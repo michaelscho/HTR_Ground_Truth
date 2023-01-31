@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.9.0:model_id=46502:lm=none:date=14_01_2023_12:43</Creator>
         <Created>2023-01-14T12:01:27.584+01:00</Created>
-        <LastChange>2023-01-30T21:04:39.223+01:00</LastChange>
-        <TranskribusMetadata docId="1318063" pageId="52063605" pageNr="102" tsid="112413065" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=GNQTGXGLZHNXMEVSNPPLXEZA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OCWMUCGQNSBWJQGIUCAHFGGS" imageId="42173247"/>
+        <LastChange>2023-01-31T16:02:41.704+01:00</LastChange>
+        <TranskribusMetadata docId="1318063" pageId="52063605" pageNr="102" tsid="112561189" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=GNQTGXGLZHNXMEVSNPPLXEZA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RFEHRLHWSSBCMUXRRYRQZYMI" imageId="42173247"/>
     </Metadata>
     <Page imageFilename="00102.jpg" imageWidth="1422" imageHeight="2374">
         <ReadingOrder>
-            <OrderedGroup id="ro_1675109369972" caption="Regions reading order">
+            <OrderedGroup id="ro_1675188030709" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1673703663331_69"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -67,7 +67,7 @@
                 <Coords points="143,660 982,624 1296,657 1298,592 1243,580 145,602"/>
                 <Baseline points="152,652 162,652 192,650 222,648 252,646 282,646 312,644 342,644 372,642 402,642 432,640 462,644 492,644 522,644 552,644 582,642 612,640 642,638 672,636 702,634 732,634 762,632 792,632 822,630 852,628 882,626 912,624 942,624 972,624 1002,624 1032,628 1062,628 1092,630 1122,628 1152,628 1182,630 1212,628 1242,630 1272,630 1302,630"/>
                 <TextEquiv>
-                    <Unicode>crescens dabit Si inferiore ante plenilunium Si in media nigricia</Unicode>
+                    <Unicode>crescens dabit Si inferiore ante plenilunium Si in media nigritia</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_6_tl_4" custom="readingOrder {index:8;}">
@@ -109,7 +109,7 @@
                 <Coords points="176,1053 819,1022 1299,1051 1312,985 177,988"/>
                 <Baseline points="184,1038 204,1036 234,1036 264,1034 294,1032 324,1034 354,1034 384,1034 414,1034 444,1036 474,1036 504,1034 534,1032 564,1032 594,1030 624,1028 654,1028 684,1026 714,1026 744,1024 774,1022 804,1022 834,1024 864,1022 894,1022 924,1022 954,1022 984,1022 1014,1020 1044,1020 1074,1018 1104,1016 1134,1016 1164,1016 1194,1016 1224,1016 1254,1016 1284,1016 1314,1016"/>
                 <TextEquiv>
-                    <Unicode>praesagiet Sunt et ipsius lune octo circuli quotiens in angulos solidi inci¬</Unicode>
+                    <Unicode>praesagiet Sunt et ipsius lunae octo circuli quotiens in angulos solis inci¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_2_tl_6" custom="readingOrder {index:14;}">
@@ -130,7 +130,7 @@
                 <Coords points="248,1237 1309,1230 1311,1159 249,1180"/>
                 <Baseline points="258,1222 264,1220 294,1222 324,1222 354,1220 384,1220 414,1218 444,1220 474,1220 504,1218 534,1218 564,1216 594,1216 624,1214 654,1214 684,1212 714,1212 744,1210 774,1210 804,1210 834,1210 864,1212 894,1212 924,1212 954,1212 984,1212 1014,1212 1044,1212 1074,1212 1104,1214 1134,1214 1164,1214 1194,1212 1224,1212 1254,1210 1284,1208 1314,1208"/>
                 <TextEquiv>
-                    <Unicode>ERTIO loco stellarum observationem esse oportet discurrere he viden¬</Unicode>
+                    <Unicode>ERTIO loco stellarum observationem esse oportet discurrere hae viden¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_4_tl_2" custom="readingOrder {index:17;}">
@@ -151,14 +151,14 @@
                 <Coords points="193,1416 1292,1408 1292,1340 193,1355"/>
                 <Baseline points="202,1400 216,1400 246,1398 276,1396 306,1396 336,1396 366,1394 396,1392 426,1392 456,1390 486,1390 516,1390 546,1390 576,1390 606,1390 636,1390 666,1388 696,1388 726,1388 756,1388 786,1390 816,1392 846,1390 876,1390 906,1392 936,1392 966,1392 996,1394 1026,1394 1056,1394 1086,1394 1116,1396 1146,1396 1176,1396 1206,1396 1236,1392 1266,1394 1296,1394"/>
                 <TextEquiv>
-                    <Unicode>proposuimus auttumnum serenum praesagiabitur frigidum Si ver et aestas</Unicode>
+                    <Unicode>proposuimus autumnum serenum praesagiabitur frigidum Si ver et aestas</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_4_tl_5" custom="readingOrder {index:20;}">
                 <Coords points="204,1463 1324,1476 1289,1399 1156,1432 204,1408"/>
                 <Baseline points="212,1454 216,1456 246,1456 276,1456 306,1456 336,1458 366,1458 396,1458 426,1458 456,1460 486,1458 516,1460 546,1458 576,1458 606,1460 636,1460 666,1460 696,1458 726,1458 756,1458 786,1458 816,1458 846,1458 876,1460 906,1460 936,1460 966,1460 996,1460 1026,1460 1056,1462 1086,1462 1116,1462 1146,1460 1176,1458 1206,1458 1236,1458 1266,1456 1296,1454 1326,1452"/>
                 <TextEquiv>
-                    <Unicode>non sinus refrigerio aliquo transierit autumnum serenum ac densum mi¬</Unicode>
+                    <Unicode>non sine refrigerio aliquo transierit autumnum serenum ac densum mi¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_1" custom="readingOrder {index:21;}">
@@ -186,49 +186,49 @@
                 <Coords points="216,1732 1301,1721 1301,1667 1256,1659 216,1674"/>
                 <Baseline points="224,1710 254,1708 284,1708 314,1706 344,1706 374,1706 404,1706 434,1704 464,1704 494,1704 524,1702 554,1702 584,1702 614,1702 644,1704 674,1704 704,1706 734,1706 764,1706 794,1706 824,1706 854,1706 884,1706 914,1706 944,1706 974,1708 1004,1708 1034,1710 1064,1710 1094,1712 1124,1712 1154,1712 1184,1712 1214,1712 1244,1712 1274,1710 1304,1706"/>
                 <TextEquiv>
-                    <Unicode>res stelle videbuntur quo feruntur albescentes ventos ex his</Unicode>
+                    <Unicode>res stellae videbuntur quo feruntur albescentes ventos ex his</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_5" custom="readingOrder {index:25;}">
                 <Coords points="218,1797 1317,1782 1280,1717 986,1754 717,1723 574,1752 379,1707 218,1732"/>
                 <Baseline points="226,1780 240,1778 270,1776 300,1776 330,1776 360,1778 390,1778 420,1778 450,1778 480,1780 510,1778 540,1778 570,1778 600,1780 630,1780 660,1780 690,1782 720,1782 750,1782 780,1782 810,1784 840,1784 870,1784 900,1782 930,1782 960,1782 990,1784 1020,1786 1050,1786 1080,1786 1110,1786 1140,1786 1170,1784 1200,1784 1230,1784 1260,1780 1290,1776 1320,1774"/>
                 <TextEquiv>
-                    <Unicode>partibus nuntiabit aut si cura stabit certos si id in pluribus</Unicode>
+                    <Unicode>partibus nuntiabunt aut si cura stabunt certos si id in pluribus</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_6" custom="readingOrder {index:26;}">
                 <Coords points="220,1853 1302,1859 1318,1780 218,1797"/>
                 <Baseline points="228,1829 260,1830 290,1828 320,1830 350,1832 380,1832 410,1830 440,1832 470,1834 500,1834 530,1834 560,1834 590,1834 620,1834 650,1834 680,1834 710,1836 740,1838 770,1838 800,1838 830,1838 860,1838 890,1840 920,1840 950,1840 980,1840 1010,1842 1040,1842 1070,1842 1100,1840 1130,1840 1160,1840 1190,1840 1220,1838 1250,1836 1280,1836 1310,1836 1324,1836"/>
                 <TextEquiv>
-                    <Unicode>partibus fiet incostantes ventos et undique Si stellarum errantium aliqua</Unicode>
+                    <Unicode>partibus fiet incostantes ventos et undique Si stellarum errantium aliquam</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_7" custom="readingOrder {index:27;}">
                 <Coords points="210,1894 1323,1898 1323,1856 1182,1847 210,1850"/>
                 <Baseline points="218,1884 246,1884 276,1884 306,1884 336,1884 366,1884 396,1884 426,1884 456,1882 486,1884 516,1884 546,1882 576,1884 606,1884 636,1884 666,1886 696,1886 726,1888 756,1890 786,1892 816,1892 846,1894 876,1894 906,1894 936,1894 966,1896 996,1896 1026,1898 1056,1898 1086,1898 1116,1898 1146,1898 1176,1898 1206,1898 1236,1894 1266,1890 1296,1888 1326,1882"/>
                 <TextEquiv>
-                    <Unicode>orbis incluserit imbrem Sunt in signo cancri due stelle parve</Unicode>
+                    <Unicode>orbis incluserit imbrem Sunt in signo cancri duae stellae parvae</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_1_tl_8" custom="readingOrder {index:28;}">
                 <Coords points="210,1956 1342,1956 1311,1896 208,1896"/>
                 <Baseline points="216,1940 246,1940 276,1940 306,1942 336,1942 366,1942 396,1942 426,1940 456,1940 486,1940 516,1940 546,1942 576,1942 606,1942 636,1944 666,1944 696,1944 726,1944 756,1948 786,1948 816,1948 846,1948 876,1950 906,1950 936,1950 966,1952 996,1952 1026,1954 1056,1954 1086,1954 1116,1954 1146,1954 1176,1954 1206,1952 1236,1950 1266,1946 1296,1944 1326,1940 1344,1940"/>
                 <TextEquiv>
-                    <Unicode>aselle appellate exiguum inter illas spatium obtinentem nubecu¬</Unicode>
+                    <Unicode>aselle appellate exiguum inter illas spatium optinentem nubecu¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_1" custom="readingOrder {index:29;}">
                 <Coords points="205,2036 1252,2027 1252,1983 1100,1958 205,1955"/>
                 <Baseline points="214,2014 236,2016 266,2016 296,2020 326,2020 356,2020 386,2020 416,2018 446,2016 476,2016 506,2014 536,2012 566,2012 596,2014 626,2014 656,2016 686,2018 716,2016 746,2018 776,2016 806,2018 836,2018 866,2018 896,2018 926,2020 956,2020 986,2022 1016,2024 1046,2024 1076,2024 1106,2022 1136,2022 1166,2020 1196,2018 1226,2016 1256,2012"/>
                 <TextEquiv>
-                    <Unicode>lam quam praesepia appellant Hec cum celo sereno apparere desiit</Unicode>
+                    <Unicode>lam quam praesepia appellant Haec cum caelo sereno apparere desiit</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_2" custom="readingOrder {index:30;}">
                 <Coords points="204,2107 957,2115 1027,2083 1177,2123 1311,2082 1289,2017 1150,2051 548,2021 204,2051"/>
                 <Baseline points="212,2078 234,2082 264,2082 294,2082 324,2082 354,2082 384,2082 414,2080 444,2080 474,2080 504,2080 534,2082 564,2080 594,2082 624,2084 654,2084 684,2084 714,2084 744,2084 774,2084 804,2084 834,2084 864,2084 894,2082 924,2082 954,2082 984,2082 1014,2082 1044,2082 1074,2080 1104,2080 1134,2080 1164,2078 1194,2078 1224,2078 1254,2076 1284,2074 1314,2076"/>
                 <TextEquiv>
-                    <Unicode>atrox hiemps sequitur Si in alteram earum aquiloniam caligo abstulit</Unicode>
+                    <Unicode>atrox hiems sequitur Si in alteram earum aquiloniam caligo abstulit</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_3" custom="readingOrder {index:31;}">
@@ -246,30 +246,30 @@ ra erit dies serenos significabunt si rutila ventos nigrescens imbres&#
 si aliquo orbe nubem incluserit ventos quas eruperit Si gemini orbes cinx¬&#13;
 erint maiorem tempestatem Si tres erunt aut nigri interrupti atque&#13;
 distracti Nascens luna si cornu superiore abatero surget pluvias de¬&#13;
-crescens dabit Si inferiore ante plenilunium Si in media nigricia&#13;
+crescens dabit Si inferiore ante plenilunium Si in media nigritia&#13;
 illa fuerit imbrem in plenilunio Si plena circa se habebit orbem ex&#13;
 qua parte is maxime splendebit ex ea ventum ostendet Si in ortu&#13;
 cornua crassiora fuerint horridam tempestatem Si ante quartam&#13;
 non apparuerit vento favonio flante hiemalis toto mense erit&#13;
 Si xvi vehementius flammea apparuerit asperas tempestates&#13;
-praesagiet Sunt et ipsius lune octo circuli quotiens in angulos solidi inci¬&#13;
+praesagiet Sunt et ipsius lunae octo circuli quotiens in angulos solis inci¬&#13;
 dat plerisque intra eos tantum observantibus praesagia eius Hoc est iiivii&#13;
 xixvxviiiixxiiixxvii et interlunium&#13;
-ERTIO loco stellarum observationem esse oportet discurrere he viden¬&#13;
+ERTIO loco stellarum observationem esse oportet discurrere hae viden¬&#13;
 tur Interdum ventique protinus secuntur in quorum parte ita praesagire opor¬&#13;
 tet Caelum cum aequaliter totum erit splendidum articuli temporum quos&#13;
-proposuimus auttumnum serenum praesagiabitur frigidum Si ver et aestas&#13;
-non sinus refrigerio aliquo transierit autumnum serenum ac densum mi¬&#13;
+proposuimus autumnum serenum praesagiabitur frigidum Si ver et aestas&#13;
+non sine refrigerio aliquo transierit autumnum serenum ac densum mi¬&#13;
 nusque ventosum facient Autumni serenitas ventosam hiemem facit&#13;
 Cum repente stellarum fulgur obscuratur ut id neque nubilo nec cali¬&#13;
 gine accidat graves denuntiant tempestates Si volitare plu¬&#13;
-res stelle videbuntur quo feruntur albescentes ventos ex his&#13;
-partibus nuntiabit aut si cura stabit certos si id in pluribus&#13;
-partibus fiet incostantes ventos et undique Si stellarum errantium aliqua&#13;
-orbis incluserit imbrem Sunt in signo cancri due stelle parve&#13;
-aselle appellate exiguum inter illas spatium obtinentem nubecu¬&#13;
-lam quam praesepia appellant Hec cum celo sereno apparere desiit&#13;
-atrox hiemps sequitur Si in alteram earum aquiloniam caligo abstulit&#13;
+res stellae videbuntur quo feruntur albescentes ventos ex his&#13;
+partibus nuntiabunt aut si cura stabunt certos si id in pluribus&#13;
+partibus fiet incostantes ventos et undique Si stellarum errantium aliquam&#13;
+orbis incluserit imbrem Sunt in signo cancri duae stellae parvae&#13;
+aselle appellate exiguum inter illas spatium optinentem nubecu¬&#13;
+lam quam praesepia appellant Haec cum caelo sereno apparere desiit&#13;
+atrox hiems sequitur Si in alteram earum aquiloniam caligo abstulit&#13;
 auster saevit si austroniam aquilo</Unicode>
             </TextEquiv>
         </TextRegion>

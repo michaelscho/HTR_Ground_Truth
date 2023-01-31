@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.9.0:model_id=46502:lm=none:date=14_01_2023_12:43</Creator>
         <Created>2023-01-14T12:01:27.676+01:00</Created>
-        <LastChange>2023-01-30T12:47:53.741+01:00</LastChange>
-        <TranskribusMetadata docId="1314923" pageId="51972135" pageNr="103" tsid="112290777" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=YLIOCXCCYZFTAWYVHVHNRGKM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=URBQVAFAAXZOWKFYFXBLQOXS" imageId="42173248"/>
+        <LastChange>2023-01-31T16:23:01.483+01:00</LastChange>
+        <TranskribusMetadata docId="1314923" pageId="51972135" pageNr="103" tsid="112562376" status="GT" userId="19940" imgUrl="https://files.transkribus.eu/Get?id=YLIOCXCCYZFTAWYVHVHNRGKM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DDSPBZRJRNXXXIFVBXDCZKVP" imageId="42173248"/>
     </Metadata>
     <Page imageFilename="00103.jpg" imageWidth="1422" imageHeight="2376">
         <ReadingOrder>
-            <OrderedGroup id="ro_1675084456352" caption="Regions reading order">
+            <OrderedGroup id="ro_1675188008345" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="TextRegion_1673703687098_80"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -158,7 +158,7 @@
                 <Coords points="177,1476 1148,1457 1250,1435 1252,1381 586,1396 496,1432 179,1414"/>
                 <Baseline points="186,1468 202,1466 232,1466 262,1466 292,1464 322,1462 352,1462 382,1460 412,1460 442,1460 472,1460 502,1458 532,1460 562,1458 592,1456 622,1454 652,1454 682,1454 712,1454 742,1452 772,1450 802,1450 832,1448 862,1446 892,1446 922,1444 952,1442 982,1442 1012,1442 1042,1440 1072,1440 1102,1438 1132,1436 1162,1434 1192,1432 1222,1430 1252,1428"/>
                 <TextEquiv>
-                    <Unicode>B his terreni ignes proxime significatur Pallidi namque murmuram</Unicode>
+                    <Unicode>B his terreni ignes proxime significant Pallidi namque murmuram</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_2_tl_6" custom="readingOrder {index:21;}">
@@ -228,14 +228,14 @@
                 <Coords points="111,2095 490,2106 1186,2041 1187,2001 1047,1991 735,1997 635,2038 115,2028"/>
                 <Baseline points="120,2076 140,2076 170,2076 200,2076 230,2078 260,2078 290,2078 320,2078 350,2080 380,2078 410,2076 440,2074 470,2072 500,2072 530,2070 560,2070 590,2066 620,2066 650,2064 680,2062 710,2058 740,2056 770,2054 800,2052 830,2050 860,2050 890,2050 920,2046 950,2044 980,2042 1010,2042 1040,2040 1070,2038 1100,2036 1130,2032 1160,2028 1190,2026"/>
                 <TextEquiv>
-                    <Unicode>pestatem Vel maris ipsiuus tranquillus sonitus spumeue disperse aut</Unicode>
+                    <Unicode>pestatem Vel maris ipsius tranquillus sonitus spumeue disperse aut</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tr_5_tl_8" custom="readingOrder {index:31;}">
                 <Coords points="112,2137 178,2179 718,2131 859,2160 1155,2096 1149,2039 509,2106 115,2095"/>
                 <Baseline points="120,2142 140,2142 170,2142 200,2144 230,2146 260,2144 290,2146 320,2144 350,2144 380,2144 410,2144 440,2140 470,2138 500,2134 530,2134 560,2132 590,2132 620,2132 650,2130 680,2126 710,2126 740,2122 770,2118 800,2118 830,2114 860,2112 890,2110 920,2108 950,2106 980,2104 1010,2102 1040,2100 1070,2096 1100,2094 1130,2090 1160,2084"/>
                 <TextEquiv>
-                    <Unicode>aque bullantes plumonesue marini in pelago plurimm dierum</Unicode>
+                    <Unicode>aque bullantes plumonesue marini in pelago plurimum dierum</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -259,7 +259,7 @@ Nube grauida candicante quod uocant tempestatem albam grando&#13;
 imminebit Celo quamuis a sereno nubecula quamuis parua flatum procel&#13;
 losum dabit Nebule montibus descendentes aut celo cadentes uel in&#13;
 uallibus sedentes serenitatem promittent&#13;
-B his terreni ignes proxime significatur Pallidi namque murmuram&#13;
+B his terreni ignes proxime significant Pallidi namque murmuram&#13;
 tesque tempestatum nuntii sentiuntur pluuie iam si in lucernis&#13;
 fungi Si fuxuose uolitet flamma uentum et lumina cum ex sese flam&#13;
 mas elidunt aut vix accenduntur Vel cum in aeno pendentes scintille&#13;
@@ -269,8 +269,8 @@ in foco concrescit et carbo uehementur perlucet&#13;
 ST et aquarum progonstica i praeuisio Mare si tranquillum in por&#13;
 tu cursitabit murmurabitue intra se uentum praedicit Si id&#13;
 hieme et imbrem litora ripeque resonant tranquillo asperam tem&#13;
-pestatem Vel maris ipsiuus tranquillus sonitus spumeue disperse aut&#13;
-aque bullantes plumonesue marini in pelago plurimm dierum</Unicode>
+pestatem Vel maris ipsius tranquillus sonitus spumeue disperse aut&#13;
+aque bullantes plumonesue marini in pelago plurimum dierum</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

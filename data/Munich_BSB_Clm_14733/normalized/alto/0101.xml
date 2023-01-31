@@ -7,7 +7,7 @@
       <MeasurementUnit>pixel</MeasurementUnit>
       <OCRProcessing ID="IdOcr">
          <ocrProcessingStep>
-            <processingDateTime>2023-01-30T21:09:29.963+01:00</processingDateTime>
+            <processingDateTime>2023-01-31T19:00:30.684+01:00</processingDateTime>
             <processingSoftware>
                <softwareCreator>READ COOP</softwareCreator>
                <softwareName>Transkribus</softwareName>
@@ -41,7 +41,7 @@
                           WIDTH="1152"
                           VPOS="149"
                           HPOS="125"
-                          CONTENT="Qui tempestatum serenitaterisve praesagia investigare et depraehendere nititur"/>
+                          CONTENT="Qui tempestatum serenitatisve praesagia investigare et depraehendere nititur"/>
                </TextLine>
                <TextLine ID="tr_1_tl_5"
                          BASELINE="175,279 205,279 235,279 265,279 295,277 325,277 355,277 385,275 415,275 445,275 475,275 505,275 535,275 565,275 595,277 625,275 655,277 685,275 715,275 745,275 775,277 805,277 835,277 865,277 895,279 925,279 955,277 985,277 1015,277 1045,277 1075,279 1105,279 1135,281 1165,283 1195,283 1225,285 1227,285"
@@ -80,7 +80,7 @@
                           WIDTH="1183"
                           VPOS="351"
                           HPOS="109"
-                          CONTENT="cercior fides serenitatis Concavus oriens pluvias praedicit Idem ventos"/>
+                          CONTENT="certior fides serenitatis Concavus oriens pluvias praedicit Idem ventos"/>
                </TextLine>
                <TextLine ID="tr_1_tl_8"
                          BASELINE="117,453 147,453 177,453 207,453 237,453 267,453 297,453 327,455 357,453 387,455 417,453 447,453 477,453 507,455 537,455 567,455 597,455 627,455 657,459 687,459 717,459 747,459 777,457 807,459 837,457 867,459 897,459 927,461 957,461 987,463 1017,461 1047,463 1077,465 1107,467 1137,469 1167,469 1197,469 1227,471 1257,471 1279,471"
@@ -93,7 +93,7 @@
                           WIDTH="1168"
                           VPOS="425"
                           HPOS="108"
-                          CONTENT="cum ante exorientem eum nubes rubescunt Quod si et nigre rubentibus inter¬"/>
+                          CONTENT="cum ante exorientem eum nubes rubescunt Quod si et nigrae rubentibus inter¬"/>
                </TextLine>
                <TextLine ID="tr_2_tl_1"
                          BASELINE="115,523 145,523 175,521 205,521 235,517 265,517 295,515 325,519 355,519 385,517 415,517 445,519 475,519 505,519 535,519 565,519 595,519 625,519 655,519 685,519 715,519 745,519 775,519 805,517 835,519 865,519 895,519 925,521 955,521 985,521 1015,521 1045,521 1075,521 1105,521 1135,521 1165,521 1195,521 1225,519 1255,517"
@@ -145,7 +145,7 @@
                           WIDTH="1126"
                           VPOS="659"
                           HPOS="109"
-                          CONTENT="circa eum serenitas licet sit pluvam tamen ventosam significabit"/>
+                          CONTENT="circa eum serenitas licet sit pluvam tamen ventosam significabunt"/>
                </TextLine>
                <TextLine ID="tr_2_tl_5"
                          BASELINE="117,761 147,763 177,763 207,763 237,763 267,765 297,763 327,763 357,761 387,761 417,761 447,761 477,765 507,765 537,767 567,769 597,771 627,771 657,773 687,775 717,777 747,777 777,777 807,777 837,777 867,777 897,779 927,779 957,779 987,779 1017,781 1047,783 1077,783 1107,783 1137,783 1167,783 1197,785 1227,785 1257,783 1287,783 1301,783"
@@ -171,7 +171,7 @@
                           WIDTH="1224"
                           VPOS="764"
                           HPOS="105"
-                          CONTENT="aut radii nubem in se trahunt asperam in proximum diem tempestatem significabit"/>
+                          CONTENT="aut radii nubem in se trahunt asperam in proximum diem tempestatem significabunt"/>
                </TextLine>
                <TextLine ID="tr_2_tl_7"
                          BASELINE="119,889 149,889 179,889 209,889 239,889 269,889 299,891 329,891 359,891 389,891 419,891 449,893 479,893 509,895 539,895 569,895 599,897 629,899 659,901 689,901 719,901 749,903 779,903 809,903 839,905 869,905 899,905 929,905 959,907 989,907 1019,907 1049,909 1079,911 1109,911 1139,911 1169,913 1199,913 1229,913 1257,913"
@@ -236,7 +236,7 @@
                           WIDTH="1109"
                           VPOS="1090"
                           HPOS="109"
-                          CONTENT="bidior tempestas erit Si vero etiam duplex orbis fuerit eo atrotior Quod"/>
+                          CONTENT="bidior tempestas erit Si vero etiam duplex orbis fuerit eo atrocior Quod"/>
                </TextLine>
                <TextLine ID="tr_5_tl_4"
                          BASELINE="119,1195 149,1197 179,1197 209,1195 239,1195 269,1195 299,1193 329,1193 359,1193 389,1195 419,1195 449,1195 479,1197 509,1199 539,1199 569,1203 599,1203 629,1203 659,1203 689,1203 719,1203 749,1205 779,1205 809,1207 839,1209 869,1209 899,1211 929,1213 959,1213 989,1213 1019,1213 1049,1215 1079,1217 1109,1217 1139,1219 1169,1221 1199,1223 1229,1223 1259,1223"
@@ -262,7 +262,7 @@
                           WIDTH="1125"
                           VPOS="1203"
                           HPOS="108"
-                          CONTENT="ditur tempestas Si non ambibunt sed imcumbent a quocumque vento fuerint"/>
+                          CONTENT="ditur tempestas Si non ambibunt sed incumbent a quocumque vento fuerint"/>
                </TextLine>
                <TextLine ID="tr_3_tl_1"
                          BASELINE="117,1319 147,1319 177,1317 207,1317 237,1317 267,1319 297,1319 327,1321 357,1321 387,1321 417,1323 447,1323 477,1323 507,1321 537,1321 567,1321 597,1321 627,1323 657,1325 687,1327 717,1329 747,1329 777,1333 807,1335 837,1337 867,1339 897,1339 927,1339 957,1341 987,1341 1017,1341 1047,1341 1077,1343 1107,1345 1137,1345 1167,1347 1197,1349 1227,1349 1257,1349 1267,1347"
@@ -366,7 +366,7 @@
                           WIDTH="1102"
                           VPOS="1696"
                           HPOS="131"
-                          CONTENT="Proxima sunt iure lune praesagia Quartam eam maxime observat"/>
+                          CONTENT="Proxima sunt iurae lunae praesagia Quartam eam maximae observat"/>
                </TextLine>
                <TextLine ID="tr_6_tl_4"
                          BASELINE="185,1847 189,1847 219,1849 249,1851 279,1851 309,1853 339,1853 369,1857 399,1857 429,1857 459,1859 489,1859 519,1859 549,1859 579,1859 609,1859 639,1857 669,1857 699,1857 729,1857 759,1855 789,1853 819,1851 849,1853 879,1851 909,1849 939,1847 969,1847 999,1845 1029,1843 1059,1843 1089,1841 1119,1841 1149,1837 1179,1835 1209,1827"
@@ -418,7 +418,7 @@
                           WIDTH="1145"
                           VPOS="1958"
                           HPOS="114"
-                          CONTENT="Quarta tamen maxime cornu eius sepentrionale acuminatum atque rigidum"/>
+                          CONTENT="Quarta tamen maximae cornu eius sepentrionale acuminatum atque rigidum"/>
                </TextLine>
                <TextLine ID="tr_4_tl_4"
                          BASELINE="119,2089 139,2089 169,2091 199,2093 229,2093 259,2095 289,2097 319,2097 349,2097 379,2097 409,2097 439,2099 469,2099 499,2101 529,2099 559,2099 589,2097 619,2097 649,2095 679,2093 709,2091 739,2089 769,2087 799,2085 829,2081 859,2081 889,2079 919,2077 949,2077 979,2073 1009,2071 1039,2069 1069,2067 1099,2063 1129,2061 1159,2059 1189,2057 1219,2053"
